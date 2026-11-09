@@ -1,0 +1,115 @@
+{
+  "source": "GHS_UCDB_MTUC_GLOBE_R2024A_V1_2",
+  "reference_year": 2010,
+  "country_aliases": {
+    "Bahamas": "BHS",
+    "Cabo Verde": "CPV",
+    "China": "CHN",
+    "Curaçao": "NLD",
+    "Czechia": "CZE",
+    "Côte d'Ivoire": "CIV",
+    "French Guiana": "FRA",
+    "French Polynesia": "FRA",
+    "Gambia": "GMB",
+    "Martinique": "FRA",
+    "Mayotte": "FRA",
+    "México": "MEX",
+    "Northern Cyprus": "CYN",
+    "Réunion": "FRA",
+    "São Tomé and Príncipe": "STP",
+    "Timor-Leste": "TLS",
+    "United States": "USA"
+  },
+  "name_overrides": {
+    "3618": {
+      "expected_source_name": "Dnipro",
+      "name": "Dnipropetrovsk",
+      "name_ru": "Днепропетровск",
+      "source_url": "https://www.rada.gov.ua/print/130405.html"
+    },
+    "3461": {
+      "expected_source_name": "Kamianske",
+      "name": "Dniprodzerzhynsk",
+      "name_ru": "Днепродзержинск",
+      "source_url": "https://www.rada.gov.ua/video/131354.html"
+    },
+    "2045": {
+      "expected_source_name": "Gqeberha",
+      "name": "Port Elizabeth",
+      "name_ru": "Порт-Элизабет",
+      "source_url": "https://www.gov.za/news/media-statements/sport-arts-and-culture-transformation-our-heritage-landscape-25-feb-2021"
+    },
+    "8728": {
+      "expected_source_name": "Belagavi",
+      "name": "Belgaum",
+      "name_ru": "Белгаум",
+      "source_url": "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=113433"
+    },
+    "8934": {
+      "expected_source_name": "Mangaluru",
+      "name": "Mangalore",
+      "name_ru": "Мангалор",
+      "source_url": "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=113433"
+    },
+    "8950": {
+      "expected_source_name": "Vijayapura",
+      "name": "Bijapur",
+      "name_ru": "Биджапур",
+      "source_url": "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=113433"
+    },
+    "9064": {
+      "expected_source_name": "Shivamogga",
+      "name": "Shimoga",
+      "name_ru": "Шимога",
+      "source_url": "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=113433"
+    },
+    "9156": {
+      "expected_source_name": "Chikkamagaluru",
+      "name": "Chikmagalur",
+      "name_ru": "Чикмагалур",
+      "source_url": "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=113433"
+    },
+    "9184": {
+      "expected_source_name": "Kalaburagi",
+      "name": "Gulbarga",
+      "name_ru": "Гулбарга",
+      "source_url": "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=113433"
+    },
+    "9194": {
+      "expected_source_name": "Hosapete",
+      "name": "Hospet",
+      "name_ru": "Хоспет",
+      "source_url": "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=113433"
+    },
+    "9330": {
+      "expected_source_name": "Ballari",
+      "name": "Bellary",
+      "name_ru": "Беллари",
+      "source_url": "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=113433"
+    },
+    "9390": {
+      "expected_source_name": "Mysuru",
+      "name": "Mysore",
+      "name_ru": "Майсур",
+      "source_url": "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=113433"
+    },
+    "9462": {
+      "expected_source_name": "Tumakuru",
+      "name": "Tumkur",
+      "name_ru": "Тумкур",
+      "source_url": "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=113433"
+    },
+    "9558": {
+      "expected_source_name": "Bengaluru",
+      "name": "Bangalore",
+      "name_ru": "Бангалор",
+      "source_url": "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=113433"
+    },
+    "2953": {
+      "expected_source_name": "Kropyvnytskyi",
+      "name": "Kirovohrad",
+      "name_ru": "Кировоград",
+      "source_url": "https://zakon.rada.gov.ua/laws/show/1468-19"
+    }
+  }
+}

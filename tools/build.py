@@ -10,6 +10,8 @@ import json
 from collections import defaultdict
 from pathlib import Path
 
+from cities import make_cities, write_city_assets
+
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE = ROOT / "data/vendor/ne_110m_admin_0_countries.geojson"
 
@@ -96,7 +98,7 @@ def project(point, width, height):
     return ((point[0] + 180) * width / 360, (90 - point[1]) * height / 180)
 
 
-def svg_map(settings, world):
+def svg_map(settings, world, cities=None):
     width, height = settings["map"]["width"], settings["map"]["height"]
     result = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} {height}" role="img" aria-labelledby="title desc">',
               '<title id="title">Мир — 1 января 2010</title>',
@@ -129,12 +131,24 @@ def svg_map(settings, world):
             border.append(f"M{x:.2f},{y:.2f}L{xx:.2f},{yy:.2f}")
     result.append(f'<path d="{" ".join(border)}" fill="none" stroke="#172638" stroke-width="0.8"/>')
     result.extend(markers)
+    if cities is not None:
+        result.append('<metadata>City layer: European Union / JRC, GHSL UCDB R2024A V1_2, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Population and geometry: 2010. Names: source 2025 with explicit historical overrides. Modified: reduced, projected and adapted for World 2010. Not a complete census of cities. See docs/CITIES.md.</metadata>')
+        result.append('<text x="20" y="1765" fill="#dce4ec" font-size="16">Города: EU / JRC · GHSL UCDB R2024A V1_2 · CC BY 4.0 · эпоха 2010 · неполный охват</text>')
+        result.append('<g id="cities" fill="#ffe8a3" stroke="#172638" stroke-width="0.35">')
+        for feature in sorted(cities["features"], key=lambda f: f["properties"]["population_2010"]):
+            props = feature["properties"]
+            x, y = project(feature["geometry"]["coordinates"], width, height)
+            radius = min(4, max(0.9, (props["population_2010"] / 100000) ** 0.25))
+            label = html.escape(f'{props["name_ru"] or props["name"]} · {props["country_tag"] or "страна не определена"} · население агломерации 2010: {props["population_2010"]:,}')
+            result.append(f'<circle id="{props["id"]}" cx="{x:.2f}" cy="{y:.2f}" r="{radius:.2f}"><title>{label}</title></circle>')
+        result.append('</g>')
     result.append('</svg>')
     return "\n".join(result) + "\n"
 
 
 def build(output):
     settings, world = make_world()
+    cities, city_report = make_cities(settings, world)
     output.mkdir(parents=True, exist_ok=True)
     def write_json(name, value):
         (output / name).write_text(json.dumps(value, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
@@ -142,6 +156,8 @@ def build(output):
     write_json("scenario.source.json", settings)
     write_json("events.design.json", read_json(ROOT / "data/events.json"))
     (output / "world_2010.svg").write_text(svg_map(settings, world), encoding="utf-8")
+    write_city_assets(output, cities, city_report)
+    (output / "world_2010_cities.svg").write_text(svg_map(settings, world, cities), encoding="utf-8")
     buffer = io.StringIO(newline="")
     writer = csv.writer(buffer)
     writer.writerow(["tag", "name_ru", "name_en", "color", "geometry_status", "blocs"])
@@ -150,13 +166,16 @@ def build(output):
         writer.writerow([p["tag"], p["name_ru"], p["name_en"], p["color"], p["geometry_status"],
                          ";".join(b for b, m in settings["blocs"].items() if p["tag"] in m)])
     (output / "countries.csv").write_text(buffer.getvalue(), encoding="utf-8")
-    files = ["world_2010.geojson", "scenario.source.json", "events.design.json", "world_2010.svg", "countries.csv"]
+    files = ["world_2010.geojson", "scenario.source.json", "events.design.json", "world_2010.svg", "countries.csv",
+             "cities_2010.geojson", "cities_2010.csv", "cities_2010.report.json", "world_2010_cities.svg"]
     write_json("manifest.json", {
         "format": settings["format"], "start_date": settings["start_date"],
         "native_import_ready": False, "polygon_entities": sum(f["geometry"]["type"] != "Point" for f in world["features"]),
+        "urban_centres_2010": len(cities["features"]),
+        "city_source_license": "CC-BY-4.0", "complete_world_city_census": False,
         "point_only_entities": sum(f["geometry"]["type"] == "Point" for f in world["features"]),
         "sha256": {name: hashlib.sha256((output / name).read_bytes()).hexdigest() for name in files}})
-    print(f"Built {len(world['features'])} entities in {output}; native game import: pending")
+    print(f"Built {len(world['features'])} entities and {len(cities['features'])} urban centres in {output}; native game import: pending")
 
 
 if __name__ == "__main__":

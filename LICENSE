@@ -22,3 +22,8 @@ SOFTWARE.
 
 The Natural Earth geographic dataset in data/vendor/ is public domain and
 is not subject to this MIT license. See docs/SOURCES.md for attribution.
+
+The GHSL city dataset in data/vendor/ghsl_mtuc_2010.csv and its derived city
+layers are licensed under Creative Commons Attribution 4.0 International
+(CC BY 4.0), copyright European Union, 1995-2026. These data are not licensed
+under MIT. See docs/CITIES.md for attribution, source links and modifications.

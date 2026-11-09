@@ -6,16 +6,25 @@
   "urban_centres_2010": 9793,
   "city_source_license": "CC-BY-4.0",
   "complete_world_city_census": false,
+  "diplomacy_as_of": "2010-01-01",
+  "diplomacy_pairs": 19503,
+  "diplomacy_file": "diplomacy_2010.json",
+  "relations_file": "relations_2010.csv",
   "point_only_entities": 29,
   "sha256": {
     "world_2010.geojson": "4317d30f041f41163c74b058456113363e1e45fd1cbf6701b6a7354f9adcab9c",
-    "scenario.source.json": "e12470a17f4b380fb409d7d3f69a998a648f4f64327f6f5f56ccf9f046cafd07",
+    "scenario.source.json": "b914b65d50310d93641f84f8cab187a25317475f5420a86c981a02cf53c7cd55",
     "events.design.json": "746db58fc97aa04c60b8936d1477761302e07390f80fdd00f0b56e733b7363c8",
     "world_2010.svg": "2f15b669491b329bc26409616cf081663ba6fceecb055f57d3be20960c58ad8c",
     "countries.csv": "d393b065c5ae81edd5a1d273dc4e529634d656df6fffaa9a9757b76e9affa395",
     "cities_2010.geojson": "1715e9e69cd26685bad34b0bca529480c282de8de20b9b1c4b1e18e75cfb45f0",
     "cities_2010.csv": "ab1d3bafc948d16f6268a0a4a1fb435ecee9941e2d8544d06dcbfaed85ecdfe5",
     "cities_2010.report.json": "fe2fd9a80a261123dcb93dca3a3cd35443d35c804a5fa488c5dea9fa5d407309",
-    "world_2010_cities.svg": "1369aba06e1d79490a59d5696ab75ecd8e3cafa1abaf4483f3af75319042ec0f"
+    "world_2010_cities.svg": "1369aba06e1d79490a59d5696ab75ecd8e3cafa1abaf4483f3af75319042ec0f",
+    "diplomacy_2010.json": "865c4067e7da8301cc9dfc9a08ab09ea1011562ec6b8b71315dd25c75990ec94",
+    "diplomacy_2010.report.json": "cbdeb4d7a17e4febf58c93e5bd80e36d4178aa2b4a4475b3a89540e6604ce804",
+    "relations_2010.csv": "4724fe5d25e1f695f8603d63f2d0bf45421385c72fdd0ab42cd159f487a3c1a3",
+    "formal_treaties_2010.csv": "b0affe10829076dd6ee8cd7b5b0a32f92204eaa798cae8444f8b693957d510e8",
+    "diplomacy_2010.summary.md": "5978fd1ef38fe27dd05088e1c6c67c6a6db6cc6610569e796c762a28d2755b3d"
   }
 }

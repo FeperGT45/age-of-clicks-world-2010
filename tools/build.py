@@ -11,6 +11,7 @@ from collections import defaultdict
 from pathlib import Path
 
 from cities import make_cities, write_city_assets
+from diplomacy import make_diplomacy, write_diplomacy_assets
 
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE = ROOT / "data/vendor/ne_110m_admin_0_countries.geojson"
@@ -149,6 +150,7 @@ def svg_map(settings, world, cities=None):
 def build(output):
     settings, world = make_world()
     cities, city_report = make_cities(settings, world)
+    diplomacy, relations, formal, diplomacy_report = make_diplomacy(settings, world)
     output.mkdir(parents=True, exist_ok=True)
     def write_json(name, value):
         (output / name).write_text(json.dumps(value, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
@@ -157,6 +159,7 @@ def build(output):
     write_json("events.design.json", read_json(ROOT / "data/events.json"))
     (output / "world_2010.svg").write_text(svg_map(settings, world), encoding="utf-8")
     write_city_assets(output, cities, city_report)
+    write_diplomacy_assets(output, diplomacy, relations, formal, diplomacy_report)
     (output / "world_2010_cities.svg").write_text(svg_map(settings, world, cities), encoding="utf-8")
     buffer = io.StringIO(newline="")
     writer = csv.writer(buffer)
@@ -168,11 +171,15 @@ def build(output):
     (output / "countries.csv").write_text(buffer.getvalue(), encoding="utf-8")
     files = ["world_2010.geojson", "scenario.source.json", "events.design.json", "world_2010.svg", "countries.csv",
              "cities_2010.geojson", "cities_2010.csv", "cities_2010.report.json", "world_2010_cities.svg"]
+    files.extend(["diplomacy_2010.json", "diplomacy_2010.report.json", "relations_2010.csv",
+                  "formal_treaties_2010.csv", "diplomacy_2010.summary.md"])
     write_json("manifest.json", {
         "format": settings["format"], "start_date": settings["start_date"],
         "native_import_ready": False, "polygon_entities": sum(f["geometry"]["type"] != "Point" for f in world["features"]),
         "urban_centres_2010": len(cities["features"]),
         "city_source_license": "CC-BY-4.0", "complete_world_city_census": False,
+        "diplomacy_as_of": diplomacy["as_of"], "diplomacy_pairs": len(relations),
+        "diplomacy_file": settings["diplomacy_file"], "relations_file": "relations_2010.csv",
         "point_only_entities": sum(f["geometry"]["type"] == "Point" for f in world["features"]),
         "sha256": {name: hashlib.sha256((output / name).read_bytes()).hexdigest() for name in files}})
     print(f"Built {len(world['features'])} entities and {len(cities['features'])} urban centres in {output}; native game import: pending")

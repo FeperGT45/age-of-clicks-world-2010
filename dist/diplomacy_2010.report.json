@@ -1,0 +1,26 @@
+{
+  "as_of": "2010-01-01",
+  "native_import_ready": false,
+  "countries": 198,
+  "pairs": 19503,
+  "named_agreements": 82,
+  "mutual_defense_arrangements": 9,
+  "trade_arrangements": 67,
+  "votes_2009": 14680,
+  "roll_calls_2009": 84,
+  "un_countries": 192,
+  "cow_dyadic_records": 1596,
+  "cow_treaties": 98,
+  "historical_bilateral_overrides": 23,
+  "estimated_pairs": 17709,
+  "unknown_score_pairs": 1794,
+  "diplomatic_status_not_reviewed": 19489,
+  "objective_bilateral_ratings": false,
+  "exhaustive_trade_treaty_register": false,
+  "un_date_min": "2009-06-30",
+  "un_date_max": "2009-12-24",
+  "mapping_notes": [
+    "unvotes labels COW code 345 as Yugoslavia/YU even in 2009; mapped to Serbia/SRB, not to a fictitious Yugoslavia"
+  ],
+  "coverage_note_ru": "Именованные объединения и выбранные двусторонние договоры сверены для даты старта. Это не полный юридический реестр всех торговых договоров. COW дополнительно даёт формальные договорные связи; ООН — показатель совпадения голосований, не объективный индекс дипломатических отношений."
+}

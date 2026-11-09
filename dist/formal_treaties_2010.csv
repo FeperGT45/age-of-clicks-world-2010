@@ -1,0 +1,1597 @@
+treaty_id,country_a,country_b,source_state_1,source_state_2,defense,neutrality,nonaggression,entente,asymmetric,source_id,observed_start_date,observed_end_date,left_censored,right_censored,legal_scope_individually_reviewed,predecessor_name_present
+1,GBR,PRT,United Kingdom,Portugal,true,false,true,false,false,COW,1816-01-01,,true,true,false,false
+88,BOL,ECU,Ecuador,Bolivia,false,true,true,false,false,COW,1911-04-17,,false,true,false,false
+170,BOL,PRY,Bolivia,Paraguay,false,false,true,false,false,COW,1938-07-21,,false,true,false,false
+185,COL,VEN,Colombia,Venezuela,false,false,true,false,false,COW,1939-12-17,,false,true,false,false
+199,MRT,SOM,Mauritania,Somalia,false,false,true,true,false,COW,1974-01-22,,false,true,false,false
+199,DJI,MRT,Mauritania,Djibouti,false,false,true,true,false,COW,1975-01-22,,false,true,false,false
+199,MAR,MRT,Mauritania,Morocco,false,false,true,true,false,COW,1973-01-22,,false,true,false,false
+199,DZA,MRT,Mauritania,Algeria,false,false,true,true,false,COW,1973-01-22,,false,true,false,false
+199,MRT,TUN,Mauritania,Tunisia,false,false,true,true,false,COW,1973-01-22,,false,true,false,false
+199,LBY,MRT,Mauritania,Libya,false,false,true,true,false,COW,1973-01-22,,false,true,false,false
+199,MRT,SDN,Mauritania,Sudan,false,false,true,true,false,COW,1973-01-22,,false,true,false,false
+199,IRQ,MRT,Mauritania,Iraq,false,false,true,true,false,COW,1973-01-22,,false,true,false,false
+199,EGY,MRT,Mauritania,Egypt,false,false,true,true,false,COW,1989-05-22,,false,true,false,false
+199,MRT,SYR,Mauritania,Syria,false,false,true,true,false,COW,1973-01-22,,false,true,false,false
+199,LBN,MRT,Mauritania,Lebanon,false,false,true,true,false,COW,1973-01-22,,false,true,false,false
+199,JOR,MRT,Mauritania,Jordan,false,false,true,true,false,COW,1973-01-22,,false,true,false,false
+199,MRT,SAU,Mauritania,Saudi Arabia,false,false,true,true,false,COW,1973-01-22,,false,true,false,false
+199,MRT,YEM,Mauritania,Yemen,false,false,true,true,false,COW,1990-05-22,,false,true,false,false
+199,KWT,MRT,Mauritania,Kuwait,false,false,true,true,false,COW,1973-01-22,,false,true,false,false
+199,BHR,MRT,Mauritania,Bahrain,false,false,true,true,false,COW,1973-01-22,,false,true,false,false
+199,MRT,QAT,Mauritania,Qatar,false,false,true,true,false,COW,1973-01-22,,false,true,false,false
+199,ARE,MRT,Mauritania,United Arab Emirates,false,false,true,true,false,COW,1973-01-22,,false,true,false,false
+199,MRT,OMN,Mauritania,Oman,false,false,true,true,false,COW,1973-01-22,,false,true,false,false
+199,DJI,SOM,Somalia,Djibouti,false,false,true,true,false,COW,1975-01-22,,false,true,false,false
+199,MAR,SOM,Somalia,Morocco,false,false,true,true,false,COW,1974-01-22,,false,true,false,false
+199,DZA,SOM,Somalia,Algeria,false,false,true,true,false,COW,1974-01-22,,false,true,false,false
+199,SOM,TUN,Somalia,Tunisia,false,false,true,true,false,COW,1974-01-22,,false,true,false,false
+199,LBY,SOM,Somalia,Libya,false,false,true,true,false,COW,1974-01-22,,false,true,false,false
+199,SDN,SOM,Somalia,Sudan,false,false,true,true,false,COW,1974-01-22,,false,true,false,false
+199,IRQ,SOM,Somalia,Iraq,false,false,true,true,false,COW,1974-01-22,,false,true,false,false
+199,EGY,SOM,Somalia,Egypt,false,false,true,true,false,COW,1989-05-22,,false,true,false,false
+199,SOM,SYR,Somalia,Syria,false,false,true,true,false,COW,1974-01-22,,false,true,false,false
+199,LBN,SOM,Somalia,Lebanon,false,false,true,true,false,COW,1974-01-22,,false,true,false,false
+199,JOR,SOM,Somalia,Jordan,false,false,true,true,false,COW,1974-01-22,,false,true,false,false
+199,SAU,SOM,Somalia,Saudi Arabia,false,false,true,true,false,COW,1974-01-22,,false,true,false,false
+199,SOM,YEM,Somalia,Yemen,false,false,true,true,false,COW,1990-05-22,,false,true,false,false
+199,KWT,SOM,Somalia,Kuwait,false,false,true,true,false,COW,1974-01-22,,false,true,false,false
+199,BHR,SOM,Somalia,Bahrain,false,false,true,true,false,COW,1974-01-22,,false,true,false,false
+199,QAT,SOM,Somalia,Qatar,false,false,true,true,false,COW,1974-01-22,,false,true,false,false
+199,ARE,SOM,Somalia,United Arab Emirates,false,false,true,true,false,COW,1974-01-22,,false,true,false,false
+199,OMN,SOM,Somalia,Oman,false,false,true,true,false,COW,1974-01-22,,false,true,false,false
+199,DJI,MAR,Djibouti,Morocco,false,false,true,true,false,COW,1975-01-22,,false,true,false,false
+199,DJI,DZA,Djibouti,Algeria,false,false,true,true,false,COW,1975-01-22,,false,true,false,false
+199,DJI,TUN,Djibouti,Tunisia,false,false,true,true,false,COW,1975-01-22,,false,true,false,false
+199,DJI,LBY,Djibouti,Libya,false,false,true,true,false,COW,1975-01-22,,false,true,false,false
+199,DJI,SDN,Djibouti,Sudan,false,false,true,true,false,COW,1975-01-22,,false,true,false,false
+199,DJI,IRQ,Djibouti,Iraq,false,false,true,true,false,COW,1975-01-22,,false,true,false,false
+199,DJI,EGY,Djibouti,Egypt,false,false,true,true,false,COW,1989-05-22,,false,true,false,false
+199,DJI,SYR,Djibouti,Syria,false,false,true,true,false,COW,1975-01-22,,false,true,false,false
+199,DJI,LBN,Djibouti,Lebanon,false,false,true,true,false,COW,1975-01-22,,false,true,false,false
+199,DJI,JOR,Djibouti,Jordan,false,false,true,true,false,COW,1975-01-22,,false,true,false,false
+199,DJI,SAU,Djibouti,Saudi Arabia,false,false,true,true,false,COW,1975-01-22,,false,true,false,false
+199,DJI,YEM,Djibouti,Yemen,false,false,true,true,false,COW,1990-05-22,,false,true,false,false
+199,DJI,KWT,Djibouti,Kuwait,false,false,true,true,false,COW,1975-01-22,,false,true,false,false
+199,BHR,DJI,Djibouti,Bahrain,false,false,true,true,false,COW,1975-01-22,,false,true,false,false
+199,DJI,QAT,Djibouti,Qatar,false,false,true,true,false,COW,1975-01-22,,false,true,false,false
+199,ARE,DJI,Djibouti,United Arab Emirates,false,false,true,true,false,COW,1975-01-22,,false,true,false,false
+199,DJI,OMN,Djibouti,Oman,false,false,true,true,false,COW,1975-01-22,,false,true,false,false
+199,DZA,MAR,Morocco,Algeria,false,false,true,true,false,COW,1962-01-22,,false,true,false,false
+199,MAR,TUN,Morocco,Tunisia,false,false,true,true,false,COW,1958-01-22,,false,true,false,false
+199,LBY,MAR,Morocco,Libya,false,false,true,true,false,COW,1958-01-22,,false,true,false,false
+199,MAR,SDN,Morocco,Sudan,false,false,true,true,false,COW,1958-01-22,,false,true,false,false
+199,IRQ,MAR,Morocco,Iraq,false,false,true,true,false,COW,1958-01-22,,false,true,false,false
+199,EGY,MAR,Morocco,Egypt,false,false,true,true,false,COW,1989-05-22,,false,true,false,false
+199,MAR,SYR,Morocco,Syria,false,false,true,true,false,COW,1958-01-22,,false,true,false,false
+199,LBN,MAR,Morocco,Lebanon,false,false,true,true,false,COW,1958-01-22,,false,true,false,false
+199,JOR,MAR,Morocco,Jordan,false,false,true,true,false,COW,1958-01-22,,false,true,false,false
+199,MAR,SAU,Morocco,Saudi Arabia,false,false,true,true,false,COW,1958-01-22,,false,true,false,false
+199,MAR,YEM,Morocco,Yemen,false,false,true,true,false,COW,1990-05-22,,false,true,false,false
+199,KWT,MAR,Morocco,Kuwait,false,false,true,true,false,COW,1964-01-22,,false,true,false,false
+199,BHR,MAR,Morocco,Bahrain,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,MAR,QAT,Morocco,Qatar,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,ARE,MAR,Morocco,United Arab Emirates,false,false,true,true,false,COW,1972-01-22,,false,true,false,false
+199,MAR,OMN,Morocco,Oman,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,DZA,TUN,Algeria,Tunisia,false,false,true,true,false,COW,1962-01-22,,false,true,false,false
+199,DZA,LBY,Algeria,Libya,false,false,true,true,false,COW,1962-01-22,,false,true,false,false
+199,DZA,SDN,Algeria,Sudan,false,false,true,true,false,COW,1962-01-22,,false,true,false,false
+199,DZA,IRQ,Algeria,Iraq,false,false,true,true,false,COW,1962-01-22,,false,true,false,false
+199,DZA,EGY,Algeria,Egypt,false,false,true,true,false,COW,1989-05-22,,false,true,false,false
+199,DZA,SYR,Algeria,Syria,false,false,true,true,false,COW,1962-01-22,,false,true,false,false
+199,DZA,LBN,Algeria,Lebanon,false,false,true,true,false,COW,1962-01-22,,false,true,false,false
+199,DZA,JOR,Algeria,Jordan,false,false,true,true,false,COW,1962-01-22,,false,true,false,false
+199,DZA,SAU,Algeria,Saudi Arabia,false,false,true,true,false,COW,1962-01-22,,false,true,false,false
+199,DZA,YEM,Algeria,Yemen,false,false,true,true,false,COW,1990-05-22,,false,true,false,false
+199,DZA,KWT,Algeria,Kuwait,false,false,true,true,false,COW,1964-01-22,,false,true,false,false
+199,BHR,DZA,Algeria,Bahrain,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,DZA,QAT,Algeria,Qatar,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,ARE,DZA,Algeria,United Arab Emirates,false,false,true,true,false,COW,1972-01-22,,false,true,false,false
+199,DZA,OMN,Algeria,Oman,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,LBY,TUN,Tunisia,Libya,false,false,true,true,false,COW,1958-01-22,,false,true,false,false
+199,SDN,TUN,Tunisia,Sudan,false,false,true,true,false,COW,1958-01-22,,false,true,false,false
+199,IRQ,TUN,Tunisia,Iraq,false,false,true,true,false,COW,1958-01-22,,false,true,false,false
+199,EGY,TUN,Tunisia,Egypt,false,false,true,true,false,COW,1989-05-22,,false,true,false,false
+199,SYR,TUN,Tunisia,Syria,false,false,true,true,false,COW,1958-01-22,,false,true,false,false
+199,LBN,TUN,Tunisia,Lebanon,false,false,true,true,false,COW,1958-01-22,,false,true,false,false
+199,JOR,TUN,Tunisia,Jordan,false,false,true,true,false,COW,1958-01-22,,false,true,false,false
+199,SAU,TUN,Tunisia,Saudi Arabia,false,false,true,true,false,COW,1958-01-22,,false,true,false,false
+199,TUN,YEM,Tunisia,Yemen,false,false,true,true,false,COW,1990-05-22,,false,true,false,false
+199,KWT,TUN,Tunisia,Kuwait,false,false,true,true,false,COW,1964-01-22,,false,true,false,false
+199,BHR,TUN,Tunisia,Bahrain,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,QAT,TUN,Tunisia,Qatar,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,ARE,TUN,Tunisia,United Arab Emirates,false,false,true,true,false,COW,1972-01-22,,false,true,false,false
+199,OMN,TUN,Tunisia,Oman,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,LBY,SDN,Libya,Sudan,false,false,true,true,false,COW,1955-01-22,,false,true,false,false
+199,IRQ,LBY,Libya,Iraq,false,false,true,true,false,COW,1953-01-22,,false,true,false,false
+199,EGY,LBY,Libya,Egypt,false,false,true,true,false,COW,1989-05-22,,false,true,false,false
+199,LBY,SYR,Libya,Syria,false,false,true,true,false,COW,1953-01-22,,false,true,false,false
+199,LBN,LBY,Libya,Lebanon,false,false,true,true,false,COW,1953-01-22,,false,true,false,false
+199,JOR,LBY,Libya,Jordan,false,false,true,true,false,COW,1953-01-22,,false,true,false,false
+199,LBY,SAU,Libya,Saudi Arabia,false,false,true,true,false,COW,1953-01-22,,false,true,false,false
+199,LBY,YEM,Libya,Yemen,false,false,true,true,false,COW,1990-05-22,,false,true,false,false
+199,KWT,LBY,Libya,Kuwait,false,false,true,true,false,COW,1964-01-22,,false,true,false,false
+199,BHR,LBY,Libya,Bahrain,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,LBY,QAT,Libya,Qatar,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,ARE,LBY,Libya,United Arab Emirates,false,false,true,true,false,COW,1972-01-22,,false,true,false,false
+199,LBY,OMN,Libya,Oman,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,IRQ,SDN,Sudan,Iraq,false,false,true,true,false,COW,1955-01-22,,false,true,false,false
+199,EGY,SDN,Sudan,Egypt,false,false,true,true,false,COW,1989-05-22,,false,true,false,false
+199,SDN,SYR,Sudan,Syria,false,false,true,true,false,COW,1955-01-22,,false,true,false,false
+199,LBN,SDN,Sudan,Lebanon,false,false,true,true,false,COW,1955-01-22,,false,true,false,false
+199,JOR,SDN,Sudan,Jordan,false,false,true,true,false,COW,1955-01-22,,false,true,false,false
+199,SAU,SDN,Sudan,Saudi Arabia,false,false,true,true,false,COW,1955-01-22,,false,true,false,false
+199,SDN,YEM,Sudan,Yemen,false,false,true,true,false,COW,1990-05-22,,false,true,false,false
+199,KWT,SDN,Sudan,Kuwait,false,false,true,true,false,COW,1964-01-22,,false,true,false,false
+199,BHR,SDN,Sudan,Bahrain,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,QAT,SDN,Sudan,Qatar,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,ARE,SDN,Sudan,United Arab Emirates,false,false,true,true,false,COW,1972-01-22,,false,true,false,false
+199,OMN,SDN,Sudan,Oman,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,EGY,IRQ,Iraq,Egypt,false,false,true,true,false,COW,1989-05-22,,false,true,false,false
+199,IRQ,SYR,Iraq,Syria,false,false,true,true,false,COW,1945-03-22,,false,true,false,false
+199,IRQ,LBN,Iraq,Lebanon,false,false,true,true,false,COW,1945-03-22,,false,true,false,false
+199,IRQ,JOR,Iraq,Jordan,false,false,true,true,false,COW,1945-03-22,,false,true,false,false
+199,IRQ,SAU,Iraq,Saudi Arabia,false,false,true,true,false,COW,1945-03-22,,false,true,false,false
+199,IRQ,YEM,Iraq,Yemen,false,false,true,true,false,COW,1990-05-22,,false,true,false,false
+199,IRQ,KWT,Iraq,Kuwait,false,false,true,true,false,COW,1964-01-22,,false,true,false,false
+199,BHR,IRQ,Iraq,Bahrain,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,IRQ,QAT,Iraq,Qatar,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,ARE,IRQ,Iraq,United Arab Emirates,false,false,true,true,false,COW,1972-01-22,,false,true,false,false
+199,IRQ,OMN,Iraq,Oman,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,EGY,SYR,Egypt,Syria,false,false,true,true,false,COW,1989-05-22,,false,true,false,false
+199,EGY,LBN,Egypt,Lebanon,false,false,true,true,false,COW,1989-05-22,,false,true,false,false
+199,EGY,JOR,Egypt,Jordan,false,false,true,true,false,COW,1989-05-22,,false,true,false,false
+199,EGY,SAU,Egypt,Saudi Arabia,false,false,true,true,false,COW,1989-05-22,,false,true,false,false
+199,EGY,YEM,Egypt,Yemen,false,false,true,true,false,COW,1990-05-22,,false,true,false,false
+199,EGY,KWT,Egypt,Kuwait,false,false,true,true,false,COW,1989-05-22,,false,true,false,false
+199,BHR,EGY,Egypt,Bahrain,false,false,true,true,false,COW,1989-05-22,,false,true,false,false
+199,EGY,QAT,Egypt,Qatar,false,false,true,true,false,COW,1989-05-22,,false,true,false,false
+199,ARE,EGY,Egypt,United Arab Emirates,false,false,true,true,false,COW,1989-05-22,,false,true,false,false
+199,EGY,OMN,Egypt,Oman,false,false,true,true,false,COW,1989-05-22,,false,true,false,false
+199,LBN,SYR,Syria,Lebanon,false,false,true,true,false,COW,1945-03-22,,false,true,false,false
+199,JOR,SYR,Syria,Jordan,false,false,true,true,false,COW,1945-03-22,,false,true,false,false
+199,SAU,SYR,Syria,Saudi Arabia,false,false,true,true,false,COW,1945-03-22,,false,true,false,false
+199,SYR,YEM,Syria,Yemen,false,false,true,true,false,COW,1990-05-22,,false,true,false,false
+199,KWT,SYR,Syria,Kuwait,false,false,true,true,false,COW,1964-01-22,,false,true,false,false
+199,BHR,SYR,Syria,Bahrain,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,QAT,SYR,Syria,Qatar,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,ARE,SYR,Syria,United Arab Emirates,false,false,true,true,false,COW,1972-01-22,,false,true,false,false
+199,OMN,SYR,Syria,Oman,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,JOR,LBN,Lebanon,Jordan,false,false,true,true,false,COW,1945-03-22,,false,true,false,false
+199,LBN,SAU,Lebanon,Saudi Arabia,false,false,true,true,false,COW,1945-03-22,,false,true,false,false
+199,LBN,YEM,Lebanon,Yemen,false,false,true,true,false,COW,1990-05-22,,false,true,false,false
+199,KWT,LBN,Lebanon,Kuwait,false,false,true,true,false,COW,1964-01-22,,false,true,false,false
+199,BHR,LBN,Lebanon,Bahrain,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,LBN,QAT,Lebanon,Qatar,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,ARE,LBN,Lebanon,United Arab Emirates,false,false,true,true,false,COW,1972-01-22,,false,true,false,false
+199,LBN,OMN,Lebanon,Oman,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,JOR,SAU,Jordan,Saudi Arabia,false,false,true,true,false,COW,1945-03-22,,false,true,false,false
+199,JOR,YEM,Jordan,Yemen,false,false,true,true,false,COW,1990-05-22,,false,true,false,false
+199,JOR,KWT,Jordan,Kuwait,false,false,true,true,false,COW,1964-01-22,,false,true,false,false
+199,BHR,JOR,Jordan,Bahrain,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,JOR,QAT,Jordan,Qatar,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,ARE,JOR,Jordan,United Arab Emirates,false,false,true,true,false,COW,1972-01-22,,false,true,false,false
+199,JOR,OMN,Jordan,Oman,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,SAU,YEM,Saudi Arabia,Yemen,false,false,true,true,false,COW,1990-05-22,,false,true,false,false
+199,KWT,SAU,Saudi Arabia,Kuwait,false,false,true,true,false,COW,1964-01-22,,false,true,false,false
+199,BHR,SAU,Saudi Arabia,Bahrain,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,QAT,SAU,Saudi Arabia,Qatar,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,ARE,SAU,Saudi Arabia,United Arab Emirates,false,false,true,true,false,COW,1972-01-22,,false,true,false,false
+199,OMN,SAU,Saudi Arabia,Oman,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,KWT,YEM,Yemen,Kuwait,false,false,true,true,false,COW,1990-05-22,,false,true,false,false
+199,BHR,YEM,Yemen,Bahrain,false,false,true,true,false,COW,1990-05-22,,false,true,false,false
+199,QAT,YEM,Yemen,Qatar,false,false,true,true,false,COW,1990-05-22,,false,true,false,false
+199,ARE,YEM,Yemen,United Arab Emirates,false,false,true,true,false,COW,1990-05-22,,false,true,false,false
+199,OMN,YEM,Yemen,Oman,false,false,true,true,false,COW,1990-05-22,,false,true,false,false
+199,BHR,KWT,Kuwait,Bahrain,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,KWT,QAT,Kuwait,Qatar,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,ARE,KWT,Kuwait,United Arab Emirates,false,false,true,true,false,COW,1972-01-22,,false,true,false,false
+199,KWT,OMN,Kuwait,Oman,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,BHR,QAT,Bahrain,Qatar,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,ARE,BHR,Bahrain,United Arab Emirates,false,false,true,true,false,COW,1972-01-22,,false,true,false,false
+199,BHR,OMN,Bahrain,Oman,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,ARE,QAT,Qatar,United Arab Emirates,false,false,true,true,false,COW,1972-01-22,,false,true,false,false
+199,OMN,QAT,Qatar,Oman,false,false,true,true,false,COW,1971-01-22,,false,true,false,false
+199,ARE,OMN,United Arab Emirates,Oman,false,false,true,true,false,COW,1972-01-22,,false,true,false,false
+210,CAN,USA,United States of America,Canada,true,false,true,true,false,COW,1989-11-13,,false,true,false,false
+210,BHS,USA,United States of America,Bahamas,true,false,true,true,false,COW,1982-03-03,,false,true,false,false
+210,HTI,USA,United States of America,Haiti,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,DOM,USA,United States of America,Dominican Republic,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,JAM,USA,United States of America,Jamaica,true,false,true,true,false,COW,1969-06-27,,false,true,false,false
+210,TTO,USA,United States of America,Trinidad and Tobago,true,false,true,true,true,COW,1967-03-13,,false,true,false,false
+210,BRB,USA,United States of America,Barbados,true,false,true,true,false,COW,1967-10-09,,false,true,false,false
+210,DMA,USA,United States of America,Dominica,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,GRD,USA,United States of America,Grenada,true,false,true,true,false,COW,1975-05-13,,false,true,false,false
+210,LCA,USA,United States of America,St. Lucia,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,USA,VCT,United States of America,St. Vincent and the Grenadines,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,ATG,USA,United States of America,Antigua & Barbuda,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,KNA,USA,United States of America,St. Kitts and Nevis,true,false,true,true,false,COW,1984-03-12,,false,true,false,false
+210,MEX,USA,United States of America,Mexico,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,BLZ,USA,United States of America,Belize,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,GTM,USA,United States of America,Guatemala,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,HND,USA,United States of America,Honduras,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,SLV,USA,United States of America,El Salvador,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,NIC,USA,United States of America,Nicaragua,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,CRI,USA,United States of America,Costa Rica,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,PAN,USA,United States of America,Panama,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,COL,USA,United States of America,Colombia,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,USA,VEN,United States of America,Venezuela,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,GUY,USA,United States of America,Guyana,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,SUR,USA,United States of America,Suriname,true,false,true,true,false,COW,1977-02-22,,false,true,false,false
+210,ECU,USA,United States of America,Ecuador,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,PER,USA,United States of America,Peru,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,BRA,USA,United States of America,Brazil,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,BOL,USA,United States of America,Bolivia,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,PRY,USA,United States of America,Paraguay,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,CHL,USA,United States of America,Chile,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,ARG,USA,United States of America,Argentina,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,URY,USA,United States of America,Uruguay,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,BHS,CAN,Canada,Bahamas,true,false,true,true,false,COW,1989-11-13,,false,true,false,false
+210,CAN,HTI,Canada,Haiti,true,false,true,true,false,COW,1989-11-13,,false,true,false,false
+210,CAN,DOM,Canada,Dominican Republic,true,false,true,true,false,COW,1989-11-13,,false,true,false,false
+210,CAN,JAM,Canada,Jamaica,true,false,true,true,false,COW,1989-11-13,,false,true,false,false
+210,CAN,TTO,Canada,Trinidad and Tobago,true,false,true,true,true,COW,1989-11-13,,false,true,false,false
+210,BRB,CAN,Canada,Barbados,true,false,true,true,false,COW,1989-11-13,,false,true,false,false
+210,CAN,DMA,Canada,Dominica,true,false,true,true,false,COW,1989-11-13,,false,true,false,false
+210,CAN,GRD,Canada,Grenada,true,false,true,true,false,COW,1989-11-13,,false,true,false,false
+210,CAN,LCA,Canada,St. Lucia,true,false,true,true,false,COW,1989-11-13,,false,true,false,false
+210,CAN,VCT,Canada,St. Vincent and the Grenadines,true,false,true,true,false,COW,1989-11-13,,false,true,false,false
+210,ATG,CAN,Canada,Antigua & Barbuda,true,false,true,true,false,COW,1989-11-13,,false,true,false,false
+210,CAN,KNA,Canada,St. Kitts and Nevis,true,false,true,true,false,COW,1989-11-13,,false,true,false,false
+210,CAN,MEX,Canada,Mexico,true,false,true,true,false,COW,1989-11-13,,false,true,false,false
+210,BLZ,CAN,Canada,Belize,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,CAN,GTM,Canada,Guatemala,true,false,true,true,false,COW,1989-11-13,,false,true,false,false
+210,CAN,HND,Canada,Honduras,true,false,true,true,false,COW,1989-11-13,,false,true,false,false
+210,CAN,SLV,Canada,El Salvador,true,false,true,true,false,COW,1989-11-13,,false,true,false,false
+210,CAN,NIC,Canada,Nicaragua,true,false,true,true,false,COW,1989-11-13,,false,true,false,false
+210,CAN,CRI,Canada,Costa Rica,true,false,true,true,false,COW,1989-11-13,,false,true,false,false
+210,CAN,PAN,Canada,Panama,true,false,true,true,false,COW,1989-11-13,,false,true,false,false
+210,CAN,COL,Canada,Colombia,true,false,true,true,false,COW,1989-11-13,,false,true,false,false
+210,CAN,VEN,Canada,Venezuela,true,false,true,true,false,COW,1989-11-13,,false,true,false,false
+210,CAN,GUY,Canada,Guyana,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,CAN,SUR,Canada,Suriname,true,false,true,true,false,COW,1989-11-13,,false,true,false,false
+210,CAN,ECU,Canada,Ecuador,true,false,true,true,true,COW,1989-11-13,,false,true,false,false
+210,CAN,PER,Canada,Peru,true,false,true,true,true,COW,1989-11-13,,false,true,false,false
+210,BRA,CAN,Canada,Brazil,true,false,true,true,false,COW,1989-11-13,,false,true,false,false
+210,BOL,CAN,Canada,Bolivia,true,false,true,true,false,COW,1989-11-13,,false,true,false,false
+210,CAN,PRY,Canada,Paraguay,true,false,true,true,true,COW,1989-11-13,,false,true,false,false
+210,CAN,CHL,Canada,Chile,true,false,true,true,false,COW,1989-11-13,,false,true,false,false
+210,ARG,CAN,Canada,Argentina,true,false,true,true,false,COW,1989-11-13,,false,true,false,false
+210,CAN,URY,Canada,Uruguay,true,false,true,true,true,COW,1989-11-13,,false,true,false,false
+210,BHS,HTI,Bahamas,Haiti,true,false,true,true,false,COW,1982-03-03,,false,true,false,false
+210,BHS,DOM,Bahamas,Dominican Republic,true,false,true,true,false,COW,1982-03-03,,false,true,false,false
+210,BHS,JAM,Bahamas,Jamaica,true,false,true,true,false,COW,1982-03-03,,false,true,false,false
+210,BHS,TTO,Bahamas,Trinidad and Tobago,true,false,true,true,true,COW,1982-03-03,,false,true,false,false
+210,BHS,BRB,Bahamas,Barbados,true,false,true,true,false,COW,1982-03-03,,false,true,false,false
+210,BHS,DMA,Bahamas,Dominica,true,false,true,true,false,COW,1982-03-03,,false,true,false,false
+210,BHS,GRD,Bahamas,Grenada,true,false,true,true,false,COW,1982-03-03,,false,true,false,false
+210,BHS,LCA,Bahamas,St. Lucia,true,false,true,true,false,COW,1982-03-03,,false,true,false,false
+210,BHS,VCT,Bahamas,St. Vincent and the Grenadines,true,false,true,true,false,COW,1982-03-03,,false,true,false,false
+210,ATG,BHS,Bahamas,Antigua & Barbuda,true,false,true,true,false,COW,1982-03-03,,false,true,false,false
+210,BHS,KNA,Bahamas,St. Kitts and Nevis,true,false,true,true,false,COW,1984-03-12,,false,true,false,false
+210,BHS,MEX,Bahamas,Mexico,true,false,true,true,false,COW,1982-03-03,,false,true,false,false
+210,BHS,BLZ,Bahamas,Belize,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,BHS,GTM,Bahamas,Guatemala,true,false,true,true,false,COW,1982-03-03,,false,true,false,false
+210,BHS,HND,Bahamas,Honduras,true,false,true,true,false,COW,1982-03-03,,false,true,false,false
+210,BHS,SLV,Bahamas,El Salvador,true,false,true,true,false,COW,1982-03-03,,false,true,false,false
+210,BHS,NIC,Bahamas,Nicaragua,true,false,true,true,false,COW,1982-03-03,,false,true,false,false
+210,BHS,CRI,Bahamas,Costa Rica,true,false,true,true,false,COW,1982-03-03,,false,true,false,false
+210,BHS,PAN,Bahamas,Panama,true,false,true,true,false,COW,1982-03-03,,false,true,false,false
+210,BHS,COL,Bahamas,Colombia,true,false,true,true,false,COW,1982-03-03,,false,true,false,false
+210,BHS,VEN,Bahamas,Venezuela,true,false,true,true,false,COW,1982-03-03,,false,true,false,false
+210,BHS,GUY,Bahamas,Guyana,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,BHS,SUR,Bahamas,Suriname,true,false,true,true,false,COW,1982-03-03,,false,true,false,false
+210,BHS,ECU,Bahamas,Ecuador,true,false,true,true,true,COW,1982-03-03,,false,true,false,false
+210,BHS,PER,Bahamas,Peru,true,false,true,true,true,COW,1982-03-03,,false,true,false,false
+210,BHS,BRA,Bahamas,Brazil,true,false,true,true,false,COW,1982-03-03,,false,true,false,false
+210,BHS,BOL,Bahamas,Bolivia,true,false,true,true,false,COW,1982-03-03,,false,true,false,false
+210,BHS,PRY,Bahamas,Paraguay,true,false,true,true,true,COW,1982-03-03,,false,true,false,false
+210,BHS,CHL,Bahamas,Chile,true,false,true,true,false,COW,1982-03-03,,false,true,false,false
+210,ARG,BHS,Bahamas,Argentina,true,false,true,true,false,COW,1982-03-03,,false,true,false,false
+210,BHS,URY,Bahamas,Uruguay,true,false,true,true,true,COW,1982-03-03,,false,true,false,false
+210,DOM,HTI,Haiti,Dominican Republic,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,HTI,JAM,Haiti,Jamaica,true,false,true,true,false,COW,1969-06-27,,false,true,false,false
+210,HTI,TTO,Haiti,Trinidad and Tobago,true,false,true,true,true,COW,1967-03-13,,false,true,false,false
+210,BRB,HTI,Haiti,Barbados,true,false,true,true,false,COW,1967-10-09,,false,true,false,false
+210,DMA,HTI,Haiti,Dominica,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,GRD,HTI,Haiti,Grenada,true,false,true,true,false,COW,1975-05-13,,false,true,false,false
+210,HTI,LCA,Haiti,St. Lucia,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,HTI,VCT,Haiti,St. Vincent and the Grenadines,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,ATG,HTI,Haiti,Antigua & Barbuda,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,HTI,KNA,Haiti,St. Kitts and Nevis,true,false,true,true,false,COW,1984-03-12,,false,true,false,false
+210,HTI,MEX,Haiti,Mexico,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,BLZ,HTI,Haiti,Belize,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,GTM,HTI,Haiti,Guatemala,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,HND,HTI,Haiti,Honduras,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,HTI,SLV,Haiti,El Salvador,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,HTI,NIC,Haiti,Nicaragua,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,CRI,HTI,Haiti,Costa Rica,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,HTI,PAN,Haiti,Panama,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,COL,HTI,Haiti,Colombia,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,HTI,VEN,Haiti,Venezuela,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,GUY,HTI,Haiti,Guyana,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,HTI,SUR,Haiti,Suriname,true,false,true,true,false,COW,1977-02-22,,false,true,false,false
+210,ECU,HTI,Haiti,Ecuador,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,HTI,PER,Haiti,Peru,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,BRA,HTI,Haiti,Brazil,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,BOL,HTI,Haiti,Bolivia,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,HTI,PRY,Haiti,Paraguay,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,CHL,HTI,Haiti,Chile,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,ARG,HTI,Haiti,Argentina,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,HTI,URY,Haiti,Uruguay,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,DOM,JAM,Dominican Republic,Jamaica,true,false,true,true,false,COW,1969-06-27,,false,true,false,false
+210,DOM,TTO,Dominican Republic,Trinidad and Tobago,true,false,true,true,true,COW,1967-03-13,,false,true,false,false
+210,BRB,DOM,Dominican Republic,Barbados,true,false,true,true,false,COW,1967-10-09,,false,true,false,false
+210,DMA,DOM,Dominican Republic,Dominica,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,DOM,GRD,Dominican Republic,Grenada,true,false,true,true,false,COW,1975-05-13,,false,true,false,false
+210,DOM,LCA,Dominican Republic,St. Lucia,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,DOM,VCT,Dominican Republic,St. Vincent and the Grenadines,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,ATG,DOM,Dominican Republic,Antigua & Barbuda,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,DOM,KNA,Dominican Republic,St. Kitts and Nevis,true,false,true,true,false,COW,1984-03-12,,false,true,false,false
+210,DOM,MEX,Dominican Republic,Mexico,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,BLZ,DOM,Dominican Republic,Belize,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,DOM,GTM,Dominican Republic,Guatemala,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,DOM,HND,Dominican Republic,Honduras,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,DOM,SLV,Dominican Republic,El Salvador,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,DOM,NIC,Dominican Republic,Nicaragua,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,CRI,DOM,Dominican Republic,Costa Rica,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,DOM,PAN,Dominican Republic,Panama,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,COL,DOM,Dominican Republic,Colombia,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,DOM,VEN,Dominican Republic,Venezuela,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,DOM,GUY,Dominican Republic,Guyana,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,DOM,SUR,Dominican Republic,Suriname,true,false,true,true,false,COW,1977-02-22,,false,true,false,false
+210,DOM,ECU,Dominican Republic,Ecuador,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,DOM,PER,Dominican Republic,Peru,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,BRA,DOM,Dominican Republic,Brazil,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,BOL,DOM,Dominican Republic,Bolivia,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,DOM,PRY,Dominican Republic,Paraguay,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,CHL,DOM,Dominican Republic,Chile,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,ARG,DOM,Dominican Republic,Argentina,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,DOM,URY,Dominican Republic,Uruguay,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,JAM,TTO,Jamaica,Trinidad and Tobago,true,false,true,true,true,COW,1969-06-27,,false,true,false,false
+210,BRB,JAM,Jamaica,Barbados,true,false,true,true,false,COW,1969-06-27,,false,true,false,false
+210,DMA,JAM,Jamaica,Dominica,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,GRD,JAM,Jamaica,Grenada,true,false,true,true,false,COW,1975-05-13,,false,true,false,false
+210,JAM,LCA,Jamaica,St. Lucia,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,JAM,VCT,Jamaica,St. Vincent and the Grenadines,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,ATG,JAM,Jamaica,Antigua & Barbuda,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,JAM,KNA,Jamaica,St. Kitts and Nevis,true,false,true,true,false,COW,1984-03-12,,false,true,false,false
+210,JAM,MEX,Jamaica,Mexico,true,false,true,true,false,COW,1969-06-27,,false,true,false,false
+210,BLZ,JAM,Jamaica,Belize,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,GTM,JAM,Jamaica,Guatemala,true,false,true,true,false,COW,1969-06-27,,false,true,false,false
+210,HND,JAM,Jamaica,Honduras,true,false,true,true,false,COW,1969-06-27,,false,true,false,false
+210,JAM,SLV,Jamaica,El Salvador,true,false,true,true,false,COW,1969-06-27,,false,true,false,false
+210,JAM,NIC,Jamaica,Nicaragua,true,false,true,true,false,COW,1969-06-27,,false,true,false,false
+210,CRI,JAM,Jamaica,Costa Rica,true,false,true,true,false,COW,1969-06-27,,false,true,false,false
+210,JAM,PAN,Jamaica,Panama,true,false,true,true,false,COW,1969-06-27,,false,true,false,false
+210,COL,JAM,Jamaica,Colombia,true,false,true,true,false,COW,1969-06-27,,false,true,false,false
+210,JAM,VEN,Jamaica,Venezuela,true,false,true,true,false,COW,1969-06-27,,false,true,false,false
+210,GUY,JAM,Jamaica,Guyana,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,JAM,SUR,Jamaica,Suriname,true,false,true,true,false,COW,1977-02-22,,false,true,false,false
+210,ECU,JAM,Jamaica,Ecuador,true,false,true,true,true,COW,1969-06-27,,false,true,false,false
+210,JAM,PER,Jamaica,Peru,true,false,true,true,true,COW,1969-06-27,,false,true,false,false
+210,BRA,JAM,Jamaica,Brazil,true,false,true,true,false,COW,1969-06-27,,false,true,false,false
+210,BOL,JAM,Jamaica,Bolivia,true,false,true,true,false,COW,1969-06-27,,false,true,false,false
+210,JAM,PRY,Jamaica,Paraguay,true,false,true,true,true,COW,1969-06-27,,false,true,false,false
+210,CHL,JAM,Jamaica,Chile,true,false,true,true,false,COW,1969-06-27,,false,true,false,false
+210,ARG,JAM,Jamaica,Argentina,true,false,true,true,false,COW,1969-06-27,,false,true,false,false
+210,JAM,URY,Jamaica,Uruguay,true,false,true,true,true,COW,1969-06-27,,false,true,false,false
+210,BRB,TTO,Trinidad and Tobago,Barbados,true,false,true,true,true,COW,1967-10-09,,false,true,false,false
+210,DMA,TTO,Trinidad and Tobago,Dominica,true,false,true,true,true,COW,1979-05-22,,false,true,false,false
+210,GRD,TTO,Trinidad and Tobago,Grenada,true,false,true,true,true,COW,1975-05-13,,false,true,false,false
+210,LCA,TTO,Trinidad and Tobago,St. Lucia,true,false,true,true,true,COW,1979-05-22,,false,true,false,false
+210,TTO,VCT,Trinidad and Tobago,St. Vincent and the Grenadines,true,false,true,true,true,COW,1981-12-03,,false,true,false,false
+210,ATG,TTO,Trinidad and Tobago,Antigua & Barbuda,true,false,true,true,true,COW,1981-12-03,,false,true,false,false
+210,KNA,TTO,Trinidad and Tobago,St. Kitts and Nevis,true,false,true,true,true,COW,1984-03-12,,false,true,false,false
+210,MEX,TTO,Trinidad and Tobago,Mexico,true,false,true,true,true,COW,1967-03-13,,false,true,false,false
+210,BLZ,TTO,Trinidad and Tobago,Belize,true,false,true,true,true,COW,1991-01-08,,false,true,false,false
+210,GTM,TTO,Trinidad and Tobago,Guatemala,true,false,true,true,true,COW,1967-03-13,,false,true,false,false
+210,HND,TTO,Trinidad and Tobago,Honduras,true,false,true,true,true,COW,1967-03-13,,false,true,false,false
+210,SLV,TTO,Trinidad and Tobago,El Salvador,true,false,true,true,true,COW,1967-03-13,,false,true,false,false
+210,NIC,TTO,Trinidad and Tobago,Nicaragua,true,false,true,true,true,COW,1967-03-13,,false,true,false,false
+210,CRI,TTO,Trinidad and Tobago,Costa Rica,true,false,true,true,true,COW,1967-03-13,,false,true,false,false
+210,PAN,TTO,Trinidad and Tobago,Panama,true,false,true,true,true,COW,1967-03-13,,false,true,false,false
+210,COL,TTO,Trinidad and Tobago,Colombia,true,false,true,true,true,COW,1967-03-13,,false,true,false,false
+210,TTO,VEN,Trinidad and Tobago,Venezuela,true,false,true,true,true,COW,1967-03-13,,false,true,false,false
+210,GUY,TTO,Trinidad and Tobago,Guyana,true,false,true,true,true,COW,1991-01-08,,false,true,false,false
+210,SUR,TTO,Trinidad and Tobago,Suriname,true,false,true,true,true,COW,1977-02-22,,false,true,false,false
+210,ECU,TTO,Trinidad and Tobago,Ecuador,true,false,false,true,false,COW,1967-03-13,,false,true,false,false
+210,PER,TTO,Trinidad and Tobago,Peru,true,false,false,true,false,COW,1967-03-13,,false,true,false,false
+210,BRA,TTO,Trinidad and Tobago,Brazil,true,false,true,true,true,COW,1967-03-13,,false,true,false,false
+210,BOL,TTO,Trinidad and Tobago,Bolivia,true,false,true,true,true,COW,1967-03-13,,false,true,false,false
+210,PRY,TTO,Trinidad and Tobago,Paraguay,true,false,false,true,false,COW,1967-03-13,,false,true,false,false
+210,CHL,TTO,Trinidad and Tobago,Chile,true,false,true,true,true,COW,1967-03-13,,false,true,false,false
+210,ARG,TTO,Trinidad and Tobago,Argentina,true,false,true,true,true,COW,1967-03-13,,false,true,false,false
+210,TTO,URY,Trinidad and Tobago,Uruguay,true,false,false,true,false,COW,1967-03-13,,false,true,false,false
+210,BRB,DMA,Barbados,Dominica,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,BRB,GRD,Barbados,Grenada,true,false,true,true,false,COW,1975-05-13,,false,true,false,false
+210,BRB,LCA,Barbados,St. Lucia,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,BRB,VCT,Barbados,St. Vincent and the Grenadines,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,ATG,BRB,Barbados,Antigua & Barbuda,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,BRB,KNA,Barbados,St. Kitts and Nevis,true,false,true,true,false,COW,1984-03-12,,false,true,false,false
+210,BRB,MEX,Barbados,Mexico,true,false,true,true,false,COW,1967-10-09,,false,true,false,false
+210,BLZ,BRB,Barbados,Belize,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,BRB,GTM,Barbados,Guatemala,true,false,true,true,false,COW,1967-10-09,,false,true,false,false
+210,BRB,HND,Barbados,Honduras,true,false,true,true,false,COW,1967-10-09,,false,true,false,false
+210,BRB,SLV,Barbados,El Salvador,true,false,true,true,false,COW,1967-10-09,,false,true,false,false
+210,BRB,NIC,Barbados,Nicaragua,true,false,true,true,false,COW,1967-10-09,,false,true,false,false
+210,BRB,CRI,Barbados,Costa Rica,true,false,true,true,false,COW,1967-10-09,,false,true,false,false
+210,BRB,PAN,Barbados,Panama,true,false,true,true,false,COW,1967-10-09,,false,true,false,false
+210,BRB,COL,Barbados,Colombia,true,false,true,true,false,COW,1967-10-09,,false,true,false,false
+210,BRB,VEN,Barbados,Venezuela,true,false,true,true,false,COW,1967-10-09,,false,true,false,false
+210,BRB,GUY,Barbados,Guyana,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,BRB,SUR,Barbados,Suriname,true,false,true,true,false,COW,1977-02-22,,false,true,false,false
+210,BRB,ECU,Barbados,Ecuador,true,false,true,true,true,COW,1967-10-09,,false,true,false,false
+210,BRB,PER,Barbados,Peru,true,false,true,true,true,COW,1967-10-09,,false,true,false,false
+210,BRA,BRB,Barbados,Brazil,true,false,true,true,false,COW,1967-10-09,,false,true,false,false
+210,BOL,BRB,Barbados,Bolivia,true,false,true,true,false,COW,1967-10-09,,false,true,false,false
+210,BRB,PRY,Barbados,Paraguay,true,false,true,true,true,COW,1967-10-09,,false,true,false,false
+210,BRB,CHL,Barbados,Chile,true,false,true,true,false,COW,1967-10-09,,false,true,false,false
+210,ARG,BRB,Barbados,Argentina,true,false,true,true,false,COW,1967-10-09,,false,true,false,false
+210,BRB,URY,Barbados,Uruguay,true,false,true,true,true,COW,1967-10-09,,false,true,false,false
+210,DMA,GRD,Dominica,Grenada,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,DMA,LCA,Dominica,St. Lucia,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,DMA,VCT,Dominica,St. Vincent and the Grenadines,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,ATG,DMA,Dominica,Antigua & Barbuda,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,DMA,KNA,Dominica,St. Kitts and Nevis,true,false,true,true,false,COW,1984-03-12,,false,true,false,false
+210,DMA,MEX,Dominica,Mexico,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,BLZ,DMA,Dominica,Belize,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,DMA,GTM,Dominica,Guatemala,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,DMA,HND,Dominica,Honduras,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,DMA,SLV,Dominica,El Salvador,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,DMA,NIC,Dominica,Nicaragua,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,CRI,DMA,Dominica,Costa Rica,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,DMA,PAN,Dominica,Panama,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,COL,DMA,Dominica,Colombia,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,DMA,VEN,Dominica,Venezuela,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,DMA,GUY,Dominica,Guyana,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,DMA,SUR,Dominica,Suriname,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,DMA,ECU,Dominica,Ecuador,true,false,true,true,true,COW,1979-05-22,,false,true,false,false
+210,DMA,PER,Dominica,Peru,true,false,true,true,true,COW,1979-05-22,,false,true,false,false
+210,BRA,DMA,Dominica,Brazil,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,BOL,DMA,Dominica,Bolivia,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,DMA,PRY,Dominica,Paraguay,true,false,true,true,true,COW,1979-05-22,,false,true,false,false
+210,CHL,DMA,Dominica,Chile,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,ARG,DMA,Dominica,Argentina,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,DMA,URY,Dominica,Uruguay,true,false,true,true,true,COW,1979-05-22,,false,true,false,false
+210,GRD,LCA,Grenada,St. Lucia,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,GRD,VCT,Grenada,St. Vincent and the Grenadines,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,ATG,GRD,Grenada,Antigua & Barbuda,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,GRD,KNA,Grenada,St. Kitts and Nevis,true,false,true,true,false,COW,1984-03-12,,false,true,false,false
+210,GRD,MEX,Grenada,Mexico,true,false,true,true,false,COW,1975-05-13,,false,true,false,false
+210,BLZ,GRD,Grenada,Belize,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,GRD,GTM,Grenada,Guatemala,true,false,true,true,false,COW,1975-05-13,,false,true,false,false
+210,GRD,HND,Grenada,Honduras,true,false,true,true,false,COW,1975-05-13,,false,true,false,false
+210,GRD,SLV,Grenada,El Salvador,true,false,true,true,false,COW,1975-05-13,,false,true,false,false
+210,GRD,NIC,Grenada,Nicaragua,true,false,true,true,false,COW,1975-05-13,,false,true,false,false
+210,CRI,GRD,Grenada,Costa Rica,true,false,true,true,false,COW,1975-05-13,,false,true,false,false
+210,GRD,PAN,Grenada,Panama,true,false,true,true,false,COW,1975-05-13,,false,true,false,false
+210,COL,GRD,Grenada,Colombia,true,false,true,true,false,COW,1975-05-13,,false,true,false,false
+210,GRD,VEN,Grenada,Venezuela,true,false,true,true,false,COW,1975-05-13,,false,true,false,false
+210,GRD,GUY,Grenada,Guyana,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,GRD,SUR,Grenada,Suriname,true,false,true,true,false,COW,1977-02-22,,false,true,false,false
+210,ECU,GRD,Grenada,Ecuador,true,false,true,true,true,COW,1975-05-13,,false,true,false,false
+210,GRD,PER,Grenada,Peru,true,false,true,true,true,COW,1975-05-13,,false,true,false,false
+210,BRA,GRD,Grenada,Brazil,true,false,true,true,false,COW,1975-05-13,,false,true,false,false
+210,BOL,GRD,Grenada,Bolivia,true,false,true,true,false,COW,1975-05-13,,false,true,false,false
+210,GRD,PRY,Grenada,Paraguay,true,false,true,true,true,COW,1975-05-13,,false,true,false,false
+210,CHL,GRD,Grenada,Chile,true,false,true,true,false,COW,1975-05-13,,false,true,false,false
+210,ARG,GRD,Grenada,Argentina,true,false,true,true,false,COW,1975-05-13,,false,true,false,false
+210,GRD,URY,Grenada,Uruguay,true,false,true,true,true,COW,1975-05-13,,false,true,false,false
+210,LCA,VCT,St. Lucia,St. Vincent and the Grenadines,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,ATG,LCA,St. Lucia,Antigua & Barbuda,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,KNA,LCA,St. Lucia,St. Kitts and Nevis,true,false,true,true,false,COW,1984-03-12,,false,true,false,false
+210,LCA,MEX,St. Lucia,Mexico,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,BLZ,LCA,St. Lucia,Belize,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,GTM,LCA,St. Lucia,Guatemala,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,HND,LCA,St. Lucia,Honduras,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,LCA,SLV,St. Lucia,El Salvador,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,LCA,NIC,St. Lucia,Nicaragua,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,CRI,LCA,St. Lucia,Costa Rica,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,LCA,PAN,St. Lucia,Panama,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,COL,LCA,St. Lucia,Colombia,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,LCA,VEN,St. Lucia,Venezuela,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,GUY,LCA,St. Lucia,Guyana,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,LCA,SUR,St. Lucia,Suriname,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,ECU,LCA,St. Lucia,Ecuador,true,false,true,true,true,COW,1979-05-22,,false,true,false,false
+210,LCA,PER,St. Lucia,Peru,true,false,true,true,true,COW,1979-05-22,,false,true,false,false
+210,BRA,LCA,St. Lucia,Brazil,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,BOL,LCA,St. Lucia,Bolivia,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,LCA,PRY,St. Lucia,Paraguay,true,false,true,true,true,COW,1979-05-22,,false,true,false,false
+210,CHL,LCA,St. Lucia,Chile,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,ARG,LCA,St. Lucia,Argentina,true,false,true,true,false,COW,1979-05-22,,false,true,false,false
+210,LCA,URY,St. Lucia,Uruguay,true,false,true,true,true,COW,1979-05-22,,false,true,false,false
+210,ATG,VCT,St. Vincent and the Grenadines,Antigua & Barbuda,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,KNA,VCT,St. Vincent and the Grenadines,St. Kitts and Nevis,true,false,true,true,false,COW,1984-03-12,,false,true,false,false
+210,MEX,VCT,St. Vincent and the Grenadines,Mexico,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,BLZ,VCT,St. Vincent and the Grenadines,Belize,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,GTM,VCT,St. Vincent and the Grenadines,Guatemala,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,HND,VCT,St. Vincent and the Grenadines,Honduras,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,SLV,VCT,St. Vincent and the Grenadines,El Salvador,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,NIC,VCT,St. Vincent and the Grenadines,Nicaragua,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,CRI,VCT,St. Vincent and the Grenadines,Costa Rica,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,PAN,VCT,St. Vincent and the Grenadines,Panama,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,COL,VCT,St. Vincent and the Grenadines,Colombia,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,VCT,VEN,St. Vincent and the Grenadines,Venezuela,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,GUY,VCT,St. Vincent and the Grenadines,Guyana,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,SUR,VCT,St. Vincent and the Grenadines,Suriname,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,ECU,VCT,St. Vincent and the Grenadines,Ecuador,true,false,true,true,true,COW,1981-12-03,,false,true,false,false
+210,PER,VCT,St. Vincent and the Grenadines,Peru,true,false,true,true,true,COW,1981-12-03,,false,true,false,false
+210,BRA,VCT,St. Vincent and the Grenadines,Brazil,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,BOL,VCT,St. Vincent and the Grenadines,Bolivia,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,PRY,VCT,St. Vincent and the Grenadines,Paraguay,true,false,true,true,true,COW,1981-12-03,,false,true,false,false
+210,CHL,VCT,St. Vincent and the Grenadines,Chile,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,ARG,VCT,St. Vincent and the Grenadines,Argentina,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,URY,VCT,St. Vincent and the Grenadines,Uruguay,true,false,true,true,true,COW,1981-12-03,,false,true,false,false
+210,ATG,KNA,Antigua & Barbuda,St. Kitts and Nevis,true,false,true,true,false,COW,1984-03-12,,false,true,false,false
+210,ATG,MEX,Antigua & Barbuda,Mexico,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,ATG,BLZ,Antigua & Barbuda,Belize,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,ATG,GTM,Antigua & Barbuda,Guatemala,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,ATG,HND,Antigua & Barbuda,Honduras,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,ATG,SLV,Antigua & Barbuda,El Salvador,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,ATG,NIC,Antigua & Barbuda,Nicaragua,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,ATG,CRI,Antigua & Barbuda,Costa Rica,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,ATG,PAN,Antigua & Barbuda,Panama,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,ATG,COL,Antigua & Barbuda,Colombia,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,ATG,VEN,Antigua & Barbuda,Venezuela,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,ATG,GUY,Antigua & Barbuda,Guyana,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,ATG,SUR,Antigua & Barbuda,Suriname,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,ATG,ECU,Antigua & Barbuda,Ecuador,true,false,true,true,true,COW,1981-12-03,,false,true,false,false
+210,ATG,PER,Antigua & Barbuda,Peru,true,false,true,true,true,COW,1981-12-03,,false,true,false,false
+210,ATG,BRA,Antigua & Barbuda,Brazil,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,ATG,BOL,Antigua & Barbuda,Bolivia,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,ATG,PRY,Antigua & Barbuda,Paraguay,true,false,true,true,true,COW,1981-12-03,,false,true,false,false
+210,ATG,CHL,Antigua & Barbuda,Chile,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,ARG,ATG,Antigua & Barbuda,Argentina,true,false,true,true,false,COW,1981-12-03,,false,true,false,false
+210,ATG,URY,Antigua & Barbuda,Uruguay,true,false,true,true,true,COW,1981-12-03,,false,true,false,false
+210,KNA,MEX,St. Kitts and Nevis,Mexico,true,false,true,true,false,COW,1984-03-12,,false,true,false,false
+210,BLZ,KNA,St. Kitts and Nevis,Belize,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,GTM,KNA,St. Kitts and Nevis,Guatemala,true,false,true,true,false,COW,1984-03-12,,false,true,false,false
+210,HND,KNA,St. Kitts and Nevis,Honduras,true,false,true,true,false,COW,1984-03-12,,false,true,false,false
+210,KNA,SLV,St. Kitts and Nevis,El Salvador,true,false,true,true,false,COW,1984-03-12,,false,true,false,false
+210,KNA,NIC,St. Kitts and Nevis,Nicaragua,true,false,true,true,false,COW,1984-03-12,,false,true,false,false
+210,CRI,KNA,St. Kitts and Nevis,Costa Rica,true,false,true,true,false,COW,1984-03-12,,false,true,false,false
+210,KNA,PAN,St. Kitts and Nevis,Panama,true,false,true,true,false,COW,1984-03-12,,false,true,false,false
+210,COL,KNA,St. Kitts and Nevis,Colombia,true,false,true,true,false,COW,1984-03-12,,false,true,false,false
+210,KNA,VEN,St. Kitts and Nevis,Venezuela,true,false,true,true,false,COW,1984-03-12,,false,true,false,false
+210,GUY,KNA,St. Kitts and Nevis,Guyana,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,KNA,SUR,St. Kitts and Nevis,Suriname,true,false,true,true,false,COW,1984-03-12,,false,true,false,false
+210,ECU,KNA,St. Kitts and Nevis,Ecuador,true,false,true,true,true,COW,1984-03-12,,false,true,false,false
+210,KNA,PER,St. Kitts and Nevis,Peru,true,false,true,true,true,COW,1984-03-12,,false,true,false,false
+210,BRA,KNA,St. Kitts and Nevis,Brazil,true,false,true,true,false,COW,1984-03-12,,false,true,false,false
+210,BOL,KNA,St. Kitts and Nevis,Bolivia,true,false,true,true,false,COW,1984-03-12,,false,true,false,false
+210,KNA,PRY,St. Kitts and Nevis,Paraguay,true,false,true,true,true,COW,1984-03-12,,false,true,false,false
+210,CHL,KNA,St. Kitts and Nevis,Chile,true,false,true,true,false,COW,1984-03-12,,false,true,false,false
+210,ARG,KNA,St. Kitts and Nevis,Argentina,true,false,true,true,false,COW,1984-03-12,,false,true,false,false
+210,KNA,URY,St. Kitts and Nevis,Uruguay,true,false,true,true,true,COW,1984-03-12,,false,true,false,false
+210,BLZ,MEX,Mexico,Belize,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,GTM,MEX,Mexico,Guatemala,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,HND,MEX,Mexico,Honduras,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,MEX,SLV,Mexico,El Salvador,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,MEX,NIC,Mexico,Nicaragua,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,CRI,MEX,Mexico,Costa Rica,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,MEX,PAN,Mexico,Panama,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,COL,MEX,Mexico,Colombia,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,MEX,VEN,Mexico,Venezuela,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,GUY,MEX,Mexico,Guyana,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,MEX,SUR,Mexico,Suriname,true,false,true,true,false,COW,1977-02-22,,false,true,false,false
+210,ECU,MEX,Mexico,Ecuador,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,MEX,PER,Mexico,Peru,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,BRA,MEX,Mexico,Brazil,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,BOL,MEX,Mexico,Bolivia,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,MEX,PRY,Mexico,Paraguay,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,CHL,MEX,Mexico,Chile,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,ARG,MEX,Mexico,Argentina,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,MEX,URY,Mexico,Uruguay,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,BLZ,GTM,Belize,Guatemala,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,BLZ,HND,Belize,Honduras,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,BLZ,SLV,Belize,El Salvador,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,BLZ,NIC,Belize,Nicaragua,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,BLZ,CRI,Belize,Costa Rica,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,BLZ,PAN,Belize,Panama,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,BLZ,COL,Belize,Colombia,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,BLZ,VEN,Belize,Venezuela,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,BLZ,GUY,Belize,Guyana,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,BLZ,SUR,Belize,Suriname,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,BLZ,ECU,Belize,Ecuador,true,false,true,true,true,COW,1991-01-08,,false,true,false,false
+210,BLZ,PER,Belize,Peru,true,false,true,true,true,COW,1991-01-08,,false,true,false,false
+210,BLZ,BRA,Belize,Brazil,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,BLZ,BOL,Belize,Bolivia,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,BLZ,PRY,Belize,Paraguay,true,false,true,true,true,COW,1991-01-08,,false,true,false,false
+210,BLZ,CHL,Belize,Chile,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,ARG,BLZ,Belize,Argentina,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,BLZ,URY,Belize,Uruguay,true,false,true,true,true,COW,1991-01-08,,false,true,false,false
+210,GTM,HND,Guatemala,Honduras,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,GTM,SLV,Guatemala,El Salvador,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,GTM,NIC,Guatemala,Nicaragua,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,CRI,GTM,Guatemala,Costa Rica,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,GTM,PAN,Guatemala,Panama,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,COL,GTM,Guatemala,Colombia,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,GTM,VEN,Guatemala,Venezuela,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,GTM,GUY,Guatemala,Guyana,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,GTM,SUR,Guatemala,Suriname,true,false,true,true,false,COW,1977-02-22,,false,true,false,false
+210,ECU,GTM,Guatemala,Ecuador,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,GTM,PER,Guatemala,Peru,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,BRA,GTM,Guatemala,Brazil,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,BOL,GTM,Guatemala,Bolivia,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,GTM,PRY,Guatemala,Paraguay,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,CHL,GTM,Guatemala,Chile,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,ARG,GTM,Guatemala,Argentina,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,GTM,URY,Guatemala,Uruguay,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,HND,SLV,Honduras,El Salvador,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,HND,NIC,Honduras,Nicaragua,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,CRI,HND,Honduras,Costa Rica,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,HND,PAN,Honduras,Panama,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,COL,HND,Honduras,Colombia,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,HND,VEN,Honduras,Venezuela,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,GUY,HND,Honduras,Guyana,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,HND,SUR,Honduras,Suriname,true,false,true,true,false,COW,1977-02-22,,false,true,false,false
+210,ECU,HND,Honduras,Ecuador,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,HND,PER,Honduras,Peru,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,BRA,HND,Honduras,Brazil,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,BOL,HND,Honduras,Bolivia,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,HND,PRY,Honduras,Paraguay,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,CHL,HND,Honduras,Chile,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,ARG,HND,Honduras,Argentina,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,HND,URY,Honduras,Uruguay,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,NIC,SLV,El Salvador,Nicaragua,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,CRI,SLV,El Salvador,Costa Rica,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,PAN,SLV,El Salvador,Panama,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,COL,SLV,El Salvador,Colombia,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,SLV,VEN,El Salvador,Venezuela,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,GUY,SLV,El Salvador,Guyana,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,SLV,SUR,El Salvador,Suriname,true,false,true,true,false,COW,1977-02-22,,false,true,false,false
+210,ECU,SLV,El Salvador,Ecuador,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,PER,SLV,El Salvador,Peru,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,BRA,SLV,El Salvador,Brazil,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,BOL,SLV,El Salvador,Bolivia,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,PRY,SLV,El Salvador,Paraguay,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,CHL,SLV,El Salvador,Chile,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,ARG,SLV,El Salvador,Argentina,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,SLV,URY,El Salvador,Uruguay,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,CRI,NIC,Nicaragua,Costa Rica,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,NIC,PAN,Nicaragua,Panama,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,COL,NIC,Nicaragua,Colombia,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,NIC,VEN,Nicaragua,Venezuela,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,GUY,NIC,Nicaragua,Guyana,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,NIC,SUR,Nicaragua,Suriname,true,false,true,true,false,COW,1977-02-22,,false,true,false,false
+210,ECU,NIC,Nicaragua,Ecuador,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,NIC,PER,Nicaragua,Peru,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,BRA,NIC,Nicaragua,Brazil,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,BOL,NIC,Nicaragua,Bolivia,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,NIC,PRY,Nicaragua,Paraguay,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,CHL,NIC,Nicaragua,Chile,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,ARG,NIC,Nicaragua,Argentina,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,NIC,URY,Nicaragua,Uruguay,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,CRI,PAN,Costa Rica,Panama,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,COL,CRI,Costa Rica,Colombia,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,CRI,VEN,Costa Rica,Venezuela,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,CRI,GUY,Costa Rica,Guyana,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,CRI,SUR,Costa Rica,Suriname,true,false,true,true,false,COW,1977-02-22,,false,true,false,false
+210,CRI,ECU,Costa Rica,Ecuador,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,CRI,PER,Costa Rica,Peru,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,BRA,CRI,Costa Rica,Brazil,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,BOL,CRI,Costa Rica,Bolivia,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,CRI,PRY,Costa Rica,Paraguay,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,CHL,CRI,Costa Rica,Chile,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,ARG,CRI,Costa Rica,Argentina,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,CRI,URY,Costa Rica,Uruguay,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,COL,PAN,Panama,Colombia,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,PAN,VEN,Panama,Venezuela,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,GUY,PAN,Panama,Guyana,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,PAN,SUR,Panama,Suriname,true,false,true,true,false,COW,1977-02-22,,false,true,false,false
+210,ECU,PAN,Panama,Ecuador,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,PAN,PER,Panama,Peru,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,BRA,PAN,Panama,Brazil,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,BOL,PAN,Panama,Bolivia,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,PAN,PRY,Panama,Paraguay,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,CHL,PAN,Panama,Chile,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,ARG,PAN,Panama,Argentina,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,PAN,URY,Panama,Uruguay,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,COL,VEN,Colombia,Venezuela,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,COL,GUY,Colombia,Guyana,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,COL,SUR,Colombia,Suriname,true,false,true,true,false,COW,1977-02-22,,false,true,false,false
+210,COL,ECU,Colombia,Ecuador,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,COL,PER,Colombia,Peru,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,BRA,COL,Colombia,Brazil,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,BOL,COL,Colombia,Bolivia,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,COL,PRY,Colombia,Paraguay,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,CHL,COL,Colombia,Chile,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,ARG,COL,Colombia,Argentina,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,COL,URY,Colombia,Uruguay,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,GUY,VEN,Venezuela,Guyana,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,SUR,VEN,Venezuela,Suriname,true,false,true,true,false,COW,1977-02-22,,false,true,false,false
+210,ECU,VEN,Venezuela,Ecuador,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,PER,VEN,Venezuela,Peru,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,BRA,VEN,Venezuela,Brazil,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,BOL,VEN,Venezuela,Bolivia,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,PRY,VEN,Venezuela,Paraguay,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,CHL,VEN,Venezuela,Chile,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,ARG,VEN,Venezuela,Argentina,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,URY,VEN,Venezuela,Uruguay,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,GUY,SUR,Guyana,Suriname,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,ECU,GUY,Guyana,Ecuador,true,false,true,true,true,COW,1991-01-08,,false,true,false,false
+210,GUY,PER,Guyana,Peru,true,false,true,true,true,COW,1991-01-08,,false,true,false,false
+210,BRA,GUY,Guyana,Brazil,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,BOL,GUY,Guyana,Bolivia,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,GUY,PRY,Guyana,Paraguay,true,false,true,true,true,COW,1991-01-08,,false,true,false,false
+210,CHL,GUY,Guyana,Chile,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,ARG,GUY,Guyana,Argentina,true,false,true,true,false,COW,1991-01-08,,false,true,false,false
+210,GUY,URY,Guyana,Uruguay,true,false,true,true,true,COW,1991-01-08,,false,true,false,false
+210,ECU,SUR,Suriname,Ecuador,true,false,true,true,true,COW,1977-02-22,,false,true,false,false
+210,PER,SUR,Suriname,Peru,true,false,true,true,true,COW,1977-02-22,,false,true,false,false
+210,BRA,SUR,Suriname,Brazil,true,false,true,true,false,COW,1977-02-22,,false,true,false,false
+210,BOL,SUR,Suriname,Bolivia,true,false,true,true,false,COW,1977-02-22,,false,true,false,false
+210,PRY,SUR,Suriname,Paraguay,true,false,true,true,true,COW,1977-02-22,,false,true,false,false
+210,CHL,SUR,Suriname,Chile,true,false,true,true,false,COW,1977-02-22,,false,true,false,false
+210,ARG,SUR,Suriname,Argentina,true,false,true,true,false,COW,1977-02-22,,false,true,false,false
+210,SUR,URY,Suriname,Uruguay,true,false,true,true,true,COW,1977-02-22,,false,true,false,false
+210,ECU,PER,Ecuador,Peru,true,false,false,true,false,COW,1947-09-02,,false,true,false,false
+210,BRA,ECU,Ecuador,Brazil,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,BOL,ECU,Ecuador,Bolivia,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,ECU,PRY,Ecuador,Paraguay,true,false,false,true,false,COW,1947-09-02,,false,true,false,false
+210,CHL,ECU,Ecuador,Chile,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,ARG,ECU,Ecuador,Argentina,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,ECU,URY,Ecuador,Uruguay,true,false,false,true,false,COW,1947-09-02,,false,true,false,false
+210,BRA,PER,Peru,Brazil,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,BOL,PER,Peru,Bolivia,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,PER,PRY,Peru,Paraguay,true,false,false,true,false,COW,1947-09-02,,false,true,false,false
+210,CHL,PER,Peru,Chile,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,ARG,PER,Peru,Argentina,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,PER,URY,Peru,Uruguay,true,false,false,true,false,COW,1947-09-02,,false,true,false,false
+210,BOL,BRA,Brazil,Bolivia,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,BRA,PRY,Brazil,Paraguay,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,BRA,CHL,Brazil,Chile,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,ARG,BRA,Brazil,Argentina,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,BRA,URY,Brazil,Uruguay,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,BOL,PRY,Bolivia,Paraguay,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,BOL,CHL,Bolivia,Chile,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,ARG,BOL,Bolivia,Argentina,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,BOL,URY,Bolivia,Uruguay,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,CHL,PRY,Paraguay,Chile,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,ARG,PRY,Paraguay,Argentina,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,PRY,URY,Paraguay,Uruguay,true,false,false,true,false,COW,1947-09-02,,false,true,false,false
+210,ARG,CHL,Chile,Argentina,true,false,true,true,false,COW,1947-09-02,,false,true,false,false
+210,CHL,URY,Chile,Uruguay,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+210,ARG,URY,Argentina,Uruguay,true,false,true,true,true,COW,1947-09-02,,false,true,false,false
+218,GBR,NLD,United Kingdom,Netherlands,true,false,false,true,false,COW,1948-03-17,,false,true,false,false
+218,BEL,GBR,United Kingdom,Belgium,true,false,false,true,false,COW,1948-03-17,,false,true,false,false
+218,GBR,LUX,United Kingdom,Luxembourg,true,false,false,true,false,COW,1948-03-17,,false,true,false,false
+218,FRA,GBR,United Kingdom,France,true,false,false,true,false,COW,1948-03-17,,false,true,false,false
+218,ESP,GBR,United Kingdom,Spain,true,false,false,true,false,COW,1988-11-14,,false,true,false,false
+218,GBR,PRT,United Kingdom,Portugal,true,false,false,true,false,COW,1988-11-14,,false,true,false,false
+218,DEU,GBR,United Kingdom,German Federal Republic,true,false,false,true,false,COW,1955-05-05,,false,true,false,true
+218,GBR,ITA,United Kingdom,Italy,true,false,false,true,false,COW,1954-10-23,,false,true,false,false
+218,GBR,GRC,United Kingdom,Greece,true,false,false,true,false,COW,1992-11-20,,false,true,false,false
+218,BEL,NLD,Netherlands,Belgium,true,false,false,true,false,COW,1948-03-17,,false,true,false,false
+218,LUX,NLD,Netherlands,Luxembourg,true,false,false,true,false,COW,1948-03-17,,false,true,false,false
+218,FRA,NLD,Netherlands,France,true,false,false,true,false,COW,1948-03-17,,false,true,false,false
+218,ESP,NLD,Netherlands,Spain,true,false,false,true,false,COW,1988-11-14,,false,true,false,false
+218,NLD,PRT,Netherlands,Portugal,true,false,false,true,false,COW,1988-11-14,,false,true,false,false
+218,DEU,NLD,Netherlands,German Federal Republic,true,false,false,true,false,COW,1955-05-05,,false,true,false,true
+218,ITA,NLD,Netherlands,Italy,true,false,false,true,false,COW,1954-10-23,,false,true,false,false
+218,GRC,NLD,Netherlands,Greece,true,false,false,true,false,COW,1992-11-20,,false,true,false,false
+218,BEL,LUX,Belgium,Luxembourg,true,false,false,true,false,COW,1948-03-17,,false,true,false,false
+218,BEL,FRA,Belgium,France,true,false,false,true,false,COW,1948-03-17,,false,true,false,false
+218,BEL,ESP,Belgium,Spain,true,false,false,true,false,COW,1988-11-14,,false,true,false,false
+218,BEL,PRT,Belgium,Portugal,true,false,false,true,false,COW,1988-11-14,,false,true,false,false
+218,BEL,DEU,Belgium,German Federal Republic,true,false,false,true,false,COW,1955-05-05,,false,true,false,true
+218,BEL,ITA,Belgium,Italy,true,false,false,true,false,COW,1954-10-23,,false,true,false,false
+218,BEL,GRC,Belgium,Greece,true,false,false,true,false,COW,1992-11-20,,false,true,false,false
+218,FRA,LUX,Luxembourg,France,true,false,false,true,false,COW,1948-03-17,,false,true,false,false
+218,ESP,LUX,Luxembourg,Spain,true,false,false,true,false,COW,1988-11-14,,false,true,false,false
+218,LUX,PRT,Luxembourg,Portugal,true,false,false,true,false,COW,1988-11-14,,false,true,false,false
+218,DEU,LUX,Luxembourg,German Federal Republic,true,false,false,true,false,COW,1955-05-05,,false,true,false,true
+218,ITA,LUX,Luxembourg,Italy,true,false,false,true,false,COW,1954-10-23,,false,true,false,false
+218,GRC,LUX,Luxembourg,Greece,true,false,false,true,false,COW,1992-11-20,,false,true,false,false
+218,ESP,FRA,France,Spain,true,false,false,true,false,COW,1988-11-14,,false,true,false,false
+218,FRA,PRT,France,Portugal,true,false,false,true,false,COW,1988-11-14,,false,true,false,false
+218,DEU,FRA,France,German Federal Republic,true,false,false,true,false,COW,1955-05-05,,false,true,false,true
+218,FRA,ITA,France,Italy,true,false,false,true,false,COW,1954-10-23,,false,true,false,false
+218,FRA,GRC,France,Greece,true,false,false,true,false,COW,1992-11-20,,false,true,false,false
+218,ESP,PRT,Spain,Portugal,true,false,false,true,false,COW,1988-11-14,,false,true,false,false
+218,DEU,ESP,Spain,German Federal Republic,true,false,false,true,false,COW,1988-11-14,,false,true,false,true
+218,ESP,ITA,Spain,Italy,true,false,false,true,false,COW,1988-11-14,,false,true,false,false
+218,ESP,GRC,Spain,Greece,true,false,false,true,false,COW,1992-11-20,,false,true,false,false
+218,DEU,PRT,Portugal,German Federal Republic,true,false,false,true,false,COW,1988-11-14,,false,true,false,true
+218,ITA,PRT,Portugal,Italy,true,false,false,true,false,COW,1988-11-14,,false,true,false,false
+218,GRC,PRT,Portugal,Greece,true,false,false,true,false,COW,1992-11-20,,false,true,false,false
+218,DEU,ITA,German Federal Republic,Italy,true,false,false,true,false,COW,1955-05-05,,false,true,false,true
+218,DEU,GRC,German Federal Republic,Greece,true,false,false,true,false,COW,1992-11-20,,false,true,false,true
+218,GRC,ITA,Italy,Greece,true,false,false,true,false,COW,1992-11-20,,false,true,false,false
+227,CAN,USA,United States of America,Canada,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,GBR,USA,United States of America,United Kingdom,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,NLD,USA,United States of America,Netherlands,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,BEL,USA,United States of America,Belgium,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,LUX,USA,United States of America,Luxembourg,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,FRA,USA,United States of America,France,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,ESP,USA,United States of America,Spain,true,false,true,true,false,COW,1981-12-10,,false,true,false,false
+227,PRT,USA,United States of America,Portugal,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,DEU,USA,United States of America,Germany,true,false,true,true,false,COW,1990-10-03,,false,true,false,false
+227,POL,USA,United States of America,Poland,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,HUN,USA,United States of America,Hungary,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,CZE,USA,United States of America,Czech Republic,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,ITA,USA,United States of America,Italy,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,GRC,USA,United States of America,Greece,true,false,true,true,false,COW,1951-10-22,,false,true,false,false
+227,NOR,USA,United States of America,Norway,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,DNK,USA,United States of America,Denmark,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,ISL,USA,United States of America,Iceland,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,TUR,USA,United States of America,Turkey,true,false,true,true,true,COW,1951-10-22,,false,true,false,false
+227,CAN,GBR,Canada,United Kingdom,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,CAN,NLD,Canada,Netherlands,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,BEL,CAN,Canada,Belgium,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,CAN,LUX,Canada,Luxembourg,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,CAN,FRA,Canada,France,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,CAN,ESP,Canada,Spain,true,false,true,true,false,COW,1981-12-10,,false,true,false,false
+227,CAN,PRT,Canada,Portugal,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,CAN,DEU,Canada,Germany,true,false,true,true,false,COW,1990-10-03,,false,true,false,false
+227,CAN,POL,Canada,Poland,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,CAN,HUN,Canada,Hungary,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,CAN,CZE,Canada,Czech Republic,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,CAN,ITA,Canada,Italy,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,CAN,GRC,Canada,Greece,true,false,true,true,false,COW,1951-10-22,,false,true,false,false
+227,CAN,NOR,Canada,Norway,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,CAN,DNK,Canada,Denmark,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,CAN,ISL,Canada,Iceland,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,CAN,TUR,Canada,Turkey,true,false,true,true,true,COW,1951-10-22,,false,true,false,false
+227,GBR,NLD,United Kingdom,Netherlands,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,BEL,GBR,United Kingdom,Belgium,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,GBR,LUX,United Kingdom,Luxembourg,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,FRA,GBR,United Kingdom,France,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,ESP,GBR,United Kingdom,Spain,true,false,true,true,false,COW,1981-12-10,,false,true,false,false
+227,GBR,PRT,United Kingdom,Portugal,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,DEU,GBR,United Kingdom,Germany,true,false,true,true,false,COW,1990-10-03,,false,true,false,false
+227,GBR,POL,United Kingdom,Poland,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,GBR,HUN,United Kingdom,Hungary,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,CZE,GBR,United Kingdom,Czech Republic,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,GBR,ITA,United Kingdom,Italy,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,GBR,GRC,United Kingdom,Greece,true,false,true,true,false,COW,1951-10-22,,false,true,false,false
+227,GBR,NOR,United Kingdom,Norway,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,DNK,GBR,United Kingdom,Denmark,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,GBR,ISL,United Kingdom,Iceland,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,GBR,TUR,United Kingdom,Turkey,true,false,true,true,true,COW,1951-10-22,,false,true,false,false
+227,BEL,NLD,Netherlands,Belgium,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,LUX,NLD,Netherlands,Luxembourg,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,FRA,NLD,Netherlands,France,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,ESP,NLD,Netherlands,Spain,true,false,true,true,false,COW,1981-12-10,,false,true,false,false
+227,NLD,PRT,Netherlands,Portugal,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,DEU,NLD,Netherlands,Germany,true,false,true,true,false,COW,1990-10-03,,false,true,false,false
+227,NLD,POL,Netherlands,Poland,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,HUN,NLD,Netherlands,Hungary,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,CZE,NLD,Netherlands,Czech Republic,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,ITA,NLD,Netherlands,Italy,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,GRC,NLD,Netherlands,Greece,true,false,true,true,false,COW,1951-10-22,,false,true,false,false
+227,NLD,NOR,Netherlands,Norway,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,DNK,NLD,Netherlands,Denmark,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,ISL,NLD,Netherlands,Iceland,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,NLD,TUR,Netherlands,Turkey,true,false,true,true,true,COW,1951-10-22,,false,true,false,false
+227,BEL,LUX,Belgium,Luxembourg,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,BEL,FRA,Belgium,France,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,BEL,ESP,Belgium,Spain,true,false,true,true,false,COW,1981-12-10,,false,true,false,false
+227,BEL,PRT,Belgium,Portugal,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,BEL,DEU,Belgium,Germany,true,false,true,true,false,COW,1990-10-03,,false,true,false,false
+227,BEL,POL,Belgium,Poland,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,BEL,HUN,Belgium,Hungary,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,BEL,CZE,Belgium,Czech Republic,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,BEL,ITA,Belgium,Italy,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,BEL,GRC,Belgium,Greece,true,false,true,true,false,COW,1951-10-22,,false,true,false,false
+227,BEL,NOR,Belgium,Norway,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,BEL,DNK,Belgium,Denmark,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,BEL,ISL,Belgium,Iceland,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,BEL,TUR,Belgium,Turkey,true,false,true,true,true,COW,1951-10-22,,false,true,false,false
+227,FRA,LUX,Luxembourg,France,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,ESP,LUX,Luxembourg,Spain,true,false,true,true,false,COW,1981-12-10,,false,true,false,false
+227,LUX,PRT,Luxembourg,Portugal,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,DEU,LUX,Luxembourg,Germany,true,false,true,true,false,COW,1990-10-03,,false,true,false,false
+227,LUX,POL,Luxembourg,Poland,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,HUN,LUX,Luxembourg,Hungary,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,CZE,LUX,Luxembourg,Czech Republic,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,ITA,LUX,Luxembourg,Italy,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,GRC,LUX,Luxembourg,Greece,true,false,true,true,false,COW,1951-10-22,,false,true,false,false
+227,LUX,NOR,Luxembourg,Norway,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,DNK,LUX,Luxembourg,Denmark,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,ISL,LUX,Luxembourg,Iceland,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,LUX,TUR,Luxembourg,Turkey,true,false,true,true,true,COW,1951-10-22,,false,true,false,false
+227,ESP,FRA,France,Spain,true,false,true,true,false,COW,1981-12-10,,false,true,false,false
+227,FRA,PRT,France,Portugal,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,DEU,FRA,France,Germany,true,false,true,true,false,COW,1990-10-03,,false,true,false,false
+227,FRA,POL,France,Poland,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,FRA,HUN,France,Hungary,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,CZE,FRA,France,Czech Republic,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,FRA,ITA,France,Italy,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,FRA,GRC,France,Greece,true,false,true,true,false,COW,1951-10-22,,false,true,false,false
+227,FRA,NOR,France,Norway,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,DNK,FRA,France,Denmark,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,FRA,ISL,France,Iceland,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,FRA,TUR,France,Turkey,true,false,true,true,true,COW,1951-10-22,,false,true,false,false
+227,ESP,PRT,Spain,Portugal,true,false,true,true,false,COW,1981-12-10,,false,true,false,false
+227,DEU,ESP,Spain,Germany,true,false,true,true,false,COW,1990-10-03,,false,true,false,false
+227,ESP,POL,Spain,Poland,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,ESP,HUN,Spain,Hungary,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,CZE,ESP,Spain,Czech Republic,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,ESP,ITA,Spain,Italy,true,false,true,true,false,COW,1981-12-10,,false,true,false,false
+227,ESP,GRC,Spain,Greece,true,false,true,true,false,COW,1981-12-10,,false,true,false,false
+227,ESP,NOR,Spain,Norway,true,false,true,true,false,COW,1981-12-10,,false,true,false,false
+227,DNK,ESP,Spain,Denmark,true,false,true,true,false,COW,1981-12-10,,false,true,false,false
+227,ESP,ISL,Spain,Iceland,true,false,true,true,false,COW,1981-12-10,,false,true,false,false
+227,ESP,TUR,Spain,Turkey,true,false,true,true,true,COW,1981-12-10,,false,true,false,false
+227,DEU,PRT,Portugal,Germany,true,false,true,true,false,COW,1990-10-03,,false,true,false,false
+227,POL,PRT,Portugal,Poland,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,HUN,PRT,Portugal,Hungary,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,CZE,PRT,Portugal,Czech Republic,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,ITA,PRT,Portugal,Italy,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,GRC,PRT,Portugal,Greece,true,false,true,true,false,COW,1951-10-22,,false,true,false,false
+227,NOR,PRT,Portugal,Norway,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,DNK,PRT,Portugal,Denmark,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,ISL,PRT,Portugal,Iceland,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,PRT,TUR,Portugal,Turkey,true,false,true,true,true,COW,1951-10-22,,false,true,false,false
+227,DEU,POL,Germany,Poland,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,DEU,HUN,Germany,Hungary,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,CZE,DEU,Germany,Czech Republic,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,DEU,ITA,Germany,Italy,true,false,true,true,false,COW,1990-10-03,,false,true,false,false
+227,DEU,GRC,Germany,Greece,true,false,true,true,false,COW,1990-10-03,,false,true,false,false
+227,DEU,NOR,Germany,Norway,true,false,true,true,false,COW,1990-10-03,,false,true,false,false
+227,DEU,DNK,Germany,Denmark,true,false,true,true,false,COW,1990-10-03,,false,true,false,false
+227,DEU,ISL,Germany,Iceland,true,false,true,true,false,COW,1990-10-03,,false,true,false,false
+227,DEU,TUR,Germany,Turkey,true,false,true,true,true,COW,1990-10-03,,false,true,false,false
+227,HUN,POL,Poland,Hungary,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,CZE,POL,Poland,Czech Republic,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,ITA,POL,Poland,Italy,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,GRC,POL,Poland,Greece,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,NOR,POL,Poland,Norway,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,DNK,POL,Poland,Denmark,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,ISL,POL,Poland,Iceland,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,POL,TUR,Poland,Turkey,true,false,true,true,true,COW,1999-03-12,,false,true,false,false
+227,CZE,HUN,Hungary,Czech Republic,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,HUN,ITA,Hungary,Italy,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,GRC,HUN,Hungary,Greece,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,HUN,NOR,Hungary,Norway,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,DNK,HUN,Hungary,Denmark,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,HUN,ISL,Hungary,Iceland,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,HUN,TUR,Hungary,Turkey,true,false,true,true,true,COW,1999-03-12,,false,true,false,false
+227,CZE,ITA,Czech Republic,Italy,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,CZE,GRC,Czech Republic,Greece,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,CZE,NOR,Czech Republic,Norway,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,CZE,DNK,Czech Republic,Denmark,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,CZE,ISL,Czech Republic,Iceland,true,false,true,true,false,COW,1999-03-12,,false,true,false,false
+227,CZE,TUR,Czech Republic,Turkey,true,false,true,true,true,COW,1999-03-12,,false,true,false,false
+227,GRC,ITA,Italy,Greece,true,false,true,true,false,COW,1951-10-22,,false,true,false,false
+227,ITA,NOR,Italy,Norway,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,DNK,ITA,Italy,Denmark,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,ISL,ITA,Italy,Iceland,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,ITA,TUR,Italy,Turkey,true,false,true,true,true,COW,1951-10-22,,false,true,false,false
+227,GRC,NOR,Greece,Norway,true,false,true,true,false,COW,1951-10-22,,false,true,false,false
+227,DNK,GRC,Greece,Denmark,true,false,true,true,false,COW,1951-10-22,,false,true,false,false
+227,GRC,ISL,Greece,Iceland,true,false,true,true,false,COW,1951-10-22,,false,true,false,false
+227,GRC,TUR,Greece,Turkey,true,false,true,true,true,COW,1951-10-22,,false,true,false,false
+227,DNK,NOR,Norway,Denmark,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,ISL,NOR,Norway,Iceland,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,NOR,TUR,Norway,Turkey,true,false,true,true,true,COW,1951-10-22,,false,true,false,false
+227,DNK,ISL,Denmark,Iceland,true,false,true,true,false,COW,1949-04-04,,false,true,false,false
+227,DNK,TUR,Denmark,Turkey,true,false,true,true,true,COW,1951-10-22,,false,true,false,false
+227,ISL,TUR,Iceland,Turkey,true,false,true,true,true,COW,1951-10-22,,false,true,false,false
+230,MAR,SOM,Somalia,Morocco,true,false,true,true,false,COW,1974-05-20,,false,true,false,false
+230,DZA,SOM,Somalia,Algeria,true,false,true,true,false,COW,1974-05-20,,false,true,false,false
+230,SOM,TUN,Somalia,Tunisia,true,false,true,true,false,COW,1974-05-20,,false,true,false,false
+230,LBY,SOM,Somalia,Libya,true,false,true,true,false,COW,1974-05-20,,false,true,false,false
+230,SDN,SOM,Somalia,Sudan,true,false,true,true,false,COW,1974-05-20,,false,true,false,false
+230,IRQ,SOM,Somalia,Iraq,true,false,true,true,false,COW,1974-05-20,,false,true,false,false
+230,EGY,SOM,Somalia,Egypt,true,false,true,true,false,COW,1989-05-22,,false,true,false,false
+230,SOM,SYR,Somalia,Syria,true,false,true,true,false,COW,1974-05-20,,false,true,false,false
+230,LBN,SOM,Somalia,Lebanon,true,false,true,true,false,COW,1974-05-20,,false,true,false,false
+230,JOR,SOM,Somalia,Jordan,true,false,true,true,false,COW,1974-05-20,,false,true,false,false
+230,SAU,SOM,Somalia,Saudi Arabia,true,false,true,true,false,COW,1974-05-20,,false,true,false,false
+230,SOM,YEM,Somalia,Yemen,true,false,true,true,false,COW,1990-05-22,,false,true,false,false
+230,KWT,SOM,Somalia,Kuwait,true,false,true,true,false,COW,1974-05-20,,false,true,false,false
+230,BHR,SOM,Somalia,Bahrain,true,false,true,true,false,COW,1974-05-20,,false,true,false,false
+230,QAT,SOM,Somalia,Qatar,true,false,true,true,false,COW,1974-05-20,,false,true,false,false
+230,ARE,SOM,Somalia,United Arab Emirates,true,false,true,true,false,COW,1974-05-20,,false,true,false,false
+230,DZA,MAR,Morocco,Algeria,true,false,true,true,false,COW,1964-09-11,,false,true,false,false
+230,MAR,TUN,Morocco,Tunisia,true,false,true,true,false,COW,1961-06-13,,false,true,false,false
+230,LBY,MAR,Morocco,Libya,true,false,true,true,false,COW,1964-09-11,,false,true,false,false
+230,MAR,SDN,Morocco,Sudan,true,false,true,true,false,COW,1964-09-11,,false,true,false,false
+230,IRQ,MAR,Morocco,Iraq,true,false,true,true,false,COW,1961-06-13,,false,true,false,false
+230,EGY,MAR,Morocco,Egypt,true,false,true,true,false,COW,1989-05-22,,false,true,false,false
+230,MAR,SYR,Morocco,Syria,true,false,true,true,false,COW,1961-09-29,,false,true,false,false
+230,LBN,MAR,Morocco,Lebanon,true,false,true,true,false,COW,1961-06-13,,false,true,false,false
+230,JOR,MAR,Morocco,Jordan,true,false,true,true,false,COW,1961-06-13,,false,true,false,false
+230,MAR,SAU,Morocco,Saudi Arabia,true,false,true,true,false,COW,1961-06-13,,false,true,false,false
+230,MAR,YEM,Morocco,Yemen,true,false,true,true,false,COW,1990-05-22,,false,true,false,false
+230,KWT,MAR,Morocco,Kuwait,true,false,true,true,false,COW,1961-08-12,,false,true,false,false
+230,BHR,MAR,Morocco,Bahrain,true,false,true,true,false,COW,1971-11-14,,false,true,false,false
+230,MAR,QAT,Morocco,Qatar,true,false,true,true,false,COW,1971-11-14,,false,true,false,false
+230,ARE,MAR,Morocco,United Arab Emirates,true,false,true,true,false,COW,1961-06-13,,false,true,false,false
+230,DZA,TUN,Algeria,Tunisia,true,false,true,true,false,COW,1964-09-11,,false,true,false,false
+230,DZA,LBY,Algeria,Libya,true,false,true,true,false,COW,1964-09-11,,false,true,false,false
+230,DZA,SDN,Algeria,Sudan,true,false,true,true,false,COW,1964-09-11,,false,true,false,false
+230,DZA,IRQ,Algeria,Iraq,true,false,true,true,false,COW,1964-09-11,,false,true,false,false
+230,DZA,EGY,Algeria,Egypt,true,false,true,true,false,COW,1989-05-22,,false,true,false,false
+230,DZA,SYR,Algeria,Syria,true,false,true,true,false,COW,1964-09-11,,false,true,false,false
+230,DZA,LBN,Algeria,Lebanon,true,false,true,true,false,COW,1964-09-11,,false,true,false,false
+230,DZA,JOR,Algeria,Jordan,true,false,true,true,false,COW,1964-09-11,,false,true,false,false
+230,DZA,SAU,Algeria,Saudi Arabia,true,false,true,true,false,COW,1964-09-11,,false,true,false,false
+230,DZA,YEM,Algeria,Yemen,true,false,true,true,false,COW,1990-05-22,,false,true,false,false
+230,DZA,KWT,Algeria,Kuwait,true,false,true,true,false,COW,1964-09-11,,false,true,false,false
+230,BHR,DZA,Algeria,Bahrain,true,false,true,true,false,COW,1971-11-14,,false,true,false,false
+230,DZA,QAT,Algeria,Qatar,true,false,true,true,false,COW,1971-11-14,,false,true,false,false
+230,ARE,DZA,Algeria,United Arab Emirates,true,false,true,true,false,COW,1964-09-11,,false,true,false,false
+230,LBY,TUN,Tunisia,Libya,true,false,true,true,false,COW,1964-09-11,,false,true,false,false
+230,SDN,TUN,Tunisia,Sudan,true,false,true,true,false,COW,1964-09-11,,false,true,false,false
+230,IRQ,TUN,Tunisia,Iraq,true,false,true,true,false,COW,1953-10-11,,false,true,false,false
+230,EGY,TUN,Tunisia,Egypt,true,false,true,true,false,COW,1989-05-22,,false,true,false,false
+230,SYR,TUN,Tunisia,Syria,true,false,true,true,false,COW,1961-09-29,,false,true,false,false
+230,LBN,TUN,Tunisia,Lebanon,true,false,true,true,false,COW,1953-10-11,,false,true,false,false
+230,JOR,TUN,Tunisia,Jordan,true,false,true,true,false,COW,1953-10-11,,false,true,false,false
+230,SAU,TUN,Tunisia,Saudi Arabia,true,false,true,true,false,COW,1953-10-11,,false,true,false,false
+230,TUN,YEM,Tunisia,Yemen,true,false,true,true,false,COW,1990-05-22,,false,true,false,false
+230,KWT,TUN,Tunisia,Kuwait,true,false,true,true,false,COW,1961-08-12,,false,true,false,false
+230,BHR,TUN,Tunisia,Bahrain,true,false,true,true,false,COW,1971-11-14,,false,true,false,false
+230,QAT,TUN,Tunisia,Qatar,true,false,true,true,false,COW,1971-11-14,,false,true,false,false
+230,ARE,TUN,Tunisia,United Arab Emirates,true,false,true,true,false,COW,1953-10-11,,false,true,false,false
+230,LBY,SDN,Libya,Sudan,true,false,true,true,false,COW,1964-09-11,,false,true,false,false
+230,IRQ,LBY,Libya,Iraq,true,false,true,true,false,COW,1964-09-11,,false,true,false,false
+230,EGY,LBY,Libya,Egypt,true,false,true,true,false,COW,1989-05-22,,false,true,false,false
+230,LBY,SYR,Libya,Syria,true,false,true,true,false,COW,1964-09-11,,false,true,false,false
+230,LBN,LBY,Libya,Lebanon,true,false,true,true,false,COW,1964-09-11,,false,true,false,false
+230,JOR,LBY,Libya,Jordan,true,false,true,true,false,COW,1964-09-11,,false,true,false,false
+230,LBY,SAU,Libya,Saudi Arabia,true,false,true,true,false,COW,1964-09-11,,false,true,false,false
+230,LBY,YEM,Libya,Yemen,true,false,true,true,false,COW,1990-05-22,,false,true,false,false
+230,KWT,LBY,Libya,Kuwait,true,false,true,true,false,COW,1964-09-11,,false,true,false,false
+230,BHR,LBY,Libya,Bahrain,true,false,true,true,false,COW,1971-11-14,,false,true,false,false
+230,LBY,QAT,Libya,Qatar,true,false,true,true,false,COW,1971-11-14,,false,true,false,false
+230,ARE,LBY,Libya,United Arab Emirates,true,false,true,true,false,COW,1964-09-11,,false,true,false,false
+230,IRQ,SDN,Sudan,Iraq,true,false,true,true,false,COW,1964-09-11,,false,true,false,false
+230,EGY,SDN,Sudan,Egypt,true,false,true,true,false,COW,1989-05-22,,false,true,false,false
+230,SDN,SYR,Sudan,Syria,true,false,true,true,false,COW,1964-09-11,,false,true,false,false
+230,LBN,SDN,Sudan,Lebanon,true,false,true,true,false,COW,1964-09-11,,false,true,false,false
+230,JOR,SDN,Sudan,Jordan,true,false,true,true,false,COW,1964-09-11,,false,true,false,false
+230,SAU,SDN,Sudan,Saudi Arabia,true,false,true,true,false,COW,1964-09-11,,false,true,false,false
+230,SDN,YEM,Sudan,Yemen,true,false,true,true,false,COW,1990-05-22,,false,true,false,false
+230,KWT,SDN,Sudan,Kuwait,true,false,true,true,false,COW,1964-09-11,,false,true,false,false
+230,BHR,SDN,Sudan,Bahrain,true,false,true,true,false,COW,1971-11-14,,false,true,false,false
+230,QAT,SDN,Sudan,Qatar,true,false,true,true,false,COW,1971-11-14,,false,true,false,false
+230,ARE,SDN,Sudan,United Arab Emirates,true,false,true,true,false,COW,1964-09-11,,false,true,false,false
+230,EGY,IRQ,Iraq,Egypt,true,false,true,true,false,COW,1989-05-22,,false,true,false,false
+230,IRQ,SYR,Iraq,Syria,true,false,true,true,false,COW,1961-09-29,,false,true,false,false
+230,IRQ,LBN,Iraq,Lebanon,true,false,true,true,false,COW,1952-08-07,,false,true,false,false
+230,IRQ,JOR,Iraq,Jordan,true,false,true,true,false,COW,1952-08-07,,false,true,false,false
+230,IRQ,SAU,Iraq,Saudi Arabia,true,false,true,true,false,COW,1952-08-07,,false,true,false,false
+230,IRQ,YEM,Iraq,Yemen,true,false,true,true,false,COW,1990-05-22,,false,true,false,false
+230,IRQ,KWT,Iraq,Kuwait,true,false,true,true,false,COW,1961-08-12,,false,true,false,false
+230,BHR,IRQ,Iraq,Bahrain,true,false,true,true,false,COW,1971-11-14,,false,true,false,false
+230,IRQ,QAT,Iraq,Qatar,true,false,true,true,false,COW,1971-11-14,,false,true,false,false
+230,ARE,IRQ,Iraq,United Arab Emirates,true,false,true,true,false,COW,1953-10-11,,false,true,false,false
+230,EGY,SYR,Egypt,Syria,true,false,true,true,false,COW,1989-05-22,,false,true,false,false
+230,EGY,LBN,Egypt,Lebanon,true,false,true,true,false,COW,1989-05-22,,false,true,false,false
+230,EGY,JOR,Egypt,Jordan,true,false,true,true,false,COW,1989-05-22,,false,true,false,false
+230,EGY,SAU,Egypt,Saudi Arabia,true,false,true,true,false,COW,1989-05-22,,false,true,false,false
+230,EGY,YEM,Egypt,Yemen,true,false,true,true,false,COW,1990-05-22,,false,true,false,false
+230,EGY,KWT,Egypt,Kuwait,true,false,true,true,false,COW,1989-05-22,,false,true,false,false
+230,BHR,EGY,Egypt,Bahrain,true,false,true,true,false,COW,1989-05-22,,false,true,false,false
+230,EGY,QAT,Egypt,Qatar,true,false,true,true,false,COW,1989-05-22,,false,true,false,false
+230,ARE,EGY,Egypt,United Arab Emirates,true,false,true,true,false,COW,1989-05-22,,false,true,false,false
+230,LBN,SYR,Syria,Lebanon,true,false,true,true,false,COW,1961-09-29,,false,true,false,false
+230,JOR,SYR,Syria,Jordan,true,false,true,true,false,COW,1961-09-29,,false,true,false,false
+230,SAU,SYR,Syria,Saudi Arabia,true,false,true,true,false,COW,1961-09-29,,false,true,false,false
+230,SYR,YEM,Syria,Yemen,true,false,true,true,false,COW,1990-05-22,,false,true,false,false
+230,KWT,SYR,Syria,Kuwait,true,false,true,true,false,COW,1961-09-29,,false,true,false,false
+230,BHR,SYR,Syria,Bahrain,true,false,true,true,false,COW,1971-11-14,,false,true,false,false
+230,QAT,SYR,Syria,Qatar,true,false,true,true,false,COW,1971-11-14,,false,true,false,false
+230,ARE,SYR,Syria,United Arab Emirates,true,false,true,true,false,COW,1961-09-29,,false,true,false,false
+230,JOR,LBN,Lebanon,Jordan,true,false,true,true,false,COW,1952-03-31,,false,true,false,false
+230,LBN,SAU,Lebanon,Saudi Arabia,true,false,true,true,false,COW,1950-06-17,,false,true,false,false
+230,LBN,YEM,Lebanon,Yemen,true,false,true,true,false,COW,1990-05-22,,false,true,false,false
+230,KWT,LBN,Lebanon,Kuwait,true,false,true,true,false,COW,1961-08-12,,false,true,false,false
+230,BHR,LBN,Lebanon,Bahrain,true,false,true,true,false,COW,1971-11-14,,false,true,false,false
+230,LBN,QAT,Lebanon,Qatar,true,false,true,true,false,COW,1971-11-14,,false,true,false,false
+230,ARE,LBN,Lebanon,United Arab Emirates,true,false,true,true,false,COW,1953-10-11,,false,true,false,false
+230,JOR,SAU,Jordan,Saudi Arabia,true,false,true,true,false,COW,1952-03-31,,false,true,false,false
+230,JOR,YEM,Jordan,Yemen,true,false,true,true,false,COW,1990-05-22,,false,true,false,false
+230,JOR,KWT,Jordan,Kuwait,true,false,true,true,false,COW,1961-08-12,,false,true,false,false
+230,BHR,JOR,Jordan,Bahrain,true,false,true,true,false,COW,1971-11-14,,false,true,false,false
+230,JOR,QAT,Jordan,Qatar,true,false,true,true,false,COW,1971-11-14,,false,true,false,false
+230,ARE,JOR,Jordan,United Arab Emirates,true,false,true,true,false,COW,1953-10-11,,false,true,false,false
+230,SAU,YEM,Saudi Arabia,Yemen,true,false,true,true,false,COW,1990-05-22,,false,true,false,false
+230,KWT,SAU,Saudi Arabia,Kuwait,true,false,true,true,false,COW,1961-08-12,,false,true,false,false
+230,BHR,SAU,Saudi Arabia,Bahrain,true,false,true,true,false,COW,1971-11-14,,false,true,false,false
+230,QAT,SAU,Saudi Arabia,Qatar,true,false,true,true,false,COW,1971-11-14,,false,true,false,false
+230,ARE,SAU,Saudi Arabia,United Arab Emirates,true,false,true,true,false,COW,1953-10-11,,false,true,false,false
+230,KWT,YEM,Yemen,Kuwait,true,false,true,true,false,COW,1990-05-22,,false,true,false,false
+230,BHR,YEM,Yemen,Bahrain,true,false,true,true,false,COW,1990-05-22,,false,true,false,false
+230,QAT,YEM,Yemen,Qatar,true,false,true,true,false,COW,1990-05-22,,false,true,false,false
+230,ARE,YEM,Yemen,United Arab Emirates,true,false,true,true,false,COW,1990-05-22,,false,true,false,false
+230,BHR,KWT,Kuwait,Bahrain,true,false,true,true,false,COW,1971-11-14,,false,true,false,false
+230,KWT,QAT,Kuwait,Qatar,true,false,true,true,false,COW,1971-11-14,,false,true,false,false
+230,ARE,KWT,Kuwait,United Arab Emirates,true,false,true,true,false,COW,1961-08-12,,false,true,false,false
+230,BHR,QAT,Bahrain,Qatar,true,false,true,true,false,COW,1971-11-14,,false,true,false,false
+230,ARE,BHR,Bahrain,United Arab Emirates,true,false,true,true,false,COW,1971-11-14,,false,true,false,false
+230,ARE,QAT,Qatar,United Arab Emirates,true,false,true,true,false,COW,1971-11-14,,false,true,false,false
+231,PHL,USA,United States of America,Philippines,true,false,false,false,false,COW,1951-08-30,,false,true,false,false
+232,AUS,USA,United States of America,Australia,true,false,true,true,false,COW,1951-09-01,,false,true,false,false
+233,JPN,USA,United States of America,Japan,true,false,false,false,true,COW,1951-09-08,,false,true,false,false
+236,KOR,USA,United States of America,South Korea,true,false,false,true,true,COW,1953-10-01,,false,true,false,false
+244,FRA,LBY,France,Libya,false,false,false,true,false,COW,1955-08-10,2011-02-26,false,false,false,false
+252,CAN,USA,United States of America,Canada,true,false,false,false,false,COW,1958-05-12,,false,true,false,false
+254,PAK,USA,United States of America,Pakistan,true,false,false,false,true,COW,1959-03-05,,false,true,false,false
+255,TUR,USA,United States of America,Turkey,true,false,false,false,true,COW,1959-03-05,,false,true,false,false
+256,LBR,USA,United States of America,Liberia,false,false,false,true,false,COW,1959-07-08,,false,true,false,false
+260,FRA,GAB,France,Gabon,true,false,false,false,false,COW,1960-08-17,,false,true,false,false
+265,CHN,PRK,China,North Korea,true,false,true,false,false,COW,1961-07-11,,false,true,false,false
+270,ETH,KEN,Kenya,Ethiopia,true,false,false,false,false,COW,1963-11-22,,false,true,false,false
+294,IND,PAK,India,Pakistan,false,false,true,false,false,COW,1972-07-02,,false,true,false,false
+303,ARG,CHL,Chile,Argentina,false,false,true,false,false,COW,1979-01-08,,false,true,false,false
+304,GIN,LBR,Guinea,Liberia,false,false,true,false,false,COW,2004-11-23,,false,true,false,false
+318,CPV,GNB,Cape Verde,Guinea-Bissau,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,CPV,GMB,Cape Verde,Gambia,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,CPV,MLI,Cape Verde,Mali,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,CPV,SEN,Cape Verde,Senegal,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,BEN,CPV,Cape Verde,Benin,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,CPV,NER,Cape Verde,Niger,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,CIV,CPV,Cape Verde,Ivory Coast,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,CPV,GIN,Cape Verde,Guinea,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,BFA,CPV,Cape Verde,Burkina Faso,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,CPV,LBR,Cape Verde,Liberia,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,CPV,SLE,Cape Verde,Sierra Leone,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,CPV,GHA,Cape Verde,Ghana,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,CPV,TGO,Cape Verde,Togo,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,CPV,NGA,Cape Verde,Nigeria,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,GMB,GNB,Guinea-Bissau,Gambia,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,GNB,MLI,Guinea-Bissau,Mali,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,GNB,SEN,Guinea-Bissau,Senegal,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,BEN,GNB,Guinea-Bissau,Benin,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,GNB,NER,Guinea-Bissau,Niger,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,CIV,GNB,Guinea-Bissau,Ivory Coast,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,GIN,GNB,Guinea-Bissau,Guinea,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,BFA,GNB,Guinea-Bissau,Burkina Faso,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,GNB,LBR,Guinea-Bissau,Liberia,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,GNB,SLE,Guinea-Bissau,Sierra Leone,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,GHA,GNB,Guinea-Bissau,Ghana,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,GNB,TGO,Guinea-Bissau,Togo,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,GNB,NGA,Guinea-Bissau,Nigeria,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,GMB,MLI,Gambia,Mali,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,GMB,SEN,Gambia,Senegal,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,BEN,GMB,Gambia,Benin,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,GMB,NER,Gambia,Niger,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,CIV,GMB,Gambia,Ivory Coast,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,GIN,GMB,Gambia,Guinea,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,BFA,GMB,Gambia,Burkina Faso,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,GMB,LBR,Gambia,Liberia,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,GMB,SLE,Gambia,Sierra Leone,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,GHA,GMB,Gambia,Ghana,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,GMB,TGO,Gambia,Togo,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,GMB,NGA,Gambia,Nigeria,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,MLI,SEN,Mali,Senegal,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,BEN,MLI,Mali,Benin,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,MLI,NER,Mali,Niger,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,CIV,MLI,Mali,Ivory Coast,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,GIN,MLI,Mali,Guinea,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,BFA,MLI,Mali,Burkina Faso,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,LBR,MLI,Mali,Liberia,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,MLI,SLE,Mali,Sierra Leone,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,GHA,MLI,Mali,Ghana,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,MLI,TGO,Mali,Togo,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,MLI,NGA,Mali,Nigeria,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,BEN,SEN,Senegal,Benin,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,NER,SEN,Senegal,Niger,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,CIV,SEN,Senegal,Ivory Coast,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,GIN,SEN,Senegal,Guinea,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,BFA,SEN,Senegal,Burkina Faso,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,LBR,SEN,Senegal,Liberia,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,SEN,SLE,Senegal,Sierra Leone,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,GHA,SEN,Senegal,Ghana,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,SEN,TGO,Senegal,Togo,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,NGA,SEN,Senegal,Nigeria,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,BEN,NER,Benin,Niger,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,BEN,CIV,Benin,Ivory Coast,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,BEN,GIN,Benin,Guinea,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,BEN,BFA,Benin,Burkina Faso,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,BEN,LBR,Benin,Liberia,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,BEN,SLE,Benin,Sierra Leone,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,BEN,GHA,Benin,Ghana,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,BEN,TGO,Benin,Togo,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,BEN,NGA,Benin,Nigeria,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,CIV,NER,Niger,Ivory Coast,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,GIN,NER,Niger,Guinea,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,BFA,NER,Niger,Burkina Faso,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,LBR,NER,Niger,Liberia,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,NER,SLE,Niger,Sierra Leone,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,GHA,NER,Niger,Ghana,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,NER,TGO,Niger,Togo,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,NER,NGA,Niger,Nigeria,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,CIV,GIN,Ivory Coast,Guinea,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,BFA,CIV,Ivory Coast,Burkina Faso,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,CIV,LBR,Ivory Coast,Liberia,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,CIV,SLE,Ivory Coast,Sierra Leone,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,CIV,GHA,Ivory Coast,Ghana,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,CIV,TGO,Ivory Coast,Togo,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,CIV,NGA,Ivory Coast,Nigeria,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,BFA,GIN,Guinea,Burkina Faso,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,GIN,LBR,Guinea,Liberia,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,GIN,SLE,Guinea,Sierra Leone,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,GHA,GIN,Guinea,Ghana,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,GIN,TGO,Guinea,Togo,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,GIN,NGA,Guinea,Nigeria,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,BFA,LBR,Burkina Faso,Liberia,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,BFA,SLE,Burkina Faso,Sierra Leone,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,BFA,GHA,Burkina Faso,Ghana,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,BFA,TGO,Burkina Faso,Togo,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,BFA,NGA,Burkina Faso,Nigeria,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,LBR,SLE,Liberia,Sierra Leone,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,GHA,LBR,Liberia,Ghana,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,LBR,TGO,Liberia,Togo,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,LBR,NGA,Liberia,Nigeria,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,GHA,SLE,Sierra Leone,Ghana,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,SLE,TGO,Sierra Leone,Togo,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,NGA,SLE,Sierra Leone,Nigeria,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,GHA,TGO,Ghana,Togo,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,GHA,NGA,Ghana,Nigeria,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+318,NGA,TGO,Togo,Nigeria,true,false,false,false,false,COW,1981-05-29,,false,true,false,false
+319,DMA,LCA,Dominica,St. Lucia,true,false,false,false,false,COW,1981-06-18,,false,true,false,false
+319,DMA,VCT,Dominica,St. Vincent and the Grenadines,true,false,false,false,false,COW,1981-06-18,,false,true,false,false
+319,ATG,DMA,Dominica,Antigua & Barbuda,true,false,false,false,false,COW,1981-06-18,,false,true,false,false
+319,DMA,KNA,Dominica,St. Kitts and Nevis,true,false,false,false,false,COW,1981-06-18,,false,true,false,false
+319,LCA,VCT,St. Lucia,St. Vincent and the Grenadines,true,false,false,false,false,COW,1981-06-18,,false,true,false,false
+319,ATG,LCA,St. Lucia,Antigua & Barbuda,true,false,false,false,false,COW,1981-06-18,,false,true,false,false
+319,KNA,LCA,St. Lucia,St. Kitts and Nevis,true,false,false,false,false,COW,1981-06-18,,false,true,false,false
+319,ATG,VCT,St. Vincent and the Grenadines,Antigua & Barbuda,true,false,false,false,false,COW,1981-06-18,,false,true,false,false
+319,KNA,VCT,St. Vincent and the Grenadines,St. Kitts and Nevis,true,false,false,false,false,COW,1981-06-18,,false,true,false,false
+319,ATG,KNA,Antigua & Barbuda,St. Kitts and Nevis,true,false,false,false,false,COW,1981-06-18,,false,true,false,false
+323,SWZ,ZAF,South Africa,Swaziland,false,false,true,false,false,COW,1982-02-12,,false,true,false,false
+331,ARG,CHL,Chile,Argentina,false,false,true,false,false,COW,1984-11-29,,false,true,false,false
+334,MAR,MRT,Mauritania,Morocco,true,false,false,true,false,COW,1989-02-17,,false,true,false,false
+334,DZA,MRT,Mauritania,Algeria,true,false,false,true,false,COW,1989-02-17,,false,true,false,false
+334,MRT,TUN,Mauritania,Tunisia,true,false,false,true,false,COW,1989-02-17,,false,true,false,false
+334,LBY,MRT,Mauritania,Libya,true,false,false,true,false,COW,1989-02-17,,false,true,false,false
+334,DZA,MAR,Morocco,Algeria,true,false,false,true,false,COW,1989-02-17,,false,true,false,false
+334,MAR,TUN,Morocco,Tunisia,true,false,false,true,false,COW,1989-02-17,,false,true,false,false
+334,LBY,MAR,Morocco,Libya,true,false,false,true,false,COW,1989-02-17,,false,true,false,false
+334,DZA,TUN,Algeria,Tunisia,true,false,false,true,false,COW,1989-02-17,,false,true,false,false
+334,DZA,LBY,Algeria,Libya,true,false,false,true,false,COW,1989-02-17,,false,true,false,false
+334,LBY,TUN,Tunisia,Libya,true,false,false,true,false,COW,1989-02-17,,false,true,false,false
+337,DEU,RUS,Germany,Russia,false,true,true,true,false,COW,1990-11-09,,false,true,false,false
+339,LBN,SYR,Syria,Lebanon,false,false,false,true,false,COW,1991-05-22,,false,true,false,false
+340,ROU,TUR,Romania,Turkey,false,true,false,false,false,COW,1991-09-19,,false,true,false,false
+341,BGR,GRC,Greece,Bulgaria,false,true,false,false,false,COW,1991-10-07,,false,true,false,false
+342,GRC,ROU,Greece,Romania,false,true,false,true,false,COW,1991-11-28,,false,true,false,false
+343,HUN,UKR,Hungary,Ukraine,false,true,false,false,false,COW,1991-12-06,,false,true,false,false
+344,KOR,PRK,North Korea,South Korea,false,false,true,false,false,COW,1991-12-13,,false,true,false,false
+345,FIN,RUS,Russia,Finland,false,true,true,true,false,COW,1992-01-20,,false,true,false,false
+346,BGR,ROU,Bulgaria,Romania,false,true,true,true,false,COW,1992-01-27,,false,true,false,false
+347,FRA,RUS,France,Russia,false,false,false,true,false,COW,1992-02-06,,false,true,false,false
+348,BGR,TUR,Bulgaria,Turkey,false,true,true,true,false,COW,1992-05-06,,false,true,false,false
+349,MDA,RUS,Moldova,Russia,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,MDA,UKR,Moldova,Ukraine,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,BLR,MDA,Moldova,Belarus,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,ARM,MDA,Moldova,Armenia,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,GEO,MDA,Moldova,Georgia,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,AZE,MDA,Moldova,Azerbaijan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,MDA,TKM,Moldova,Turkmenistan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,MDA,TJK,Moldova,Tajikistan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,KGZ,MDA,Moldova,Kyrgyzstan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,MDA,UZB,Moldova,Uzbekistan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,KAZ,MDA,Moldova,Kazakhstan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,RUS,UKR,Russia,Ukraine,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,BLR,RUS,Russia,Belarus,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,ARM,RUS,Russia,Armenia,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,GEO,RUS,Russia,Georgia,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,AZE,RUS,Russia,Azerbaijan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,RUS,TKM,Russia,Turkmenistan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,RUS,TJK,Russia,Tajikistan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,KGZ,RUS,Russia,Kyrgyzstan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,RUS,UZB,Russia,Uzbekistan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,KAZ,RUS,Russia,Kazakhstan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,BLR,UKR,Ukraine,Belarus,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,ARM,UKR,Ukraine,Armenia,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,GEO,UKR,Ukraine,Georgia,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,AZE,UKR,Ukraine,Azerbaijan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,TKM,UKR,Ukraine,Turkmenistan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,TJK,UKR,Ukraine,Tajikistan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,KGZ,UKR,Ukraine,Kyrgyzstan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,UKR,UZB,Ukraine,Uzbekistan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,KAZ,UKR,Ukraine,Kazakhstan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,ARM,BLR,Belarus,Armenia,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,BLR,GEO,Belarus,Georgia,true,false,false,false,false,COW,1993-12-31,,false,true,false,false
+349,AZE,BLR,Belarus,Azerbaijan,true,false,false,false,false,COW,1993-12-31,,false,true,false,false
+349,BLR,TKM,Belarus,Turkmenistan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,BLR,TJK,Belarus,Tajikistan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,BLR,KGZ,Belarus,Kyrgyzstan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,BLR,UZB,Belarus,Uzbekistan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,BLR,KAZ,Belarus,Kazakhstan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,ARM,GEO,Armenia,Georgia,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,ARM,AZE,Armenia,Azerbaijan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,ARM,TKM,Armenia,Turkmenistan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,ARM,TJK,Armenia,Tajikistan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,ARM,KGZ,Armenia,Kyrgyzstan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,ARM,UZB,Armenia,Uzbekistan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,ARM,KAZ,Armenia,Kazakhstan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,AZE,GEO,Georgia,Azerbaijan,true,false,false,false,false,COW,1993-12-09,,false,true,false,false
+349,GEO,TKM,Georgia,Turkmenistan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,GEO,TJK,Georgia,Tajikistan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,GEO,KGZ,Georgia,Kyrgyzstan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,GEO,UZB,Georgia,Uzbekistan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,GEO,KAZ,Georgia,Kazakhstan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,AZE,TKM,Azerbaijan,Turkmenistan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,AZE,TJK,Azerbaijan,Tajikistan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,AZE,KGZ,Azerbaijan,Kyrgyzstan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,AZE,UZB,Azerbaijan,Uzbekistan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,AZE,KAZ,Azerbaijan,Kazakhstan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,TJK,TKM,Turkmenistan,Tajikistan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,KGZ,TKM,Turkmenistan,Kyrgyzstan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,TKM,UZB,Turkmenistan,Uzbekistan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,KAZ,TKM,Turkmenistan,Kazakhstan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,KGZ,TJK,Tajikistan,Kyrgyzstan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,TJK,UZB,Tajikistan,Uzbekistan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,KAZ,TJK,Tajikistan,Kazakhstan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,KGZ,UZB,Kyrgyzstan,Uzbekistan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,KAZ,KGZ,Kyrgyzstan,Kazakhstan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+349,KAZ,UZB,Uzbekistan,Kazakhstan,true,false,false,false,false,COW,1995-02-10,,false,true,false,false
+350,BLR,RUS,Russia,Belarus,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,ARM,RUS,Russia,Armenia,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,GEO,RUS,Russia,Georgia,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,AZE,RUS,Russia,Azerbaijan,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,RUS,TJK,Russia,Tajikistan,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,KGZ,RUS,Russia,Kyrgyzstan,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,RUS,UZB,Russia,Uzbekistan,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,KAZ,RUS,Russia,Kazakhstan,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,ARM,BLR,Belarus,Armenia,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,BLR,GEO,Belarus,Georgia,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,AZE,BLR,Belarus,Azerbaijan,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,BLR,TJK,Belarus,Tajikistan,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,BLR,KGZ,Belarus,Kyrgyzstan,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,BLR,UZB,Belarus,Uzbekistan,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,BLR,KAZ,Belarus,Kazakhstan,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,ARM,GEO,Armenia,Georgia,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,ARM,AZE,Armenia,Azerbaijan,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,ARM,TJK,Armenia,Tajikistan,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,ARM,KGZ,Armenia,Kyrgyzstan,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,ARM,UZB,Armenia,Uzbekistan,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,ARM,KAZ,Armenia,Kazakhstan,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,AZE,GEO,Georgia,Azerbaijan,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,GEO,TJK,Georgia,Tajikistan,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,GEO,KGZ,Georgia,Kyrgyzstan,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,GEO,UZB,Georgia,Uzbekistan,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,GEO,KAZ,Georgia,Kazakhstan,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,AZE,TJK,Azerbaijan,Tajikistan,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,AZE,KGZ,Azerbaijan,Kyrgyzstan,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,AZE,UZB,Azerbaijan,Uzbekistan,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,AZE,KAZ,Azerbaijan,Kazakhstan,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,KGZ,TJK,Tajikistan,Kyrgyzstan,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,TJK,UZB,Tajikistan,Uzbekistan,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,KAZ,TJK,Tajikistan,Kazakhstan,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,KGZ,UZB,Kyrgyzstan,Uzbekistan,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,KAZ,KGZ,Kyrgyzstan,Kazakhstan,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+350,KAZ,UZB,Uzbekistan,Kazakhstan,true,false,false,false,false,COW,1992-05-15,,false,true,false,false
+351,POL,UKR,Poland,Ukraine,false,true,true,true,false,COW,1992-05-18,,false,true,false,false
+352,POL,RUS,Poland,Russia,false,true,true,true,false,COW,1992-05-22,,false,true,false,false
+353,KAZ,RUS,Russia,Kazakhstan,true,false,true,false,false,COW,1992-05-25,,false,true,false,false
+354,RUS,TUR,Russia,Turkey,false,true,true,true,false,COW,1992-05-25,,false,true,false,false
+355,RUS,UZB,Russia,Uzbekistan,true,false,true,true,false,COW,1992-05-30,,false,true,false,false
+356,ALB,TUR,Albania,Turkey,false,true,true,true,false,COW,1992-06-01,,false,true,false,false
+357,KGZ,RUS,Russia,Kyrgyzstan,true,true,true,true,false,COW,1992-06-10,,false,true,false,false
+358,CAN,RUS,Canada,Russia,false,true,true,false,false,COW,1992-06-19,,false,true,false,false
+359,BLR,POL,Poland,Belarus,false,true,false,true,false,COW,1992-06-23,,false,true,false,false
+360,LVA,POL,Poland,Latvia,false,true,false,false,false,COW,1992-07-01,,false,true,false,false
+361,EST,POL,Poland,Estonia,false,true,false,true,false,COW,1992-07-02,,false,true,false,false
+364,BGR,RUS,Bulgaria,Russia,false,true,true,true,false,COW,1992-08-04,,false,true,false,false
+365,KGZ,UZB,Kyrgyzstan,Uzbekistan,true,false,false,false,false,COW,1992-09-29,,false,true,false,false
+366,MDA,UKR,Moldova,Ukraine,false,true,true,false,false,COW,1992-10-23,,false,true,false,false
+367,CZE,SVK,Czech Republic,Slovakia,true,false,false,true,false,COW,1992-11-23,,false,true,false,false
+368,MNG,RUS,Russia,Mongolia,false,false,true,false,false,COW,2000-11-14,,false,true,false,false
+369,ALB,BGR,Albania,Bulgaria,false,true,true,false,false,COW,1993-02-14,,false,true,false,false
+370,GEO,POL,Poland,Georgia,false,true,true,true,false,COW,1993-04-20,,false,true,false,false
+371,RUS,TJK,Russia,Tajikistan,true,true,true,true,false,COW,1993-05-25,,false,true,false,false
+372,SVK,UKR,Slovakia,Ukraine,false,true,true,true,false,COW,1993-06-30,,false,true,false,false
+373,ROU,SVK,Slovakia,Romania,false,true,true,true,false,COW,1993-09-24,,false,true,false,false
+374,BGR,BLR,Bulgaria,Belarus,false,true,true,true,false,COW,1993-10-19,,false,true,false,false
+375,FRA,GEO,France,Georgia,false,false,false,true,false,COW,1994-01-21,,false,true,false,false
+376,LTU,UKR,Lithuania,Ukraine,false,true,false,false,false,COW,1994-02-08,,false,true,false,false
+377,AZE,TUR,Azerbaijan,Turkey,true,false,false,false,false,COW,1994-02-09,,false,true,false,false
+378,LTU,POL,Poland,Lithuania,false,true,true,true,false,COW,1994-04-26,,false,true,false,false
+379,HRV,TUR,Croatia,Turkey,false,true,true,true,false,COW,1994-07-16,,false,true,false,false
+380,ISR,JOR,Jordan,Israel,false,true,true,false,false,COW,1994-10-26,,false,true,false,false
+381,MDA,POL,Poland,Moldova,false,true,true,true,false,COW,1994-11-15,,false,true,false,false
+382,BLR,LTU,Lithuania,Belarus,false,true,true,false,false,COW,1995-02-06,,false,true,false,false
+383,LTU,MDA,Moldova,Lithuania,false,true,true,true,false,COW,1995-03-27,,false,true,false,false
+384,LVA,UKR,Latvia,Ukraine,false,true,true,true,false,COW,1995-05-23,,false,true,false,false
+385,LVA,UZB,Latvia,Uzbekistan,false,true,true,true,false,COW,1995-06-06,,false,true,false,false
+386,HRV,SRB,Croatia,Yugoslavia,false,false,true,false,false,COW,1995-11-21,,false,true,false,true
+386,BIH,HRV,Croatia,Bosnia and Herzegovina,false,false,true,false,false,COW,1995-11-21,,false,true,false,false
+386,BIH,SRB,Yugoslavia,Bosnia and Herzegovina,false,false,true,false,false,COW,1995-11-21,,false,true,false,true
+388,BRB,DMA,Barbados,Dominica,true,false,false,false,false,COW,1996-03-05,,false,true,false,false
+388,BRB,GRD,Barbados,Grenada,true,false,false,false,false,COW,1996-03-05,,false,true,false,false
+388,BRB,LCA,Barbados,St. Lucia,true,false,false,false,false,COW,1996-03-05,,false,true,false,false
+388,BRB,VCT,Barbados,St. Vincent and the Grenadines,true,false,false,false,false,COW,1996-03-05,,false,true,false,false
+388,ATG,BRB,Barbados,Antigua & Barbuda,true,false,false,false,false,COW,1996-03-05,,false,true,false,false
+388,BRB,KNA,Barbados,St. Kitts and Nevis,true,false,false,false,false,COW,1996-03-05,,false,true,false,false
+388,DMA,GRD,Dominica,Grenada,true,false,false,false,false,COW,1996-03-05,,false,true,false,false
+388,DMA,LCA,Dominica,St. Lucia,true,false,false,false,false,COW,1996-03-05,,false,true,false,false
+388,DMA,VCT,Dominica,St. Vincent and the Grenadines,true,false,false,false,false,COW,1996-03-05,,false,true,false,false
+388,ATG,DMA,Dominica,Antigua & Barbuda,true,false,false,false,false,COW,1996-03-05,,false,true,false,false
+388,DMA,KNA,Dominica,St. Kitts and Nevis,true,false,false,false,false,COW,1996-03-05,,false,true,false,false
+388,GRD,LCA,Grenada,St. Lucia,true,false,false,false,false,COW,1996-03-05,,false,true,false,false
+388,GRD,VCT,Grenada,St. Vincent and the Grenadines,true,false,false,false,false,COW,1996-03-05,,false,true,false,false
+388,ATG,GRD,Grenada,Antigua & Barbuda,true,false,false,false,false,COW,1996-03-05,,false,true,false,false
+388,GRD,KNA,Grenada,St. Kitts and Nevis,true,false,false,false,false,COW,1996-03-05,,false,true,false,false
+388,LCA,VCT,St. Lucia,St. Vincent and the Grenadines,true,false,false,false,false,COW,1996-03-05,,false,true,false,false
+388,ATG,LCA,St. Lucia,Antigua & Barbuda,true,false,false,false,false,COW,1996-03-05,,false,true,false,false
+388,KNA,LCA,St. Lucia,St. Kitts and Nevis,true,false,false,false,false,COW,1996-03-05,,false,true,false,false
+388,ATG,VCT,St. Vincent and the Grenadines,Antigua & Barbuda,true,false,false,false,false,COW,1996-03-05,,false,true,false,false
+388,KNA,VCT,St. Vincent and the Grenadines,St. Kitts and Nevis,true,false,false,false,false,COW,1996-03-05,,false,true,false,false
+388,ATG,KNA,Antigua & Barbuda,St. Kitts and Nevis,true,false,false,false,false,COW,1996-03-05,,false,true,false,false
+389,RUS,TJK,Russia,Tajikistan,false,false,true,true,false,COW,1996-04-27,,false,true,false,false
+389,KGZ,RUS,Russia,Kyrgyzstan,false,false,true,true,false,COW,1996-04-27,,false,true,false,false
+389,RUS,UZB,Russia,Uzbekistan,false,false,true,true,false,COW,2001-06-15,,false,true,false,false
+389,KAZ,RUS,Russia,Kazakhstan,false,false,true,true,false,COW,1996-04-27,,false,true,false,false
+389,CHN,RUS,Russia,China,false,false,true,true,false,COW,1996-04-27,,false,true,false,false
+389,KGZ,TJK,Tajikistan,Kyrgyzstan,false,false,true,true,false,COW,1996-04-27,,false,true,false,false
+389,TJK,UZB,Tajikistan,Uzbekistan,false,false,true,true,false,COW,2001-06-15,,false,true,false,false
+389,KAZ,TJK,Tajikistan,Kazakhstan,false,false,true,true,false,COW,1996-04-27,,false,true,false,false
+389,CHN,TJK,Tajikistan,China,false,false,true,true,false,COW,1996-04-27,,false,true,false,false
+389,KGZ,UZB,Kyrgyzstan,Uzbekistan,false,false,true,true,false,COW,2001-06-15,,false,true,false,false
+389,KAZ,KGZ,Kyrgyzstan,Kazakhstan,false,false,true,true,false,COW,1996-04-27,,false,true,false,false
+389,CHN,KGZ,Kyrgyzstan,China,false,false,true,true,false,COW,1996-04-27,,false,true,false,false
+389,KAZ,UZB,Uzbekistan,Kazakhstan,false,false,true,true,false,COW,2001-06-15,,false,true,false,false
+389,CHN,UZB,Uzbekistan,China,false,false,true,true,false,COW,2001-06-15,,false,true,false,false
+389,CHN,KAZ,Kazakhstan,China,false,false,true,true,false,COW,1996-04-27,,false,true,false,false
+390,ARM,UKR,Ukraine,Armenia,false,true,true,false,false,COW,1996-05-14,,false,true,false,false
+391,GRC,POL,Poland,Greece,false,false,true,false,false,COW,1996-06-12,,false,true,false,false
+392,SVK,UZB,Slovakia,Uzbekistan,false,true,true,true,false,COW,1997-01-16,,false,true,false,false
+393,BLR,RUS,Russia,Belarus,true,false,false,true,false,COW,1997-04-02,,false,true,false,false
+394,CAF,COG,Central African Republic,Congo,true,false,false,true,false,COW,1998-05-11,,false,true,false,false
+395,COD,COG,Congo,Democratic Republic of the Congo,false,false,true,false,false,COW,1998-12-29,,false,true,false,false
+397,PRK,RUS,Russia,North Korea,false,false,false,true,false,COW,2000-02-09,,false,true,false,false
+398,GNQ,STP,Sao Tome and Principe,Equatorial Guinea,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,CMR,STP,Sao Tome and Principe,Cameroon,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,GAB,STP,Sao Tome and Principe,Gabon,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,CAF,STP,Sao Tome and Principe,Central African Republic,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,STP,TCD,Sao Tome and Principe,Chad,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,COG,STP,Sao Tome and Principe,Congo,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,COD,STP,Sao Tome and Principe,Democratic Republic of the Congo,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,BDI,STP,Sao Tome and Principe,Burundi,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,RWA,STP,Sao Tome and Principe,Rwanda,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,AGO,STP,Sao Tome and Principe,Angola,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,CMR,GNQ,Equatorial Guinea,Cameroon,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,GAB,GNQ,Equatorial Guinea,Gabon,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,CAF,GNQ,Equatorial Guinea,Central African Republic,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,GNQ,TCD,Equatorial Guinea,Chad,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,COG,GNQ,Equatorial Guinea,Congo,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,COD,GNQ,Equatorial Guinea,Democratic Republic of the Congo,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,BDI,GNQ,Equatorial Guinea,Burundi,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,GNQ,RWA,Equatorial Guinea,Rwanda,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,AGO,GNQ,Equatorial Guinea,Angola,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,CMR,GAB,Cameroon,Gabon,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,CAF,CMR,Cameroon,Central African Republic,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,CMR,TCD,Cameroon,Chad,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,CMR,COG,Cameroon,Congo,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,CMR,COD,Cameroon,Democratic Republic of the Congo,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,BDI,CMR,Cameroon,Burundi,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,CMR,RWA,Cameroon,Rwanda,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,AGO,CMR,Cameroon,Angola,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,CAF,GAB,Gabon,Central African Republic,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,GAB,TCD,Gabon,Chad,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,COG,GAB,Gabon,Congo,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,COD,GAB,Gabon,Democratic Republic of the Congo,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,BDI,GAB,Gabon,Burundi,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,GAB,RWA,Gabon,Rwanda,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,AGO,GAB,Gabon,Angola,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,CAF,TCD,Central African Republic,Chad,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,CAF,COG,Central African Republic,Congo,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,CAF,COD,Central African Republic,Democratic Republic of the Congo,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,BDI,CAF,Central African Republic,Burundi,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,CAF,RWA,Central African Republic,Rwanda,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,AGO,CAF,Central African Republic,Angola,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,COG,TCD,Chad,Congo,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,COD,TCD,Chad,Democratic Republic of the Congo,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,BDI,TCD,Chad,Burundi,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,RWA,TCD,Chad,Rwanda,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,AGO,TCD,Chad,Angola,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,COD,COG,Congo,Democratic Republic of the Congo,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,BDI,COG,Congo,Burundi,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,COG,RWA,Congo,Rwanda,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,AGO,COG,Congo,Angola,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,BDI,COD,Democratic Republic of the Congo,Burundi,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,COD,RWA,Democratic Republic of the Congo,Rwanda,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,AGO,COD,Democratic Republic of the Congo,Angola,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,BDI,RWA,Burundi,Rwanda,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,AGO,BDI,Burundi,Angola,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+398,AGO,RWA,Rwanda,Angola,true,false,true,false,false,COW,2000-02-24,,false,true,false,false
+399,ERI,ETH,Ethiopia,Eritrea,false,false,true,false,false,COW,2000-12-12,,false,true,false,false
+400,KWT,SAU,Saudi Arabia,Kuwait,true,false,false,false,false,COW,2000-12-31,,false,true,false,false
+400,BHR,SAU,Saudi Arabia,Bahrain,true,false,false,false,false,COW,2000-12-31,,false,true,false,false
+400,QAT,SAU,Saudi Arabia,Qatar,true,false,false,false,false,COW,2000-12-31,,false,true,false,false
+400,ARE,SAU,Saudi Arabia,United Arab Emirates,true,false,false,false,false,COW,2000-12-31,,false,true,false,false
+400,OMN,SAU,Saudi Arabia,Oman,true,false,false,false,false,COW,2000-12-31,,false,true,false,false
+400,BHR,KWT,Kuwait,Bahrain,true,false,false,false,false,COW,2000-12-31,,false,true,false,false
+400,KWT,QAT,Kuwait,Qatar,true,false,false,false,false,COW,2000-12-31,,false,true,false,false
+400,ARE,KWT,Kuwait,United Arab Emirates,true,false,false,false,false,COW,2000-12-31,,false,true,false,false
+400,KWT,OMN,Kuwait,Oman,true,false,false,false,false,COW,2000-12-31,,false,true,false,false
+400,BHR,QAT,Bahrain,Qatar,true,false,false,false,false,COW,2000-12-31,,false,true,false,false
+400,ARE,BHR,Bahrain,United Arab Emirates,true,false,false,false,false,COW,2000-12-31,,false,true,false,false
+400,BHR,OMN,Bahrain,Oman,true,false,false,false,false,COW,2000-12-31,,false,true,false,false
+400,ARE,QAT,Qatar,United Arab Emirates,true,false,false,false,false,COW,2000-12-31,,false,true,false,false
+400,OMN,QAT,Qatar,Oman,true,false,false,false,false,COW,2000-12-31,,false,true,false,false
+400,ARE,OMN,United Arab Emirates,Oman,true,false,false,false,false,COW,2000-12-31,,false,true,false,false
+401,RUS,TKM,Russia,Turkmenistan,false,false,true,true,false,COW,2002-04-23,,false,true,false,false
+402,AFG,IRN,Iran,Afghanistan,false,false,true,false,false,COW,2002-12-22,,false,true,false,false
+402,IRN,TKM,Iran,Turkmenistan,false,false,true,false,false,COW,2002-12-22,,false,true,false,false
+402,IRN,TJK,Iran,Tajikistan,false,false,true,false,false,COW,2002-12-22,,false,true,false,false
+402,IRN,UZB,Iran,Uzbekistan,false,false,true,false,false,COW,2002-12-22,,false,true,false,false
+402,CHN,IRN,Iran,China,false,false,true,false,false,COW,2002-12-22,,false,true,false,false
+402,IRN,PAK,Iran,Pakistan,false,false,true,false,false,COW,2002-12-22,,false,true,false,false
+402,AFG,TKM,Afghanistan,Turkmenistan,false,false,true,false,false,COW,2002-12-22,,false,true,false,false
+402,AFG,TJK,Afghanistan,Tajikistan,false,false,true,false,false,COW,2002-12-22,,false,true,false,false
+402,AFG,UZB,Afghanistan,Uzbekistan,false,false,true,false,false,COW,2002-12-22,,false,true,false,false
+402,AFG,CHN,Afghanistan,China,false,false,true,false,false,COW,2002-12-22,,false,true,false,false
+402,AFG,PAK,Afghanistan,Pakistan,false,false,true,false,false,COW,2002-12-22,,false,true,false,false
+402,TJK,TKM,Turkmenistan,Tajikistan,false,false,true,false,false,COW,2002-12-22,,false,true,false,false
+402,TKM,UZB,Turkmenistan,Uzbekistan,false,false,true,false,false,COW,2002-12-22,,false,true,false,false
+402,CHN,TKM,Turkmenistan,China,false,false,true,false,false,COW,2002-12-22,,false,true,false,false
+402,PAK,TKM,Turkmenistan,Pakistan,false,false,true,false,false,COW,2002-12-22,,false,true,false,false
+402,TJK,UZB,Tajikistan,Uzbekistan,false,false,true,false,false,COW,2002-12-22,,false,true,false,false
+402,CHN,TJK,Tajikistan,China,false,false,true,false,false,COW,2002-12-22,,false,true,false,false
+402,PAK,TJK,Tajikistan,Pakistan,false,false,true,false,false,COW,2002-12-22,,false,true,false,false
+402,CHN,UZB,Uzbekistan,China,false,false,true,false,false,COW,2002-12-22,,false,true,false,false
+402,PAK,UZB,Uzbekistan,Pakistan,false,false,true,false,false,COW,2002-12-22,,false,true,false,false
+402,CHN,PAK,China,Pakistan,false,false,true,false,false,COW,2002-12-22,,false,true,false,false
+404,AZE,IRN,Azerbaijan,Iran,false,false,true,false,false,COW,2005-05-16,,false,true,false,false
+405,RUS,UZB,Russia,Uzbekistan,true,false,false,true,false,COW,2005-11-14,,false,true,false,false
+406,IRN,SYR,Iran,Syria,false,false,false,true,false,COW,2006-06-15,,false,true,false,false
+407,CAF,COG,Central African Republic,Congo,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,CAF,COD,Central African Republic,Democratic Republic of the Congo,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,CAF,UGA,Central African Republic,Uganda,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,CAF,KEN,Central African Republic,Kenya,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,CAF,TZA,Central African Republic,Tanzania,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,BDI,CAF,Central African Republic,Burundi,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,CAF,RWA,Central African Republic,Rwanda,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,AGO,CAF,Central African Republic,Angola,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,CAF,ZMB,Central African Republic,Zambia,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,CAF,SDN,Central African Republic,Sudan,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,COD,COG,Congo,Democratic Republic of the Congo,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,COG,UGA,Congo,Uganda,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,COG,KEN,Congo,Kenya,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,COG,TZA,Congo,Tanzania,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,BDI,COG,Congo,Burundi,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,COG,RWA,Congo,Rwanda,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,AGO,COG,Congo,Angola,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,COG,ZMB,Congo,Zambia,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,COG,SDN,Congo,Sudan,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,COD,UGA,Democratic Republic of the Congo,Uganda,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,COD,KEN,Democratic Republic of the Congo,Kenya,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,COD,TZA,Democratic Republic of the Congo,Tanzania,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,BDI,COD,Democratic Republic of the Congo,Burundi,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,COD,RWA,Democratic Republic of the Congo,Rwanda,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,AGO,COD,Democratic Republic of the Congo,Angola,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,COD,ZMB,Democratic Republic of the Congo,Zambia,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,COD,SDN,Democratic Republic of the Congo,Sudan,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,KEN,UGA,Uganda,Kenya,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,TZA,UGA,Uganda,Tanzania,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,BDI,UGA,Uganda,Burundi,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,RWA,UGA,Uganda,Rwanda,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,AGO,UGA,Uganda,Angola,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,UGA,ZMB,Uganda,Zambia,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,SDN,UGA,Uganda,Sudan,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,KEN,TZA,Kenya,Tanzania,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,BDI,KEN,Kenya,Burundi,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,KEN,RWA,Kenya,Rwanda,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,AGO,KEN,Kenya,Angola,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,KEN,ZMB,Kenya,Zambia,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,KEN,SDN,Kenya,Sudan,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,BDI,TZA,Tanzania,Burundi,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,RWA,TZA,Tanzania,Rwanda,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,AGO,TZA,Tanzania,Angola,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,TZA,ZMB,Tanzania,Zambia,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,SDN,TZA,Tanzania,Sudan,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,BDI,RWA,Burundi,Rwanda,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,AGO,BDI,Burundi,Angola,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,BDI,ZMB,Burundi,Zambia,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,BDI,SDN,Burundi,Sudan,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,AGO,RWA,Rwanda,Angola,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,RWA,ZMB,Rwanda,Zambia,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,RWA,SDN,Rwanda,Sudan,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,AGO,ZMB,Angola,Zambia,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,AGO,SDN,Angola,Sudan,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+407,SDN,ZMB,Zambia,Sudan,true,false,true,true,false,COW,2006-12-15,,false,true,false,false
+408,DNK,ISL,Denmark,Iceland,true,false,false,false,true,COW,2007-04-27,,false,true,false,false
+409,SDN,TCD,Chad,Sudan,false,false,true,false,false,COW,2008-03-13,,false,true,false,false
+410,BLR,RUS,Russia,Belarus,true,false,false,false,false,COW,2009-02-03,,false,true,false,false
+413,EGY,ISR,Egypt,Israel,false,false,true,false,false,COW,1979-03-26,,false,true,false,false

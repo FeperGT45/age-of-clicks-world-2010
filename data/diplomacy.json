@@ -1,0 +1,3369 @@
+{
+  "as_of": "2010-01-01",
+  "format": "aoc-diplomacy-source-v1",
+  "native_import_ready": false,
+  "sources": {
+    "AANZFTA": {
+      "title": "Entry into force by country, including only eight on 1 January 2010",
+      "url": "https://www.dfat.gov.au/trade/agreements/in-force/aanzfta/Pages/asean-australia-new-zealand-fta-timeline"
+    },
+    "ANZUS": {
+      "title": "US ANZUS security obligations to New Zealand suspended in August 1986",
+      "url": "https://2009-2017.state.gov/outofdate/bgn/newzealand/104418.htm"
+    },
+    "CAFTA": {
+      "title": "CAFTA-DR entry into force per party",
+      "url": "https://rtais.wto.org/UI/PublicShowRTAIDCard.aspx?rtaid=27"
+    },
+    "COMESA_SYC": {
+      "title": "Seychelles COMESA FTA accession 11 May 2009",
+      "url": "https://rtais.wto.org/UI/PublicShowRTAIDCard.aspx?rtaid=1009"
+    },
+    "COW": {
+      "title": "Formal Alliances v4.1, Correlates of War; formal commitments, not political friendship",
+      "url": "https://correlatesofwar.org/data-sets/formal-alliances/"
+    },
+    "CSTO": {
+      "title": "CSTO history, Uzbekistan 2006–2012",
+      "url": "https://www.odkb-csto.org/30-let-odkb/istoriya/"
+    },
+    "CU2010": {
+      "title": "Common external tariff from 1 January 2010; later stages are separate",
+      "url": "https://www.wto.org/english/thewto_e/acc_e/session1yernarbakenovcommentary.pdf"
+    },
+    "CUBA": {
+      "title": "US–Cuba diplomatic relations, 1961 break and 2015 restoration",
+      "url": "https://history.state.gov/countries/cuba"
+    },
+    "EAC": {
+      "title": "EAC customs union; Rwanda/Burundi applying instruments from July 2009",
+      "url": "https://www.eac.int/customs"
+    },
+    "EAC_CM": {
+      "title": "EAC common market enters force 1 July 2010, not at scenario start",
+      "url": "https://www.eac.int/?lang=EN"
+    },
+    "EEA": {
+      "title": "EEA and EFTA states, Switzerland not in the EEA",
+      "url": "https://www.efta.int/eea-relations-eu/qa-about-eea-agreement"
+    },
+    "EU": {
+      "title": "EU enlargement: 27 members from 2007, Croatia joins in 2013",
+      "url": "https://european-union.europa.eu/principles-countries-history/history-eu/2000-09_en"
+    },
+    "EU42": {
+      "title": "Treaty on European Union Article 42(7), qualified mutual assistance, Lisbon effective 2009",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12012M042"
+    },
+    "FPDA": {
+      "title": "Five powers consult concerning an attack on Malaysia or Singapore; not an automatic defence alliance",
+      "url": "https://www.fivepowerdefencearrangements.org/history"
+    },
+    "GCC": {
+      "title": "GCC charter and six members",
+      "url": "https://www.gcc-sg.org/en/AboutUs/Pages/default.aspx"
+    },
+    "GCC_DEF": {
+      "title": "GCC joint defence agreement of 2000, Qatar legal treaty register",
+      "url": "https://www.almeezan.qa/AgreementsPage.aspx?id=1527&language=ar"
+    },
+    "IND_PAK": {
+      "title": "India–Pakistan relations after Mumbai attacks, contemporary CRS report",
+      "url": "https://www.everycrsreport.com/reports/RL33449.html"
+    },
+    "IRAN": {
+      "title": "US severed diplomatic relations with Iran on 7 April 1980",
+      "url": "https://history.state.gov/countries/iran"
+    },
+    "JP_FTA": {
+      "title": "Japan MOFA EPA texts and country pages",
+      "url": "https://www.mofa.go.jp/policy/economy/fta/index.html"
+    },
+    "KARABAKH": {
+      "title": "OSCE Minsk Group statement 11 May 2009: ceasefire and peace talks",
+      "url": "https://www.osce.org/mg/50902"
+    },
+    "KOREA": {
+      "title": "Korean armistice of 1953, not a peace treaty",
+      "url": "https://www.unc.mil/History/1953-Armistice-Agreement/"
+    },
+    "KOSOVO": {
+      "title": "UN Security Council resolution 1244: status framework; no universal recognition",
+      "url": "https://docs.un.org/en/S/RES/1244(1999)"
+    },
+    "NATO": {
+      "title": "NATO enlargement chronology, including 1 April 2009",
+      "url": "https://www.nato.int/en/about-us/organization/nato-member-countries"
+    },
+    "NRC": {
+      "title": "NATO–Russia Council ministerial meeting resumes 27 June 2009",
+      "url": "https://www.nato.int/en/news-and-events/articles/news/2009/06/27/nato-russia-council-foreign-ministers-meet-in-corfu"
+    },
+    "RESET": {
+      "title": "US–Russia Bilateral Presidential Commission established in 2009",
+      "url": "https://2009-2017.state.gov/russiabpc/"
+    },
+    "RU_CN": {
+      "title": "2001 Russia–China treaty and strategic cooperation, not mutual defence",
+      "url": "https://www.mfa.gov.cn/eng/zy/gb/202405/t20240531_11367098.html"
+    },
+    "RU_GE": {
+      "title": "EU independent fact-finding mission report on the 2008 conflict",
+      "url": "https://www.mpil.de/en/pub/publications/archive/independent_international_fact.cfm"
+    },
+    "RU_UA": {
+      "title": "Ukraine in 2009, contemporary CRS report; Yushchenko-era tensions",
+      "url": "https://www.everycrsreport.com/files/20090813_RL33460_44eb26aa6b202b740fba4d35248c6f72713ffb29.html"
+    },
+    "SADC": {
+      "title": "SADC FTA launched by 12 of 15 states in 2008",
+      "url": "https://www.sadc.int/pillars/trade"
+    },
+    "SADC_MDG": {
+      "title": "Madagascar in SADC FTA from 2008; economic treaty distinct from political suspension",
+      "url": "https://www.douanes.gov.mg/accords-internationaux/sadc/"
+    },
+    "SAFTA": {
+      "title": "SAFTA entry into force in 2006",
+      "url": "https://rtais.wto.org/UI/PublicShowRTAIDCard.aspx?rtaid=188"
+    },
+    "SAFTA_AFG": {
+      "title": "Afghanistan entry into force 7 August 2011",
+      "url": "https://rtais.wto.org/UI/PublicShowRTAIDCard.aspx?rtaid=966"
+    },
+    "SICE": {
+      "title": "OAS trade agreement dates and texts",
+      "url": "https://sice.oas.org/agreements_e.asp"
+    },
+    "TAIWAN": {
+      "title": "US Taiwan Relations Act: security policy, not a mutual defence treaty",
+      "url": "https://www.ait.org.tw/taiwan-relations-act-public-law-96-8-22-u-s-c-3301-et-seq/"
+    },
+    "UNVOTES": {
+      "title": "UN General Assembly recorded votes; original data and unvotes mirror",
+      "url": "https://doi.org/10.7910/DVN/LEJUQZ"
+    },
+    "US_BHR": {
+      "title": "US–Bahrain effective 1 August 2006",
+      "url": "https://rtais.wto.org/UI/PublicShowRTAIDCard.aspx?rtaid=19"
+    },
+    "US_FTA": {
+      "title": "USTR historical FTA implementation dates",
+      "url": "https://ustr.gov/issue-areas/industry-manufacturing/industrial-tariffs/free-trade-agreements"
+    },
+    "WTO": {
+      "title": "WTO notified regional trade agreements; distinguish signature, notification and entry into force",
+      "url": "https://rtais.wto.org/UI/PublicPreDefRepByRTAName.aspx"
+    },
+    "US_CN_2009": {
+      "title": "US–China joint statement, 17 November 2009",
+      "url": "https://obamawhitehouse.archives.gov/the-press-office/us-china-joint-statement"
+    },
+    "AFGHAN_2009": {
+      "title": "US strategy and partnership with Afghan government, 1 December 2009",
+      "url": "https://obamawhitehouse.archives.gov/the-press-office/way-forward-afghanistan/"
+    },
+    "IRAQ_2009": {
+      "title": "US–Iraq Strategic Framework, in force 1 January 2009",
+      "url": "https://2021-2025.state.gov/09-101-1/"
+    },
+    "THAI_ALLIANCE": {
+      "title": "US–Thailand treaty alliance from 1954",
+      "url": "https://2021-2025.state.gov/u-s-security-cooperation-with-thailand/"
+    },
+    "US_ISR_2007": {
+      "title": "US–Israel strategic dialogue, 7 June 2007",
+      "url": "https://2001-2009.state.gov/r/pa/prs/ps/2007/jun/86199.htm"
+    },
+    "EGYPT_ISR": {
+      "title": "Egypt–Israel Peace Treaty, 1979, UN Treaty Collection",
+      "url": "https://treaties.un.org/pages/showDetails.aspx?objid=08000002800f1f88"
+    },
+    "JORDAN_ISR": {
+      "title": "Israel–Jordan Peace Treaty, 26 October 1994",
+      "url": "https://www.gov.il/en/pages/israel-jordan-peace-treaty"
+    },
+    "UNMEE": {
+      "title": "UNMEE background: Algiers Peace Agreement 2000, mission ended in 2008",
+      "url": "https://unmee.unmissions.org/en/unmee-background"
+    },
+    "TCD_SDN_2009": {
+      "title": "AU communiqué on improving Chad–Sudan relations, 26 December 2009",
+      "url": "https://unamid.unmissions.org/en/news/26-december-2009-au-communique-sudan-chad-relations-0"
+    },
+    "GREECE_TURKEY": {
+      "title": "European Commission 2009 Turkey progress report, official archive",
+      "url": "https://www.ab.gov.tr/regular-progress-reports_46224_en.html"
+    },
+    "UN1701": {
+      "title": "Security Council resolution 1701 (2006), Lebanon cessation of hostilities",
+      "url": "https://docs.un.org/en/S/RES/1701(2006)"
+    },
+    "UNDOF": {
+      "title": "Security Council resolution 350 (1974), Syria–Israel disengagement",
+      "url": "https://docs.un.org/en/S/RES/350(1974)"
+    },
+    "WTO_2011": {
+      "title": "WTO historical list as of 30 September 2011; only agreements already effective by snapshot are used",
+      "url": "https://www.wto.org/english/res_e/booksp_e/analytic_index_e/gatt1994_10_e.htm"
+    },
+    "AIFTA": {
+      "title": "ASEAN–India entry into force for goods by partner; government implementation dates",
+      "url": "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=101156"
+    },
+    "SCO_OFFICIAL": {
+      "title": "SCO foundation in 2001 by six countries; membership history",
+      "url": "https://eng.sectsco.org/20170109/192193.html"
+    },
+    "RU_UZ_FTA": {
+      "title": "Russia–Uzbekistan bilateral FTA predating 2010",
+      "url": "https://rtais.wto.org/UI/PublicShowRTAIDCard.aspx?rtaid=861"
+    },
+    "CN_NZ_FTA": {
+      "title": "China–New Zealand FTA, 1 October 2008",
+      "url": "https://rtais.wto.org/UI/PublicShowRTAIDCard.aspx?rtaid=664"
+    },
+    "CN_PK_FTA": {
+      "title": "Pakistan–China FTA, goods 2007, services 2009",
+      "url": "https://rtais.wto.org/UI/PublicShowRTAIDCard.aspx?rtaid=153"
+    },
+    "CN_CL_FTA": {
+      "title": "Chile–China FTA, goods 1 October 2006",
+      "url": "https://rtais.wto.org/UI/PublicShowRTAIDCard.aspx?rtaid=8"
+    },
+    "CN_SG_FTA": {
+      "title": "China–Singapore FTA, 1 January 2009",
+      "url": "https://investmentpolicy.unctad.org/international-investment-agreements/countries/42/common"
+    }
+  },
+  "agreements": [
+    {
+      "id": "NATO",
+      "name_ru": "НАТО",
+      "kind": "collective_defense",
+      "members": [
+        "ALB",
+        "BEL",
+        "BGR",
+        "CAN",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SVK",
+        "SVN",
+        "TUR",
+        "USA"
+      ],
+      "source_ids": [
+        "NATO"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": true,
+      "trade_preference": false,
+      "notes_ru": "28 членов. Статья 5 касается коллективной обороны; не означает автоматического участия во всех войнах союзника."
+    },
+    {
+      "id": "CSTO",
+      "name_ru": "ОДКБ",
+      "kind": "collective_defense",
+      "members": [
+        "ARM",
+        "BLR",
+        "KAZ",
+        "KGZ",
+        "RUS",
+        "TJK",
+        "UZB"
+      ],
+      "source_ids": [
+        "CSTO"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": true,
+      "trade_preference": false,
+      "notes_ru": "7 членов, включая Узбекистан. Грузия и Азербайджан не состоят в ОДКБ."
+    },
+    {
+      "id": "EU",
+      "name_ru": "Европейский союз",
+      "kind": "economic_political_union",
+      "members": [
+        "AUT",
+        "BEL",
+        "BGR",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HUN",
+        "IRL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MLT",
+        "NLD",
+        "POL",
+        "PRT",
+        "ROU",
+        "SVK",
+        "SVN",
+        "SWE"
+      ],
+      "source_ids": [
+        "EU",
+        "EU42"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "27 членов, включая Великобританию, без Хорватии. Есть оговорённая ст.42(7) взаимопомощь после Лиссабона, но ЕС не превращается в безусловный военный союз.",
+      "qualified_mutual_assistance": true
+    },
+    {
+      "id": "ANZUS",
+      "name_ru": "АНЗЮС",
+      "kind": "security_treaty",
+      "members": [
+        "AUS",
+        "NZL",
+        "USA"
+      ],
+      "source_ids": [
+        "ANZUS"
+      ],
+      "status": "in_force",
+      "pair_scope": "explicit",
+      "mutual_defense": true,
+      "trade_preference": false,
+      "notes_ru": "Действуют оборонные связи Австралия–США и Австралия–Новая Зеландия. Обязательства США перед Новой Зеландией приостановлены с 1986 года.",
+      "active_pairs": [
+        [
+          "AUS",
+          "USA"
+        ],
+        [
+          "AUS",
+          "NZL"
+        ]
+      ],
+      "suspended_pairs": [
+        [
+          "NZL",
+          "USA"
+        ]
+      ]
+    },
+    {
+      "id": "FPDA",
+      "name_ru": "Пять держав: оборонные договорённости",
+      "kind": "defense_consultation",
+      "members": [
+        "AUS",
+        "GBR",
+        "MYS",
+        "NZL",
+        "SGP"
+      ],
+      "source_ids": [
+        "FPDA"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": false,
+      "notes_ru": "Обязанность консультаций при угрозе Малайзии/Сингапуру. Не безусловная взаимная оборона всех пяти стран."
+    },
+    {
+      "id": "GCC_DEFENSE",
+      "name_ru": "ССАГПЗ: совместная оборона",
+      "kind": "collective_defense",
+      "members": [
+        "ARE",
+        "BHR",
+        "KWT",
+        "OMN",
+        "QAT",
+        "SAU"
+      ],
+      "source_ids": [
+        "GCC",
+        "GCC_DEF"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": true,
+      "trade_preference": false,
+      "notes_ru": "Совместное оборонное соглашение 2000 года; без Катара-2017 и более поздних конфликтов."
+    },
+    {
+      "id": "US_JAPAN",
+      "name_ru": "США–Япония: договор безопасности",
+      "kind": "bilateral_defense",
+      "members": [
+        "JPN",
+        "USA"
+      ],
+      "source_ids": [
+        "COW"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": true,
+      "trade_preference": false,
+      "notes_ru": "Договор 1960 года; территориальные и конституционные условия сохраняются."
+    },
+    {
+      "id": "US_ROK",
+      "name_ru": "США–Республика Корея: взаимная оборона",
+      "kind": "bilateral_defense",
+      "members": [
+        "KOR",
+        "USA"
+      ],
+      "source_ids": [
+        "COW"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": true,
+      "trade_preference": false,
+      "notes_ru": "Договор 1953 года, действующий оборонный союз."
+    },
+    {
+      "id": "US_PHILIPPINES",
+      "name_ru": "США–Филиппины: взаимная оборона",
+      "kind": "bilateral_defense",
+      "members": [
+        "PHL",
+        "USA"
+      ],
+      "source_ids": [
+        "COW"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": true,
+      "trade_preference": false,
+      "notes_ru": "Договор 1951 года; закрытие баз не равнозначно прекращению договора."
+    },
+    {
+      "id": "CHINA_DPRK",
+      "name_ru": "КНР–КНДР: договор 1961 года",
+      "kind": "bilateral_defense",
+      "members": [
+        "CHN",
+        "PRK"
+      ],
+      "source_ids": [
+        "COW"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": true,
+      "trade_preference": false,
+      "notes_ru": "Договор о дружбе, сотрудничестве и взаимной помощи 1961 года."
+    },
+    {
+      "id": "RUSSIA_CHINA_PARTNERSHIP",
+      "name_ru": "Россия–Китай: стратегическое партнёрство",
+      "kind": "strategic_partnership",
+      "members": [
+        "CHN",
+        "RUS"
+      ],
+      "source_ids": [
+        "RU_CN"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": false,
+      "notes_ru": "Сотрудничество и консультации, не договор о взаимной обороне."
+    },
+    {
+      "id": "SCO",
+      "name_ru": "Шанхайская организация сотрудничества",
+      "kind": "security_cooperation",
+      "members": [
+        "CHN",
+        "KAZ",
+        "KGZ",
+        "RUS",
+        "TJK",
+        "UZB"
+      ],
+      "source_ids": [
+        "SCO_OFFICIAL"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": false,
+      "notes_ru": "В 2010 году шесть полноправных членов. Индия и Пакистан ещё не члены; организация не превращается в военный союз."
+    },
+    {
+      "id": "NATO_RUSSIA_COUNCIL",
+      "name_ru": "Совет Россия–НАТО",
+      "kind": "consultation_forum",
+      "members": [
+        "ALB",
+        "BEL",
+        "BGR",
+        "CAN",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HRV",
+        "HUN",
+        "ISL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "RUS",
+        "SVK",
+        "SVN",
+        "TUR",
+        "USA"
+      ],
+      "source_ids": [
+        "NRC"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": false,
+      "notes_ru": "Консультации возобновлены в 2009 году. Россия не член НАТО; форум не создаёт взаимных оборонных обязательств."
+    },
+    {
+      "id": "EFTA",
+      "name_ru": "ЕАСТ",
+      "kind": "free_trade_area",
+      "members": [
+        "CHE",
+        "ISL",
+        "LIE",
+        "NOR"
+      ],
+      "source_ids": [
+        "EEA",
+        "WTO"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Преференциальный режим по соглашению; переходные графики и исключения сохраняются."
+    },
+    {
+      "id": "EEA",
+      "name_ru": "Европейское экономическое пространство",
+      "kind": "single_market",
+      "members": [
+        "AUT",
+        "BEL",
+        "BGR",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HUN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "LIE",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MLT",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SVK",
+        "SVN",
+        "SWE"
+      ],
+      "source_ids": [
+        "EEA",
+        "EU"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Общий рынок ЕС и трёх стран ЕАСТ. Швейцария не входит."
+    },
+    {
+      "id": "EU_TURKEY_CU",
+      "name_ru": "ЕС–Турция: таможенный союз",
+      "kind": "sectoral_customs_union",
+      "members": [
+        "AUT",
+        "BEL",
+        "BGR",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HUN",
+        "IRL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MLT",
+        "NLD",
+        "POL",
+        "PRT",
+        "ROU",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUR"
+      ],
+      "source_ids": [
+        "WTO"
+      ],
+      "status": "in_force",
+      "pair_scope": "between_sides",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Промышленные товары и переработанная сельхозпродукция; не полное членство Турции в ЕС.",
+      "sides": [
+        [
+          "AUT",
+          "BEL",
+          "BGR",
+          "CYP",
+          "CZE",
+          "DNK",
+          "EST",
+          "FIN",
+          "FRA",
+          "DEU",
+          "GRC",
+          "HUN",
+          "IRL",
+          "ITA",
+          "LVA",
+          "LTU",
+          "LUX",
+          "MLT",
+          "NLD",
+          "POL",
+          "PRT",
+          "ROU",
+          "SVK",
+          "SVN",
+          "ESP",
+          "SWE",
+          "GBR"
+        ],
+        [
+          "TUR"
+        ]
+      ]
+    },
+    {
+      "id": "NAFTA",
+      "name_ru": "НАФТА",
+      "kind": "free_trade_area",
+      "members": [
+        "CAN",
+        "MEX",
+        "USA"
+      ],
+      "source_ids": [
+        "SICE"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Действует НАФТА 1994 года. USMCA ещё не существует."
+    },
+    {
+      "id": "MERCOSUR",
+      "name_ru": "МЕРКОСУР",
+      "kind": "customs_union",
+      "members": [
+        "ARG",
+        "BRA",
+        "PRY",
+        "URY"
+      ],
+      "source_ids": [
+        "SICE"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Четыре полноправных участника. Венесуэла ещё не полноправный член; Боливия — ассоциированный участник."
+    },
+    {
+      "id": "ANDEAN_COMMUNITY",
+      "name_ru": "Андское сообщество",
+      "kind": "economic_integration",
+      "members": [
+        "BOL",
+        "COL",
+        "ECU",
+        "PER"
+      ],
+      "source_ids": [
+        "SICE"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Четыре члена. Венесуэла вышла в 2006 году."
+    },
+    {
+      "id": "CAFTA_DR",
+      "name_ru": "ЦАФТА–ДР",
+      "kind": "free_trade_area",
+      "members": [
+        "CRI",
+        "DOM",
+        "GTM",
+        "HND",
+        "NIC",
+        "SLV",
+        "USA"
+      ],
+      "source_ids": [
+        "CAFTA"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "К 1 января 2010 года действует для всех семи сторон, Коста-Рика присоединилась к применению в 2009 году."
+    },
+    {
+      "id": "CEFTA",
+      "name_ru": "ЦЕФТА",
+      "kind": "free_trade_area",
+      "members": [
+        "ALB",
+        "BIH",
+        "HRV",
+        "KOS",
+        "MDA",
+        "MKD",
+        "MNE",
+        "SRB"
+      ],
+      "source_ids": [
+        "WTO"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Косово представлено UNMIK по резолюции 1244; это не взаимное признание государственности. Хорватия ещё сторона соглашения."
+    },
+    {
+      "id": "CUSTOMS_UNION_RBK",
+      "name_ru": "Таможенный союз России, Беларуси и Казахстана",
+      "kind": "customs_union_phase_in",
+      "members": [
+        "BLR",
+        "KAZ",
+        "RUS"
+      ],
+      "source_ids": [
+        "CU2010"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "С 1 января 2010 года введён единый внешний тариф. Таможенный кодекс, снятие внутренних границ и ЕАЭС относятся к более поздним этапам."
+    },
+    {
+      "id": "ASEAN",
+      "name_ru": "АСЕАН",
+      "kind": "regional_organization",
+      "members": [
+        "BRN",
+        "IDN",
+        "KHM",
+        "LAO",
+        "MMR",
+        "MYS",
+        "PHL",
+        "SGP",
+        "THA",
+        "VNM"
+      ],
+      "source_ids": [
+        "WTO"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": false,
+      "notes_ru": "Десять членов. Ни Тимор-Лешти, ни другие поздние участники не добавлены. Членство само по себе не создаёт военный союз."
+    },
+    {
+      "id": "AFTA",
+      "name_ru": "Зона свободной торговли АСЕАН",
+      "kind": "free_trade_area",
+      "members": [
+        "BRN",
+        "IDN",
+        "KHM",
+        "LAO",
+        "MMR",
+        "MYS",
+        "PHL",
+        "SGP",
+        "THA",
+        "VNM"
+      ],
+      "source_ids": [
+        "WTO"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "CEPT действует; тарифные обязательства новых членов и чувствительные товары имеют переходные сроки. ATIGA ещё не вступила в силу на 1 января 2010 года."
+    },
+    {
+      "id": "ASEAN_CHINA_GOODS",
+      "name_ru": "АСЕАН–Китай: торговля товарами",
+      "kind": "free_trade_area",
+      "members": [
+        "BRN",
+        "CHN",
+        "IDN",
+        "KHM",
+        "LAO",
+        "MMR",
+        "MYS",
+        "PHL",
+        "SGP",
+        "THA",
+        "VNM"
+      ],
+      "source_ids": [
+        "WTO"
+      ],
+      "status": "in_force",
+      "pair_scope": "between_sides",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Соглашение действует с 2005 года; существенное снижение тарифов для КНР и АСЕАН-6 — с 2010 года, для CLMV — позднее.",
+      "sides": [
+        [
+          "BRN",
+          "KHM",
+          "IDN",
+          "LAO",
+          "MYS",
+          "MMR",
+          "PHL",
+          "SGP",
+          "THA",
+          "VNM"
+        ],
+        [
+          "CHN"
+        ]
+      ]
+    },
+    {
+      "id": "AANZFTA",
+      "name_ru": "АСЕАН–Австралия–Новая Зеландия: первые восемь сторон",
+      "kind": "free_trade_area",
+      "members": [
+        "AUS",
+        "BRN",
+        "MMR",
+        "MYS",
+        "NZL",
+        "PHL",
+        "SGP",
+        "VNM"
+      ],
+      "source_ids": [
+        "AANZFTA"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Ровно восемь сторон на дату старта. Остальные четыре ещё не применяют соглашение.",
+      "pending_members": [
+        {
+          "tag": "THA",
+          "in_force_from": "2010-03-12"
+        },
+        {
+          "tag": "LAO",
+          "in_force_from": "2011-01-01"
+        },
+        {
+          "tag": "KHM",
+          "in_force_from": "2011-01-04"
+        },
+        {
+          "tag": "IDN",
+          "in_force_from": "2012-01-10"
+        }
+      ]
+    },
+    {
+      "id": "CER",
+      "name_ru": "Австралия–Новая Зеландия: CER",
+      "kind": "free_trade_area",
+      "members": [
+        "AUS",
+        "NZL"
+      ],
+      "source_ids": [
+        "WTO"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Соглашение CER, действующее с 1983 года."
+    },
+    {
+      "id": "P4",
+      "name_ru": "Транс-Тихоокеанское партнёрство P4",
+      "kind": "free_trade_area",
+      "members": [
+        "BRN",
+        "CHL",
+        "NZL",
+        "SGP"
+      ],
+      "source_ids": [
+        "WTO"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Именно четыре страны P4. TPP/CPTPP ещё не вступили в силу."
+    },
+    {
+      "id": "SAFTA",
+      "name_ru": "Южноазиатская зона свободной торговли",
+      "kind": "free_trade_area",
+      "members": [
+        "BGD",
+        "BTN",
+        "IND",
+        "LKA",
+        "MDV",
+        "NPL",
+        "PAK"
+      ],
+      "source_ids": [
+        "SAFTA",
+        "SAFTA_AFG"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Семь действующих сторон. Афганистан ещё не включён в применение соглашения.",
+      "pending_members": [
+        {
+          "tag": "AFG",
+          "in_force_from": "2011-08-07"
+        }
+      ]
+    },
+    {
+      "id": "GCC_CUSTOMS",
+      "name_ru": "ССАГПЗ: таможенный союз",
+      "kind": "customs_union",
+      "members": [
+        "ARE",
+        "BHR",
+        "KWT",
+        "OMN",
+        "QAT",
+        "SAU"
+      ],
+      "source_ids": [
+        "GCC",
+        "WTO"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Таможенный союз с 2003 года и общий рынок с 2008 года; практические исключения и поэтапная реализация сохраняются."
+    },
+    {
+      "id": "EAC_CUSTOMS",
+      "name_ru": "Восточноафриканский таможенный союз",
+      "kind": "customs_union",
+      "members": [
+        "BDI",
+        "KEN",
+        "RWA",
+        "TZA",
+        "UGA"
+      ],
+      "source_ids": [
+        "EAC",
+        "EAC_CM"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Пять стран, таможенный союз. Общий рынок вступит в силу только 1 июля 2010 года."
+    },
+    {
+      "id": "SACU",
+      "name_ru": "Южноафриканский таможенный союз",
+      "kind": "customs_union",
+      "members": [
+        "BWA",
+        "LSO",
+        "NAM",
+        "SWZ",
+        "ZAF"
+      ],
+      "source_ids": [
+        "WTO"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Пять членов; Свазиленд — историческое название страны на дату старта."
+    },
+    {
+      "id": "SADC_FTA",
+      "name_ru": "САДК: зона свободной торговли",
+      "kind": "free_trade_area",
+      "members": [
+        "BWA",
+        "LSO",
+        "MDG",
+        "MOZ",
+        "MUS",
+        "MWI",
+        "NAM",
+        "SWZ",
+        "TZA",
+        "ZAF",
+        "ZMB",
+        "ZWE"
+      ],
+      "source_ids": [
+        "SADC",
+        "SADC_MDG"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Двенадцать участников ЗСТ; Ангола, ДР Конго и Сейшелы не включены. Политическое приостановление Мадагаскара не считается автоматическим прекращением торгового договора."
+    },
+    {
+      "id": "COMESA_FTA",
+      "name_ru": "КОМЕСА: участники зоны свободной торговли",
+      "kind": "free_trade_area",
+      "members": [
+        "BDI",
+        "COM",
+        "DJI",
+        "EGY",
+        "KEN",
+        "LBY",
+        "MDG",
+        "MUS",
+        "MWI",
+        "RWA",
+        "SDN",
+        "SYC",
+        "ZMB",
+        "ZWE"
+      ],
+      "source_ids": [
+        "WTO",
+        "COMESA_SYC"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Участники ЗСТ, а не все члены организации КОМЕСА. Сейшелы присоединились в мае 2009 года."
+    },
+    {
+      "id": "UEMOA",
+      "name_ru": "Западноафриканский экономический и валютный союз",
+      "kind": "customs_union",
+      "members": [
+        "BEN",
+        "BFA",
+        "CIV",
+        "GNB",
+        "MLI",
+        "NER",
+        "SEN",
+        "TGO"
+      ],
+      "source_ids": [
+        "WTO"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Восемь участников; поздние изменения ECOWAS не переносятся в 2010 год."
+    },
+    {
+      "id": "CEMAC",
+      "name_ru": "Экономическое и валютное сообщество Центральной Африки",
+      "kind": "customs_union",
+      "members": [
+        "CAF",
+        "CMR",
+        "COG",
+        "GAB",
+        "GNQ",
+        "TCD"
+      ],
+      "source_ids": [
+        "WTO"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Шесть стран; экономическое объединение, не автоматическая военная коалиция."
+    },
+    {
+      "id": "CARICOM",
+      "name_ru": "Карибское сообщество",
+      "kind": "regional_organization",
+      "members": [
+        "ATG",
+        "BHS",
+        "BLZ",
+        "BRB",
+        "DMA",
+        "GRD",
+        "GUY",
+        "HTI",
+        "JAM",
+        "KNA",
+        "LCA",
+        "SUR",
+        "TTO",
+        "VCT"
+      ],
+      "source_ids": [
+        "SICE",
+        "WTO"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": false,
+      "notes_ru": "14 стран сценария плюс Монтсеррат как отдельная зависимая территория. Великобритания не подменяет Монтсеррат; Багамы не участник CSME.",
+      "external_members": [
+        {
+          "code": "MSR",
+          "name": "Montserrat",
+          "note": "Dependency not separately represented on the scenario map"
+        }
+      ]
+    },
+    {
+      "id": "CSME",
+      "name_ru": "Карибский единый рынок: участвующие государства",
+      "kind": "single_market_phase_in",
+      "members": [
+        "ATG",
+        "BLZ",
+        "BRB",
+        "DMA",
+        "GRD",
+        "GUY",
+        "JAM",
+        "KNA",
+        "LCA",
+        "SUR",
+        "TTO",
+        "VCT"
+      ],
+      "source_ids": [
+        "WTO"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Двенадцать участвующих стран. CARICOM и CSME имеют разный состав; не все свободы полностью реализованы."
+    },
+    {
+      "id": "US_FTA_ISR",
+      "name_ru": "США–ISR: свободная торговля",
+      "kind": "free_trade_area",
+      "members": [
+        "ISR",
+        "USA"
+      ],
+      "source_ids": [
+        "US_FTA",
+        "SICE"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Преференциальный режим по соглашению; переходные графики и исключения сохраняются.",
+      "in_force_from": "1985-09-01"
+    },
+    {
+      "id": "US_FTA_AUS",
+      "name_ru": "США–AUS: свободная торговля",
+      "kind": "free_trade_area",
+      "members": [
+        "AUS",
+        "USA"
+      ],
+      "source_ids": [
+        "US_FTA",
+        "SICE"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Преференциальный режим по соглашению; переходные графики и исключения сохраняются.",
+      "in_force_from": "2005-01-01"
+    },
+    {
+      "id": "US_FTA_BHR",
+      "name_ru": "США–BHR: свободная торговля",
+      "kind": "free_trade_area",
+      "members": [
+        "BHR",
+        "USA"
+      ],
+      "source_ids": [
+        "US_FTA",
+        "US_BHR"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Преференциальный режим по соглашению; переходные графики и исключения сохраняются.",
+      "in_force_from": "2006-08-01"
+    },
+    {
+      "id": "US_FTA_CHL",
+      "name_ru": "США–CHL: свободная торговля",
+      "kind": "free_trade_area",
+      "members": [
+        "CHL",
+        "USA"
+      ],
+      "source_ids": [
+        "US_FTA",
+        "SICE"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Преференциальный режим по соглашению; переходные графики и исключения сохраняются.",
+      "in_force_from": "2004-01-01"
+    },
+    {
+      "id": "US_FTA_JOR",
+      "name_ru": "США–JOR: свободная торговля",
+      "kind": "free_trade_area",
+      "members": [
+        "JOR",
+        "USA"
+      ],
+      "source_ids": [
+        "US_FTA",
+        "SICE"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Преференциальный режим по соглашению; переходные графики и исключения сохраняются.",
+      "in_force_from": "2001-12-17"
+    },
+    {
+      "id": "US_FTA_MAR",
+      "name_ru": "США–MAR: свободная торговля",
+      "kind": "free_trade_area",
+      "members": [
+        "MAR",
+        "USA"
+      ],
+      "source_ids": [
+        "US_FTA",
+        "SICE"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Преференциальный режим по соглашению; переходные графики и исключения сохраняются.",
+      "in_force_from": "2006-01-01"
+    },
+    {
+      "id": "US_FTA_OMN",
+      "name_ru": "США–OMN: свободная торговля",
+      "kind": "free_trade_area",
+      "members": [
+        "OMN",
+        "USA"
+      ],
+      "source_ids": [
+        "US_FTA",
+        "SICE"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Преференциальный режим по соглашению; переходные графики и исключения сохраняются.",
+      "in_force_from": "2009-01-01"
+    },
+    {
+      "id": "US_FTA_PER",
+      "name_ru": "США–PER: свободная торговля",
+      "kind": "free_trade_area",
+      "members": [
+        "PER",
+        "USA"
+      ],
+      "source_ids": [
+        "US_FTA",
+        "SICE"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Преференциальный режим по соглашению; переходные графики и исключения сохраняются.",
+      "in_force_from": "2009-02-01"
+    },
+    {
+      "id": "US_FTA_SGP",
+      "name_ru": "США–SGP: свободная торговля",
+      "kind": "free_trade_area",
+      "members": [
+        "SGP",
+        "USA"
+      ],
+      "source_ids": [
+        "US_FTA",
+        "SICE"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Преференциальный режим по соглашению; переходные графики и исключения сохраняются.",
+      "in_force_from": "2004-01-01"
+    },
+    {
+      "id": "JP_EPA_SGP",
+      "name_ru": "Япония–SGP: экономическое партнёрство",
+      "kind": "free_trade_area",
+      "members": [
+        "JPN",
+        "SGP"
+      ],
+      "source_ids": [
+        "JP_FTA",
+        "WTO"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Преференциальный режим по соглашению; переходные графики и исключения сохраняются.",
+      "in_force_from": "2002-11-30"
+    },
+    {
+      "id": "JP_EPA_MEX",
+      "name_ru": "Япония–MEX: экономическое партнёрство",
+      "kind": "free_trade_area",
+      "members": [
+        "JPN",
+        "MEX"
+      ],
+      "source_ids": [
+        "JP_FTA",
+        "WTO"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Преференциальный режим по соглашению; переходные графики и исключения сохраняются.",
+      "in_force_from": "2005-04-01"
+    },
+    {
+      "id": "JP_EPA_MYS",
+      "name_ru": "Япония–MYS: экономическое партнёрство",
+      "kind": "free_trade_area",
+      "members": [
+        "JPN",
+        "MYS"
+      ],
+      "source_ids": [
+        "JP_FTA",
+        "WTO"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Преференциальный режим по соглашению; переходные графики и исключения сохраняются.",
+      "in_force_from": "2006-07-13"
+    },
+    {
+      "id": "JP_EPA_CHL",
+      "name_ru": "Япония–CHL: экономическое партнёрство",
+      "kind": "free_trade_area",
+      "members": [
+        "CHL",
+        "JPN"
+      ],
+      "source_ids": [
+        "JP_FTA",
+        "WTO"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Преференциальный режим по соглашению; переходные графики и исключения сохраняются.",
+      "in_force_from": "2007-09-03"
+    },
+    {
+      "id": "JP_EPA_THA",
+      "name_ru": "Япония–THA: экономическое партнёрство",
+      "kind": "free_trade_area",
+      "members": [
+        "JPN",
+        "THA"
+      ],
+      "source_ids": [
+        "JP_FTA",
+        "WTO"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Преференциальный режим по соглашению; переходные графики и исключения сохраняются.",
+      "in_force_from": "2007-11-01"
+    },
+    {
+      "id": "JP_EPA_IDN",
+      "name_ru": "Япония–IDN: экономическое партнёрство",
+      "kind": "free_trade_area",
+      "members": [
+        "IDN",
+        "JPN"
+      ],
+      "source_ids": [
+        "JP_FTA",
+        "WTO"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Преференциальный режим по соглашению; переходные графики и исключения сохраняются.",
+      "in_force_from": "2008-07-01"
+    },
+    {
+      "id": "JP_EPA_BRN",
+      "name_ru": "Япония–BRN: экономическое партнёрство",
+      "kind": "free_trade_area",
+      "members": [
+        "BRN",
+        "JPN"
+      ],
+      "source_ids": [
+        "JP_FTA",
+        "WTO"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Преференциальный режим по соглашению; переходные графики и исключения сохраняются.",
+      "in_force_from": "2008-07-31"
+    },
+    {
+      "id": "JP_EPA_PHL",
+      "name_ru": "Япония–PHL: экономическое партнёрство",
+      "kind": "free_trade_area",
+      "members": [
+        "JPN",
+        "PHL"
+      ],
+      "source_ids": [
+        "JP_FTA",
+        "WTO"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Преференциальный режим по соглашению; переходные графики и исключения сохраняются.",
+      "in_force_from": "2008-12-11"
+    },
+    {
+      "id": "JP_EPA_CHE",
+      "name_ru": "Япония–CHE: экономическое партнёрство",
+      "kind": "free_trade_area",
+      "members": [
+        "CHE",
+        "JPN"
+      ],
+      "source_ids": [
+        "JP_FTA",
+        "WTO"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Преференциальный режим по соглашению; переходные графики и исключения сохраняются.",
+      "in_force_from": "2009-09-01"
+    },
+    {
+      "id": "JP_EPA_VNM",
+      "name_ru": "Япония–VNM: экономическое партнёрство",
+      "kind": "free_trade_area",
+      "members": [
+        "JPN",
+        "VNM"
+      ],
+      "source_ids": [
+        "JP_FTA",
+        "WTO"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Преференциальный режим по соглашению; переходные графики и исключения сохраняются.",
+      "in_force_from": "2009-10-01"
+    },
+    {
+      "id": "US_THAILAND",
+      "name_ru": "США–Таиланд: договорный оборонный союз",
+      "kind": "bilateral_defense",
+      "members": [
+        "THA",
+        "USA"
+      ],
+      "source_ids": [
+        "THAI_ALLIANCE"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": true,
+      "trade_preference": false,
+      "notes_ru": "Манильский пакт 1954 года и коммюнике Танат–Раск 1962 года; распуск SEATO не прекратил двусторонние обязательства."
+    },
+    {
+      "id": "ASEAN_INDIA_GOODS",
+      "name_ru": "АСЕАН–Индия: торговля товарами на дату старта",
+      "kind": "goods_free_trade_agreement",
+      "members": [
+        "IND",
+        "MYS",
+        "SGP",
+        "THA"
+      ],
+      "source_ids": [
+        "AIFTA"
+      ],
+      "status": "in_force",
+      "pair_scope": "between_sides",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Применение с 1 января 2010 года только между Индией и Малайзией, Сингапуром, Таиландом. Остальные страны АСЕАН ещё не применяют соглашение.",
+      "in_force_from": "2010-01-01",
+      "sides": [
+        [
+          "IND"
+        ],
+        [
+          "MYS",
+          "SGP",
+          "THA"
+        ]
+      ]
+    },
+    {
+      "id": "RU_BILATERAL_FTA_ARM",
+      "name_ru": "Россия–ARM: прежнее двустороннее соглашение",
+      "kind": "free_trade_area",
+      "members": [
+        "ARM",
+        "RUS"
+      ],
+      "source_ids": [
+        "WTO_2011"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Старый двусторонний торговый режим с исключениями. Это не перенос договора ЗСТ СНГ 2011 года в прошлое.",
+      "in_force_from": "1993-03-25"
+    },
+    {
+      "id": "RU_BILATERAL_FTA_GEO",
+      "name_ru": "Россия–GEO: прежнее двустороннее соглашение",
+      "kind": "free_trade_area",
+      "members": [
+        "GEO",
+        "RUS"
+      ],
+      "source_ids": [
+        "WTO_2011"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Старый двусторонний торговый режим с исключениями. Это не перенос договора ЗСТ СНГ 2011 года в прошлое.",
+      "in_force_from": "1994-05-10"
+    },
+    {
+      "id": "RU_BILATERAL_FTA_KGZ",
+      "name_ru": "Россия–KGZ: прежнее двустороннее соглашение",
+      "kind": "free_trade_area",
+      "members": [
+        "KGZ",
+        "RUS"
+      ],
+      "source_ids": [
+        "WTO_2011"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Старый двусторонний торговый режим с исключениями. Это не перенос договора ЗСТ СНГ 2011 года в прошлое.",
+      "in_force_from": "1993-04-24"
+    },
+    {
+      "id": "RU_BILATERAL_FTA_UKR",
+      "name_ru": "Россия–UKR: прежнее двустороннее соглашение",
+      "kind": "free_trade_area",
+      "members": [
+        "RUS",
+        "UKR"
+      ],
+      "source_ids": [
+        "WTO_2011"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Старый двусторонний торговый режим с исключениями. Это не перенос договора ЗСТ СНГ 2011 года в прошлое.",
+      "in_force_from": "1994-02-21"
+    },
+    {
+      "id": "RU_BILATERAL_FTA_UZB",
+      "name_ru": "Россия–Узбекистан: прежнее двустороннее соглашение",
+      "kind": "free_trade_area",
+      "members": [
+        "RUS",
+        "UZB"
+      ],
+      "source_ids": [
+        "RU_UZ_FTA"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Двусторонний режим 1990-х годов; не договор ЗСТ СНГ 2011 года."
+    },
+    {
+      "id": "CHINA_FTA_CHL",
+      "name_ru": "Китай–CHL: свободная торговля",
+      "kind": "free_trade_area",
+      "members": [
+        "CHL",
+        "CHN"
+      ],
+      "source_ids": [
+        "CN_CL_FTA"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Действующий торговый режим с отраслевыми исключениями и переходными периодами.",
+      "in_force_from": "2006-10-01"
+    },
+    {
+      "id": "CHINA_FTA_NZL",
+      "name_ru": "Китай–NZL: свободная торговля",
+      "kind": "free_trade_area",
+      "members": [
+        "CHN",
+        "NZL"
+      ],
+      "source_ids": [
+        "CN_NZ_FTA"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Действующий торговый режим с отраслевыми исключениями и переходными периодами.",
+      "in_force_from": "2008-10-01"
+    },
+    {
+      "id": "CHINA_FTA_PAK",
+      "name_ru": "Китай–PAK: свободная торговля",
+      "kind": "free_trade_area",
+      "members": [
+        "CHN",
+        "PAK"
+      ],
+      "source_ids": [
+        "CN_PK_FTA"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Действующий торговый режим с отраслевыми исключениями и переходными периодами.",
+      "in_force_from": "2007-07-01"
+    },
+    {
+      "id": "CHINA_FTA_SGP",
+      "name_ru": "Китай–SGP: свободная торговля",
+      "kind": "free_trade_area",
+      "members": [
+        "CHN",
+        "SGP"
+      ],
+      "source_ids": [
+        "CN_SG_FTA"
+      ],
+      "status": "in_force",
+      "pair_scope": "all_pairs",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Действующий торговый режим с отраслевыми исключениями и переходными периодами.",
+      "in_force_from": "2009-01-01"
+    },
+    {
+      "id": "EU_TRADE_DZA",
+      "name_ru": "ЕС–DZA: торговое соглашение",
+      "kind": "free_trade_area_phase_in",
+      "members": [
+        "AUT",
+        "BEL",
+        "BGR",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "DZA",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HUN",
+        "IRL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MLT",
+        "NLD",
+        "POL",
+        "PRT",
+        "ROU",
+        "SVK",
+        "SVN",
+        "SWE"
+      ],
+      "source_ids": [
+        "WTO",
+        "WTO_2011"
+      ],
+      "status": "in_force",
+      "pair_scope": "between_sides",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Торговый режим с ЕС, не вступление партнёра в Евросоюз. Секторальный охват и графики реализации различаются.",
+      "in_force_from": "2005-09-01",
+      "sides": [
+        [
+          "AUT",
+          "BEL",
+          "BGR",
+          "CYP",
+          "CZE",
+          "DEU",
+          "DNK",
+          "ESP",
+          "EST",
+          "FIN",
+          "FRA",
+          "GBR",
+          "GRC",
+          "HUN",
+          "IRL",
+          "ITA",
+          "LTU",
+          "LUX",
+          "LVA",
+          "MLT",
+          "NLD",
+          "POL",
+          "PRT",
+          "ROU",
+          "SVK",
+          "SVN",
+          "SWE"
+        ],
+        [
+          "DZA"
+        ]
+      ]
+    },
+    {
+      "id": "EU_TRADE_AND",
+      "name_ru": "ЕС–AND: торговое соглашение",
+      "kind": "sectoral_customs_union",
+      "members": [
+        "AND",
+        "AUT",
+        "BEL",
+        "BGR",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HUN",
+        "IRL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MLT",
+        "NLD",
+        "POL",
+        "PRT",
+        "ROU",
+        "SVK",
+        "SVN",
+        "SWE"
+      ],
+      "source_ids": [
+        "WTO",
+        "WTO_2011"
+      ],
+      "status": "in_force",
+      "pair_scope": "between_sides",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Торговый режим с ЕС, не вступление партнёра в Евросоюз. Секторальный охват и графики реализации различаются.",
+      "in_force_from": "1991-07-01",
+      "sides": [
+        [
+          "AUT",
+          "BEL",
+          "BGR",
+          "CYP",
+          "CZE",
+          "DEU",
+          "DNK",
+          "ESP",
+          "EST",
+          "FIN",
+          "FRA",
+          "GBR",
+          "GRC",
+          "HUN",
+          "IRL",
+          "ITA",
+          "LTU",
+          "LUX",
+          "LVA",
+          "MLT",
+          "NLD",
+          "POL",
+          "PRT",
+          "ROU",
+          "SVK",
+          "SVN",
+          "SWE"
+        ],
+        [
+          "AND"
+        ]
+      ]
+    },
+    {
+      "id": "EU_TRADE_EGY",
+      "name_ru": "ЕС–EGY: торговое соглашение",
+      "kind": "free_trade_area_phase_in",
+      "members": [
+        "AUT",
+        "BEL",
+        "BGR",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "EGY",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HUN",
+        "IRL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MLT",
+        "NLD",
+        "POL",
+        "PRT",
+        "ROU",
+        "SVK",
+        "SVN",
+        "SWE"
+      ],
+      "source_ids": [
+        "WTO",
+        "WTO_2011"
+      ],
+      "status": "in_force",
+      "pair_scope": "between_sides",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Торговый режим с ЕС, не вступление партнёра в Евросоюз. Секторальный охват и графики реализации различаются.",
+      "in_force_from": "2004-06-01",
+      "sides": [
+        [
+          "AUT",
+          "BEL",
+          "BGR",
+          "CYP",
+          "CZE",
+          "DEU",
+          "DNK",
+          "ESP",
+          "EST",
+          "FIN",
+          "FRA",
+          "GBR",
+          "GRC",
+          "HUN",
+          "IRL",
+          "ITA",
+          "LTU",
+          "LUX",
+          "LVA",
+          "MLT",
+          "NLD",
+          "POL",
+          "PRT",
+          "ROU",
+          "SVK",
+          "SVN",
+          "SWE"
+        ],
+        [
+          "EGY"
+        ]
+      ]
+    },
+    {
+      "id": "EU_TRADE_ISR",
+      "name_ru": "ЕС–ISR: торговое соглашение",
+      "kind": "free_trade_area",
+      "members": [
+        "AUT",
+        "BEL",
+        "BGR",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HUN",
+        "IRL",
+        "ISR",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MLT",
+        "NLD",
+        "POL",
+        "PRT",
+        "ROU",
+        "SVK",
+        "SVN",
+        "SWE"
+      ],
+      "source_ids": [
+        "WTO",
+        "WTO_2011"
+      ],
+      "status": "in_force",
+      "pair_scope": "between_sides",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Торговый режим с ЕС, не вступление партнёра в Евросоюз. Секторальный охват и графики реализации различаются.",
+      "in_force_from": "2000-06-01",
+      "sides": [
+        [
+          "AUT",
+          "BEL",
+          "BGR",
+          "CYP",
+          "CZE",
+          "DEU",
+          "DNK",
+          "ESP",
+          "EST",
+          "FIN",
+          "FRA",
+          "GBR",
+          "GRC",
+          "HUN",
+          "IRL",
+          "ITA",
+          "LTU",
+          "LUX",
+          "LVA",
+          "MLT",
+          "NLD",
+          "POL",
+          "PRT",
+          "ROU",
+          "SVK",
+          "SVN",
+          "SWE"
+        ],
+        [
+          "ISR"
+        ]
+      ]
+    },
+    {
+      "id": "EU_TRADE_JOR",
+      "name_ru": "ЕС–JOR: торговое соглашение",
+      "kind": "free_trade_area_phase_in",
+      "members": [
+        "AUT",
+        "BEL",
+        "BGR",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HUN",
+        "IRL",
+        "ITA",
+        "JOR",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MLT",
+        "NLD",
+        "POL",
+        "PRT",
+        "ROU",
+        "SVK",
+        "SVN",
+        "SWE"
+      ],
+      "source_ids": [
+        "WTO",
+        "WTO_2011"
+      ],
+      "status": "in_force",
+      "pair_scope": "between_sides",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Торговый режим с ЕС, не вступление партнёра в Евросоюз. Секторальный охват и графики реализации различаются.",
+      "in_force_from": "2002-05-01",
+      "sides": [
+        [
+          "AUT",
+          "BEL",
+          "BGR",
+          "CYP",
+          "CZE",
+          "DEU",
+          "DNK",
+          "ESP",
+          "EST",
+          "FIN",
+          "FRA",
+          "GBR",
+          "GRC",
+          "HUN",
+          "IRL",
+          "ITA",
+          "LTU",
+          "LUX",
+          "LVA",
+          "MLT",
+          "NLD",
+          "POL",
+          "PRT",
+          "ROU",
+          "SVK",
+          "SVN",
+          "SWE"
+        ],
+        [
+          "JOR"
+        ]
+      ]
+    },
+    {
+      "id": "EU_TRADE_LBN",
+      "name_ru": "ЕС–LBN: торговое соглашение",
+      "kind": "goods_free_trade_agreement",
+      "members": [
+        "AUT",
+        "BEL",
+        "BGR",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HUN",
+        "IRL",
+        "ITA",
+        "LBN",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MLT",
+        "NLD",
+        "POL",
+        "PRT",
+        "ROU",
+        "SVK",
+        "SVN",
+        "SWE"
+      ],
+      "source_ids": [
+        "WTO",
+        "WTO_2011"
+      ],
+      "status": "in_force",
+      "pair_scope": "between_sides",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Торговый режим с ЕС, не вступление партнёра в Евросоюз. Секторальный охват и графики реализации различаются.",
+      "in_force_from": "2003-03-01",
+      "sides": [
+        [
+          "AUT",
+          "BEL",
+          "BGR",
+          "CYP",
+          "CZE",
+          "DEU",
+          "DNK",
+          "ESP",
+          "EST",
+          "FIN",
+          "FRA",
+          "GBR",
+          "GRC",
+          "HUN",
+          "IRL",
+          "ITA",
+          "LTU",
+          "LUX",
+          "LVA",
+          "MLT",
+          "NLD",
+          "POL",
+          "PRT",
+          "ROU",
+          "SVK",
+          "SVN",
+          "SWE"
+        ],
+        [
+          "LBN"
+        ]
+      ]
+    },
+    {
+      "id": "EU_TRADE_MAR",
+      "name_ru": "ЕС–MAR: торговое соглашение",
+      "kind": "free_trade_area_phase_in",
+      "members": [
+        "AUT",
+        "BEL",
+        "BGR",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HUN",
+        "IRL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MAR",
+        "MLT",
+        "NLD",
+        "POL",
+        "PRT",
+        "ROU",
+        "SVK",
+        "SVN",
+        "SWE"
+      ],
+      "source_ids": [
+        "WTO",
+        "WTO_2011"
+      ],
+      "status": "in_force",
+      "pair_scope": "between_sides",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Торговый режим с ЕС, не вступление партнёра в Евросоюз. Секторальный охват и графики реализации различаются.",
+      "in_force_from": "2000-03-01",
+      "sides": [
+        [
+          "AUT",
+          "BEL",
+          "BGR",
+          "CYP",
+          "CZE",
+          "DEU",
+          "DNK",
+          "ESP",
+          "EST",
+          "FIN",
+          "FRA",
+          "GBR",
+          "GRC",
+          "HUN",
+          "IRL",
+          "ITA",
+          "LTU",
+          "LUX",
+          "LVA",
+          "MLT",
+          "NLD",
+          "POL",
+          "PRT",
+          "ROU",
+          "SVK",
+          "SVN",
+          "SWE"
+        ],
+        [
+          "MAR"
+        ]
+      ]
+    },
+    {
+      "id": "EU_TRADE_TUN",
+      "name_ru": "ЕС–TUN: торговое соглашение",
+      "kind": "free_trade_area",
+      "members": [
+        "AUT",
+        "BEL",
+        "BGR",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HUN",
+        "IRL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MLT",
+        "NLD",
+        "POL",
+        "PRT",
+        "ROU",
+        "SVK",
+        "SVN",
+        "SWE",
+        "TUN"
+      ],
+      "source_ids": [
+        "WTO",
+        "WTO_2011"
+      ],
+      "status": "in_force",
+      "pair_scope": "between_sides",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Торговый режим с ЕС, не вступление партнёра в Евросоюз. Секторальный охват и графики реализации различаются.",
+      "in_force_from": "1998-03-01",
+      "sides": [
+        [
+          "AUT",
+          "BEL",
+          "BGR",
+          "CYP",
+          "CZE",
+          "DEU",
+          "DNK",
+          "ESP",
+          "EST",
+          "FIN",
+          "FRA",
+          "GBR",
+          "GRC",
+          "HUN",
+          "IRL",
+          "ITA",
+          "LTU",
+          "LUX",
+          "LVA",
+          "MLT",
+          "NLD",
+          "POL",
+          "PRT",
+          "ROU",
+          "SVK",
+          "SVN",
+          "SWE"
+        ],
+        [
+          "TUN"
+        ]
+      ]
+    },
+    {
+      "id": "EU_TRADE_PSX",
+      "name_ru": "ЕС–PSX: торговое соглашение",
+      "kind": "goods_free_trade_agreement",
+      "members": [
+        "AUT",
+        "BEL",
+        "BGR",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HUN",
+        "IRL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MLT",
+        "NLD",
+        "POL",
+        "PRT",
+        "PSX",
+        "ROU",
+        "SVK",
+        "SVN",
+        "SWE"
+      ],
+      "source_ids": [
+        "WTO",
+        "WTO_2011"
+      ],
+      "status": "in_force",
+      "pair_scope": "between_sides",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Торговый режим с ЕС, не вступление партнёра в Евросоюз. Секторальный охват и графики реализации различаются.",
+      "in_force_from": "1997-07-01",
+      "sides": [
+        [
+          "AUT",
+          "BEL",
+          "BGR",
+          "CYP",
+          "CZE",
+          "DEU",
+          "DNK",
+          "ESP",
+          "EST",
+          "FIN",
+          "FRA",
+          "GBR",
+          "GRC",
+          "HUN",
+          "IRL",
+          "ITA",
+          "LTU",
+          "LUX",
+          "LVA",
+          "MLT",
+          "NLD",
+          "POL",
+          "PRT",
+          "ROU",
+          "SVK",
+          "SVN",
+          "SWE"
+        ],
+        [
+          "PSX"
+        ]
+      ]
+    },
+    {
+      "id": "EU_TRADE_ZAF",
+      "name_ru": "ЕС–ZAF: торговое соглашение",
+      "kind": "free_trade_area_phase_in",
+      "members": [
+        "AUT",
+        "BEL",
+        "BGR",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HUN",
+        "IRL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MLT",
+        "NLD",
+        "POL",
+        "PRT",
+        "ROU",
+        "SVK",
+        "SVN",
+        "SWE",
+        "ZAF"
+      ],
+      "source_ids": [
+        "WTO",
+        "WTO_2011"
+      ],
+      "status": "in_force",
+      "pair_scope": "between_sides",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Торговый режим с ЕС, не вступление партнёра в Евросоюз. Секторальный охват и графики реализации различаются.",
+      "in_force_from": "2000-01-01",
+      "sides": [
+        [
+          "AUT",
+          "BEL",
+          "BGR",
+          "CYP",
+          "CZE",
+          "DEU",
+          "DNK",
+          "ESP",
+          "EST",
+          "FIN",
+          "FRA",
+          "GBR",
+          "GRC",
+          "HUN",
+          "IRL",
+          "ITA",
+          "LTU",
+          "LUX",
+          "LVA",
+          "MLT",
+          "NLD",
+          "POL",
+          "PRT",
+          "ROU",
+          "SVK",
+          "SVN",
+          "SWE"
+        ],
+        [
+          "ZAF"
+        ]
+      ]
+    },
+    {
+      "id": "EU_TRADE_SMR",
+      "name_ru": "ЕС–SMR: торговое соглашение",
+      "kind": "customs_union",
+      "members": [
+        "AUT",
+        "BEL",
+        "BGR",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HUN",
+        "IRL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MLT",
+        "NLD",
+        "POL",
+        "PRT",
+        "ROU",
+        "SMR",
+        "SVK",
+        "SVN",
+        "SWE"
+      ],
+      "source_ids": [
+        "WTO",
+        "WTO_2011"
+      ],
+      "status": "in_force",
+      "pair_scope": "between_sides",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Торговый режим с ЕС, не вступление партнёра в Евросоюз. Секторальный охват и графики реализации различаются.",
+      "in_force_from": "2002-04-01",
+      "sides": [
+        [
+          "AUT",
+          "BEL",
+          "BGR",
+          "CYP",
+          "CZE",
+          "DEU",
+          "DNK",
+          "ESP",
+          "EST",
+          "FIN",
+          "FRA",
+          "GBR",
+          "GRC",
+          "HUN",
+          "IRL",
+          "ITA",
+          "LTU",
+          "LUX",
+          "LVA",
+          "MLT",
+          "NLD",
+          "POL",
+          "PRT",
+          "ROU",
+          "SVK",
+          "SVN",
+          "SWE"
+        ],
+        [
+          "SMR"
+        ]
+      ]
+    },
+    {
+      "id": "EU_TRADE_CHE",
+      "name_ru": "ЕС–CHE: торговое соглашение",
+      "kind": "industrial_goods_free_trade",
+      "members": [
+        "AUT",
+        "BEL",
+        "BGR",
+        "CHE",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HUN",
+        "IRL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MLT",
+        "NLD",
+        "POL",
+        "PRT",
+        "ROU",
+        "SVK",
+        "SVN",
+        "SWE"
+      ],
+      "source_ids": [
+        "WTO",
+        "WTO_2011"
+      ],
+      "status": "in_force",
+      "pair_scope": "between_sides",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Торговый режим с ЕС, не вступление партнёра в Евросоюз. Секторальный охват и графики реализации различаются.",
+      "in_force_from": "1973-01-01",
+      "sides": [
+        [
+          "AUT",
+          "BEL",
+          "BGR",
+          "CYP",
+          "CZE",
+          "DEU",
+          "DNK",
+          "ESP",
+          "EST",
+          "FIN",
+          "FRA",
+          "GBR",
+          "GRC",
+          "HUN",
+          "IRL",
+          "ITA",
+          "LTU",
+          "LUX",
+          "LVA",
+          "MLT",
+          "NLD",
+          "POL",
+          "PRT",
+          "ROU",
+          "SVK",
+          "SVN",
+          "SWE"
+        ],
+        [
+          "CHE"
+        ]
+      ]
+    },
+    {
+      "id": "EU_TRADE_MEX",
+      "name_ru": "ЕС–MEX: торговое соглашение",
+      "kind": "goods_free_trade_agreement",
+      "members": [
+        "AUT",
+        "BEL",
+        "BGR",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HUN",
+        "IRL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MEX",
+        "MLT",
+        "NLD",
+        "POL",
+        "PRT",
+        "ROU",
+        "SVK",
+        "SVN",
+        "SWE"
+      ],
+      "source_ids": [
+        "WTO",
+        "WTO_2011"
+      ],
+      "status": "in_force",
+      "pair_scope": "between_sides",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Торговый режим с ЕС, не вступление партнёра в Евросоюз. Секторальный охват и графики реализации различаются.",
+      "in_force_from": "2000-07-01",
+      "sides": [
+        [
+          "AUT",
+          "BEL",
+          "BGR",
+          "CYP",
+          "CZE",
+          "DEU",
+          "DNK",
+          "ESP",
+          "EST",
+          "FIN",
+          "FRA",
+          "GBR",
+          "GRC",
+          "HUN",
+          "IRL",
+          "ITA",
+          "LTU",
+          "LUX",
+          "LVA",
+          "MLT",
+          "NLD",
+          "POL",
+          "PRT",
+          "ROU",
+          "SVK",
+          "SVN",
+          "SWE"
+        ],
+        [
+          "MEX"
+        ]
+      ]
+    },
+    {
+      "id": "EU_TRADE_CHL",
+      "name_ru": "ЕС–CHL: торговое соглашение",
+      "kind": "goods_free_trade_agreement",
+      "members": [
+        "AUT",
+        "BEL",
+        "BGR",
+        "CHL",
+        "CYP",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GBR",
+        "GRC",
+        "HUN",
+        "IRL",
+        "ITA",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MLT",
+        "NLD",
+        "POL",
+        "PRT",
+        "ROU",
+        "SVK",
+        "SVN",
+        "SWE"
+      ],
+      "source_ids": [
+        "WTO",
+        "WTO_2011"
+      ],
+      "status": "in_force",
+      "pair_scope": "between_sides",
+      "mutual_defense": false,
+      "trade_preference": true,
+      "notes_ru": "Торговый режим с ЕС, не вступление партнёра в Евросоюз. Секторальный охват и графики реализации различаются.",
+      "in_force_from": "2003-02-01",
+      "sides": [
+        [
+          "AUT",
+          "BEL",
+          "BGR",
+          "CYP",
+          "CZE",
+          "DEU",
+          "DNK",
+          "ESP",
+          "EST",
+          "FIN",
+          "FRA",
+          "GBR",
+          "GRC",
+          "HUN",
+          "IRL",
+          "ITA",
+          "LTU",
+          "LUX",
+          "LVA",
+          "MLT",
+          "NLD",
+          "POL",
+          "PRT",
+          "ROU",
+          "SVK",
+          "SVN",
+          "SWE"
+        ],
+        [
+          "CHL"
+        ]
+      ]
+    }
+  ],
+  "iso2_overrides": {
+    "YU": "SRB",
+    "AD": "AND",
+    "AG": "ATG",
+    "BH": "BHR",
+    "BB": "BRB",
+    "CV": "CPV",
+    "KM": "COM",
+    "DM": "DMA",
+    "FM": "FSM",
+    "GD": "GRD",
+    "KI": "KIR",
+    "KN": "KNA",
+    "LC": "LCA",
+    "LI": "LIE",
+    "MV": "MDV",
+    "MC": "MCO",
+    "MH": "MHL",
+    "MT": "MLT",
+    "MU": "MUS",
+    "NR": "NRU",
+    "PW": "PLW",
+    "SG": "SGP",
+    "SM": "SMR",
+    "ST": "STP",
+    "SC": "SYC",
+    "TO": "TON",
+    "TV": "TUV",
+    "VC": "VCT",
+    "WS": "WSM",
+    "VA": "VAT"
+  },
+  "cow_name_aliases": {
+    "Antigua & Barbuda": "ATG",
+    "Bahamas": "BHS",
+    "Cape Verde": "CPV",
+    "China": "CHN",
+    "Congo": "COG",
+    "Czech Republic": "CZE",
+    "Gambia": "GMB",
+    "German Federal Republic": "DEU",
+    "Germany": "DEU",
+    "Ivory Coast": "CIV",
+    "Sao Tome and Principe": "STP",
+    "St. Kitts and Nevis": "KNA",
+    "St. Lucia": "LCA",
+    "St. Vincent and the Grenadines": "VCT",
+    "Swaziland": "SWZ",
+    "Yugoslavia": "SRB"
+  },
+  "relation_model": {
+    "vote_year": 2009,
+    "min_common_votes": 20,
+    "alignment_scale": 40,
+    "defense_floor": 60,
+    "trade_bonus": 5,
+    "score_range": [
+      -100,
+      100
+    ],
+    "missing_score": null,
+    "score_is_game_estimate": true
+  },
+  "bilateral_overrides": [
+    {
+      "countries": [
+        "RUS",
+        "USA"
+      ],
+      "game_score": 10,
+      "political_status": "cautious_cooperation",
+      "diplomatic_relations": "established",
+      "active_interstate_war": false,
+      "source_ids": [
+        "RESET",
+        "NRC"
+      ],
+      "reason_ru": "Перезагрузка и двусторонняя комиссия 2009 года при сохраняющихся разногласиях. Санкции после 2014/2022 годов не перенесены назад."
+    },
+    {
+      "countries": [
+        "CHN",
+        "RUS"
+      ],
+      "game_score": 55,
+      "political_status": "strategic_partnership",
+      "diplomatic_relations": "established",
+      "active_interstate_war": false,
+      "source_ids": [
+        "RU_CN"
+      ],
+      "reason_ru": "Стратегическое партнёрство и договор 2001 года; не взаимная оборона."
+    },
+    {
+      "countries": [
+        "RUS",
+        "UKR"
+      ],
+      "game_score": -25,
+      "political_status": "strained_relations",
+      "diplomatic_relations": "established",
+      "active_interstate_war": false,
+      "source_ids": [
+        "RU_UA"
+      ],
+      "reason_ru": "Начало 2010 года ещё при Ющенко: напряжённость после газового кризиса 2009 года. Не введены война 2014/2022, аннексия Крыма или Харьковские соглашения апреля 2010 года."
+    },
+    {
+      "countries": [
+        "GEO",
+        "RUS"
+      ],
+      "game_score": -90,
+      "political_status": "postwar_diplomatic_break",
+      "diplomatic_relations": "severed",
+      "active_interstate_war": false,
+      "source_ids": [
+        "RU_GE"
+      ],
+      "reason_ru": "Последствия войны августа 2008 года и разрыв дипломатических отношений; прекращение огня не равно нормализации."
+    },
+    {
+      "countries": [
+        "IRN",
+        "USA"
+      ],
+      "game_score": -85,
+      "political_status": "hostile_no_diplomatic_relations",
+      "diplomatic_relations": "severed",
+      "active_interstate_war": false,
+      "source_ids": [
+        "IRAN"
+      ],
+      "reason_ru": "Дипломатические отношения разорваны с 1980 года; напряжённость вокруг ядерной программы. Это не объявление войны."
+    },
+    {
+      "countries": [
+        "CUB",
+        "USA"
+      ],
+      "game_score": -80,
+      "political_status": "hostile_no_diplomatic_relations",
+      "diplomatic_relations": "severed",
+      "active_interstate_war": false,
+      "source_ids": [
+        "CUBA"
+      ],
+      "reason_ru": "Эмбарго и отсутствие полных дипломатических отношений; восстановление отношений в 2015 году ещё не произошло."
+    },
+    {
+      "countries": [
+        "KOR",
+        "PRK"
+      ],
+      "game_score": -80,
+      "political_status": "armistice",
+      "diplomatic_relations": "not_reviewed",
+      "active_interstate_war": false,
+      "source_ids": [
+        "KOREA"
+      ],
+      "reason_ru": "Перемирие 1953 года, не мирный договор. События с корветом Чхонан и Ёнпхёндо позднее в 2010 году не считаются уже произошедшими."
+    },
+    {
+      "countries": [
+        "ARM",
+        "AZE"
+      ],
+      "game_score": -80,
+      "political_status": "ceasefire_unresolved_conflict",
+      "diplomatic_relations": "not_reviewed",
+      "active_interstate_war": false,
+      "source_ids": [
+        "KARABAKH"
+      ],
+      "reason_ru": "Карабахский конфликт и перемирие 1994 года; войны 2020 и 2023 годов не переносятся назад."
+    },
+    {
+      "countries": [
+        "IND",
+        "PAK"
+      ],
+      "game_score": -65,
+      "political_status": "strained_after_mumbai_attacks",
+      "diplomatic_relations": "not_reviewed",
+      "active_interstate_war": false,
+      "source_ids": [
+        "IND_PAK"
+      ],
+      "reason_ru": "Напряжённость после терактов в Мумбаи 2008 года. Общая ЗСТ SAFTA не делает страны политическими союзниками."
+    },
+    {
+      "countries": [
+        "TWN",
+        "USA"
+      ],
+      "game_score": 45,
+      "political_status": "unofficial_security_partnership",
+      "diplomatic_relations": "unofficial",
+      "active_interstate_war": false,
+      "source_ids": [
+        "TAIWAN"
+      ],
+      "reason_ru": "Неофициальные отношения и Taiwan Relations Act; прекращённый в 1980 году договор о взаимной обороне не восстанавливается автоматически."
+    },
+    {
+      "countries": [
+        "KOS",
+        "SRB"
+      ],
+      "game_score": -75,
+      "political_status": "non_recognition_status_dispute",
+      "diplomatic_relations": "not_reviewed",
+      "active_interstate_war": false,
+      "source_ids": [
+        "KOSOVO"
+      ],
+      "reason_ru": "Спор о статусе Косово и отсутствие признания Сербией. Участие в CEFTA не означает дипломатическое признание."
+    },
+    {
+      "countries": [
+        "CHN",
+        "USA"
+      ],
+      "game_score": 5,
+      "political_status": "engagement_and_competition",
+      "diplomatic_relations": "established",
+      "active_interstate_war": false,
+      "source_ids": [
+        "US_CN_2009"
+      ],
+      "reason_ru": "Совместное заявление ноября 2009 года: сотрудничество при сохраняющихся разногласиях. Поздние торговые войны не перенесены назад."
+    },
+    {
+      "countries": [
+        "CHN",
+        "TWN"
+      ],
+      "game_score": -35,
+      "political_status": "status_dispute_with_diplomatic_thaw",
+      "diplomatic_relations": "not_reviewed",
+      "active_interstate_war": false,
+      "source_ids": [
+        "US_CN_2009"
+      ],
+      "reason_ru": "Спор о статусе при сближении через пролив с 2008 года. ECFA ещё не подписано на 1 января 2010 года."
+    },
+    {
+      "countries": [
+        "AFG",
+        "USA"
+      ],
+      "game_score": 35,
+      "political_status": "security_cooperation_with_government",
+      "diplomatic_relations": "established",
+      "active_interstate_war": false,
+      "source_ids": [
+        "AFGHAN_2009"
+      ],
+      "reason_ru": "Сотрудничество с правительством Афганистана в борьбе с повстанцами. Война с Талибаном не превращается в войну против государства AFG."
+    },
+    {
+      "countries": [
+        "IRQ",
+        "USA"
+      ],
+      "game_score": 30,
+      "political_status": "security_cooperation_with_government",
+      "diplomatic_relations": "established",
+      "active_interstate_war": false,
+      "source_ids": [
+        "IRAQ_2009"
+      ],
+      "reason_ru": "Стратегическое рамочное соглашение действует с января 2009 года. Нынешнее правительство Ирака не приравнивается к режиму Саддама Хусейна."
+    },
+    {
+      "countries": [
+        "ISR",
+        "USA"
+      ],
+      "game_score": 80,
+      "political_status": "close_security_partnership",
+      "diplomatic_relations": "established",
+      "active_interstate_war": false,
+      "source_ids": [
+        "US_ISR_2007"
+      ],
+      "reason_ru": "Тесное стратегическое сотрудничество и помощь. Это не равнозначно взаимному оборонному договору."
+    },
+    {
+      "countries": [
+        "EGY",
+        "ISR"
+      ],
+      "game_score": -5,
+      "political_status": "peace_treaty_with_political_distance",
+      "diplomatic_relations": "established",
+      "active_interstate_war": false,
+      "source_ids": [
+        "EGYPT_ISR"
+      ],
+      "reason_ru": "Мирный договор и дипломатические отношения сохраняются; политическая дистанция не превращается в действующую войну."
+    },
+    {
+      "countries": [
+        "ISR",
+        "JOR"
+      ],
+      "game_score": 10,
+      "political_status": "peace_treaty_with_political_distance",
+      "diplomatic_relations": "established",
+      "active_interstate_war": false,
+      "source_ids": [
+        "JORDAN_ISR"
+      ],
+      "reason_ru": "Мирный договор 1994 года действует; не военный союз."
+    },
+    {
+      "countries": [
+        "ERI",
+        "ETH"
+      ],
+      "game_score": -75,
+      "political_status": "postwar_border_standoff",
+      "diplomatic_relations": "not_reviewed",
+      "active_interstate_war": false,
+      "source_ids": [
+        "UNMEE"
+      ],
+      "reason_ru": "Алжирское соглашение 2000 года, неурегулированное противостояние после войны и завершение UNMEE в 2008 году. Примирение 2018 года ещё не произошло."
+    },
+    {
+      "countries": [
+        "SDN",
+        "TCD"
+      ],
+      "game_score": -20,
+      "political_status": "normalization_under_negotiation",
+      "diplomatic_relations": "not_reviewed",
+      "active_interstate_war": false,
+      "source_ids": [
+        "TCD_SDN_2009"
+      ],
+      "reason_ru": "После кризиса отношения уже улучшаются: встреча 25 декабря 2009 года. Полная нормализация января 2010 года ещё не считается завершённой."
+    },
+    {
+      "countries": [
+        "GRC",
+        "TUR"
+      ],
+      "game_score": 15,
+      "political_status": "alliance_with_unresolved_bilateral_disputes",
+      "diplomatic_relations": "established",
+      "active_interstate_war": false,
+      "source_ids": [
+        "GREECE_TURKEY",
+        "NATO"
+      ],
+      "reason_ru": "Обе страны в НАТО, но эгейские и кипрские разногласия сохраняются. Общий оборонный договор не задаёт автоматически высокую политическую оценку."
+    },
+    {
+      "countries": [
+        "ISR",
+        "LBN"
+      ],
+      "game_score": -80,
+      "political_status": "cessation_of_hostilities_without_peace",
+      "diplomatic_relations": "not_reviewed",
+      "active_interstate_war": false,
+      "source_ids": [
+        "UN1701"
+      ],
+      "reason_ru": "Резолюция 1701 после войны 2006 года: прекращение боевых действий не является мирным договором."
+    },
+    {
+      "countries": [
+        "ISR",
+        "SYR"
+      ],
+      "game_score": -80,
+      "political_status": "disengagement_without_peace",
+      "diplomatic_relations": "not_reviewed",
+      "active_interstate_war": false,
+      "source_ids": [
+        "UNDOF"
+      ],
+      "reason_ru": "Соглашение о разъединении и UNDOF, не мирный договор. Гражданская война в Сирии 2011 года ещё не началась."
+    }
+  ],
+  "explicit_exclusions": [
+    {
+      "id": "EAEU",
+      "reason_ru": "ЕАЭС начал действовать в 2015 году."
+    },
+    {
+      "id": "USMCA",
+      "reason_ru": "В 2010 году действует НАФТА, а не USMCA."
+    },
+    {
+      "id": "RCEP",
+      "reason_ru": "RCEP ещё не заключено и не вступило в силу."
+    },
+    {
+      "id": "CPTPP",
+      "reason_ru": "CPTPP ещё не заключено и не вступило в силу."
+    },
+    {
+      "id": "CIS_FTA_2011",
+      "reason_ru": "Многосторонний договор ЗСТ СНГ 2011 года ещё не действует; старые двусторонние договоры не равны этому договору."
+    },
+    {
+      "id": "EAC_COMMON_MARKET",
+      "reason_ru": "Вступит в силу 1 июля 2010 года, после даты старта."
+    },
+    {
+      "id": "US_KOREA_FTA",
+      "reason_ru": "Подписано в 2007, вступит в силу только в 2012 году."
+    },
+    {
+      "id": "EU_KOREA_FTA",
+      "reason_ru": "Применение начнётся в 2011 году."
+    },
+    {
+      "id": "AF_CFTA",
+      "reason_ru": "Африканская континентальная ЗСТ ещё не действует."
+    }
+  ],
+  "coverage_note_ru": "Именованные объединения и выбранные двусторонние договоры сверены для даты старта. Это не полный юридический реестр всех торговых договоров. COW дополнительно даёт формальные договорные связи; ООН — показатель совпадения голосований, не объективный индекс дипломатических отношений."
+}

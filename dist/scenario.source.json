@@ -4,6 +4,7 @@
   "start_date": "2010-01-01",
   "format": "aoc-world-source-v1",
   "native_import_ready": false,
+  "diplomacy_file": "diplomacy_2010.json",
   "map": {
     "width": 3600,
     "height": 1800,

@@ -1,0 +1,29 @@
+{
+  "as_of": "2010-01-01",
+  "vote_calendar_year": 2009,
+  "unvotes_commit": "7eb7034314ff79c49c9e0785fcd9d216fa04cf14",
+  "votes_source_url": "https://raw.githubusercontent.com/dgrtwo/unvotes/7eb7034314ff79c49c9e0785fcd9d216fa04cf14/data/un_votes.rda",
+  "roll_calls_source_url": "https://raw.githubusercontent.com/dgrtwo/unvotes/7eb7034314ff79c49c9e0785fcd9d216fa04cf14/data/un_roll_calls.rda",
+  "un_original_source": "https://doi.org/10.7910/DVN/LEJUQZ",
+  "un_credit": "Voeten, Strezhnev and Bailey; unvotes distribution by David Robinson (MIT)",
+  "cow_source_url": "https://correlatesofwar.org/wp-content/uploads/version4.1_csv.zip",
+  "cow_credit": "Correlates of War Formal Alliances v4.1; Douglas M. Gibler",
+  "upstream_sha256": {
+    "un_votes.rda": "cf814a48bc536e8f87f8e027942ac515fe6aae9d63cd71dd88ed718b14887e87",
+    "un_roll_calls.rda": "ff2070ae600cfd32176c6d149637306b9b677d6b910f48bec59a15357d673b4b",
+    "version4.1_csv.zip": "a2422bb361dcc4b0ab5ff0e46f65a7ab2b4c6eafa97bdd9910302dac75e786b6"
+  },
+  "sha256": {
+    "un_votes_2009.csv": "4461ec1b30395c3ea26b852b105aedbb57f0e3114d8137b03674d4c6f8b2c719",
+    "cow_alliances_2010.csv": "39f127e6e8a793d00a897286d12e334ce22c0ae64ed45ad7c28c95d08e5ded3a"
+  },
+  "vote_rows": 14680,
+  "roll_calls": 84,
+  "cow_rows": 1596,
+  "changes": "UN: only observed yes/abstain/no votes in calendar year 2009; COW: date-filtered dyadic records active on 2010-01-01, end date inclusive. No copied treaty descriptions.",
+  "cautions": [
+    "UN voting alignment is not a bilateral diplomatic relationship rating",
+    "COW categories describe formal commitments, not automatic military support",
+    "COW predecessor state names and treaty succession require review"
+  ]
+}

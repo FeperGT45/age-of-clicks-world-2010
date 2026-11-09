@@ -27,3 +27,10 @@ The GHSL city dataset in data/vendor/ghsl_mtuc_2010.csv and its derived city
 layers are licensed under Creative Commons Attribution 4.0 International
 (CC BY 4.0), copyright European Union, 1995-2026. These data are not licensed
 under MIT. See docs/CITIES.md for attribution, source links and modifications.
+
+The reduced factual extract of Correlates of War Formal Alliances v4.1 is
+attributed to the Correlates of War Project and Douglas M. Gibler; it is not
+relicensed under this project's MIT license. See docs/DIPLOMACY.md and the
+upstream dataset for provenance and source terms. UN voting observations are
+credited to Voeten, Strezhnev and Bailey, distributed through David Robinson's
+MIT-licensed unvotes package; see data/vendor/UNVOTES_LICENSE.txt.

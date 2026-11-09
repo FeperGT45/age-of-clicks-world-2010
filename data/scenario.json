@@ -1,0 +1,23 @@
+{
+  "id": "world-2010",
+  "title": "Мир 2010 — Age of Clicks",
+  "start_date": "2010-01-01",
+  "format": "aoc-world-source-v1",
+  "native_import_ready": false,
+  "map": {"width": 3600, "height": 1800, "ocean": "#172638"},
+  "merge_into": {"SDS": "SDN", "SOL": "SOM", "GRL": "DNK", "PRI": "USA", "NCL": "FRA", "ATF": "FRA", "FLK": "GBR"},
+  "exclude": ["ATA"],
+  "names": {
+    "SWZ": {"ru": "Свазиленд", "en": "Swaziland"},
+    "MKD": {"ru": "Македония", "en": "Macedonia"},
+    "CZE": {"ru": "Чешская Республика", "en": "Czech Republic"}
+  },
+  "geometry_patches": [
+    {"id": "crimea-2010", "from": "RUS", "to": "UKR", "outer_ring_bounds": [32.454174, 44.361479, 36.529998, 46.219573], "expected_polygons": 1}
+  ],
+  "blocs": {
+    "NATO": ["ALB", "BEL", "BGR", "CAN", "HRV", "CZE", "DNK", "EST", "FRA", "DEU", "GRC", "HUN", "ISL", "ITA", "LVA", "LTU", "LUX", "NLD", "NOR", "POL", "PRT", "ROU", "SVK", "SVN", "ESP", "TUR", "GBR", "USA"],
+    "EU": ["AUT", "BEL", "BGR", "CYP", "CZE", "DNK", "EST", "FIN", "FRA", "DEU", "GRC", "HUN", "IRL", "ITA", "LVA", "LTU", "LUX", "MLT", "NLD", "POL", "PRT", "ROU", "SVK", "SVN", "ESP", "SWE", "GBR"],
+    "CSTO": ["ARM", "BLR", "KAZ", "KGZ", "RUS", "TJK", "UZB"]
+  }
+}

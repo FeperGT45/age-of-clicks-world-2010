@@ -1,0 +1,199 @@
+tag,name_ru,name_en,color,geometry_status,blocs
+AFG,Афганистан,Afghanistan,#c8ac47,generalized_polygon,
+AGO,Ангола,Angola,#688984,generalized_polygon,
+ALB,Албания,Albania,#836757,generalized_polygon,NATO
+AND,Андорра,Andorra,#5dd76c,reference_point_only,
+ARE,Объединённые Арабские Эмираты,United Arab Emirates,#564e64,generalized_polygon,
+ARG,Аргентина,Argentina,#608c47,generalized_polygon,
+ARM,Армения,Armenia,#71ad7d,generalized_polygon,CSTO
+ATG,Антигуа и Барбуда,Antigua and Barbuda,#a952ac,reference_point_only,
+AUS,Австралия,Australia,#93ba83,generalized_polygon,
+AUT,Австрия,Austria,#78b266,generalized_polygon,EU
+AZE,Азербайджан,Azerbaijan,#cd9969,generalized_polygon,
+BDI,Бурунди,Burundi,#757d60,generalized_polygon,
+BEL,Бельгия,Belgium,#7a9f63,generalized_polygon,NATO;EU
+BEN,Бенин,Benin,#7c5853,generalized_polygon,
+BFA,Буркина-Фасо,Burkina Faso,#c3848a,generalized_polygon,
+BGD,Бангладеш,Bangladesh,#63af5e,generalized_polygon,
+BGR,Болгария,Bulgaria,#c18299,generalized_polygon,NATO;EU
+BHR,Бахрейн,Bahrain,#b66692,reference_point_only,
+BHS,Багамские Острова,The Bahamas,#7a5f7a,generalized_polygon,
+BIH,Босния и Герцеговина,Bosnia and Herzegovina,#a29ca6,generalized_polygon,
+BLR,Белоруссия,Belarus,#634a91,generalized_polygon,CSTO
+BLZ,Белиз,Belize,#7ed15a,generalized_polygon,
+BOL,Боливия,Bolivia,#6d7dc0,generalized_polygon,
+BRA,Бразилия,Brazil,#54779c,generalized_polygon,
+BRB,Барбадос,Barbados,#6b6b94,reference_point_only,
+BRN,Бруней,Brunei,#c9ba61,generalized_polygon,
+BTN,Бутан,Bhutan,#d5c680,generalized_polygon,
+BWA,Ботсвана,Botswana,#988561,generalized_polygon,
+CAF,Центральноафриканская Республика,Central African Republic,#78d66d,generalized_polygon,
+CAN,Канада,Canada,#6692b6,generalized_polygon,NATO
+CHE,Швейцария,Switzerland,#43757c,generalized_polygon,
+CHL,Чили,Chile,#b84a4a,generalized_polygon,
+CHN,Китайская Народная Республика,People's Republic of China,#5b9d72,generalized_polygon,
+CIV,Кот-д’Ивуар,Ivory Coast,#7ed554,generalized_polygon,
+CMR,Камерун,Cameroon,#917471,generalized_polygon,
+COD,Демократическая Республика Конго,Democratic Republic of the Congo,#6acca3,generalized_polygon,
+COG,Республика Конго,Republic of the Congo,#b3944b,generalized_polygon,
+COL,Колумбия,Colombia,#bf6499,generalized_polygon,
+COM,Коморы,Comoros,#9c735d,reference_point_only,
+CPV,Кабо-Верде,Cape Verde,#9fd36c,reference_point_only,
+CRI,Коста-Рика,Costa Rica,#839541,generalized_polygon,
+CUB,Куба,Cuba,#8da776,generalized_polygon,
+CYN,Турецкая Республика Северного Кипра,Turkish Republic of Northern Cyprus,#9b6577,generalized_polygon,
+CYP,Кипр,Cyprus,#c994af,generalized_polygon,EU
+CZE,Чешская Республика,Czech Republic,#8e5f50,generalized_polygon,NATO;EU
+DEU,Германия,Germany,#959195,generalized_polygon,NATO;EU
+DJI,Джибути,Djibouti,#6c9742,generalized_polygon,
+DMA,Доминика,Dominica,#456ed9,reference_point_only,
+DNK,Дания,Denmark,#8e7a74,generalized_polygon,NATO;EU
+DOM,Доминиканская Республика,Dominican Republic,#907375,generalized_polygon,
+DZA,Алжир,Algeria,#719d6c,generalized_polygon,
+ECU,Эквадор,Ecuador,#b97847,generalized_polygon,
+EGY,Египет,Egypt,#df6465,generalized_polygon,
+ERI,Эритрея,Eritrea,#8d8444,generalized_polygon,
+ESP,Испания,Spain,#79939e,generalized_polygon,NATO;EU
+EST,Эстония,Estonia,#63415d,generalized_polygon,NATO;EU
+ETH,Эфиопия,Ethiopia,#9443b6,generalized_polygon,
+FIN,Финляндия,Finland,#ba5496,generalized_polygon,EU
+FJI,Фиджи,Fiji,#95c753,generalized_polygon,
+FRA,Франция,France,#da8c57,generalized_polygon,NATO;EU
+FSM,Федеративные Штаты Микронезии,Federated States of Micronesia,#75a542,reference_point_only,
+GAB,Габон,Gabon,#814958,generalized_polygon,
+GBR,Великобритания,United Kingdom,#419c4c,generalized_polygon,NATO;EU
+GEO,Грузия,Georgia,#457658,generalized_polygon,
+GHA,Гана,Ghana,#5a7c6a,generalized_polygon,
+GIN,Гвинея,Guinea,#4c4456,generalized_polygon,
+GMB,Гамбия,The Gambia,#5c45c5,generalized_polygon,
+GNB,Гвинея-Бисау,Guinea-Bissau,#7e9678,generalized_polygon,
+GNQ,Экваториальная Гвинея,Equatorial Guinea,#4266c8,generalized_polygon,
+GRC,Греция,Greece,#c85c9e,generalized_polygon,NATO;EU
+GRD,Гренада,Grenada,#639240,reference_point_only,
+GTM,Гватемала,Guatemala,#809f8d,generalized_polygon,
+GUY,Гайана,Guyana,#457073,generalized_polygon,
+HND,Гондурас,Honduras,#849768,generalized_polygon,
+HRV,Хорватия,Croatia,#4facbc,generalized_polygon,NATO
+HTI,Республика Гаити,Haiti,#d95488,generalized_polygon,
+HUN,Венгрия,Hungary,#74ceb0,generalized_polygon,NATO;EU
+IDN,Индонезия,Indonesia,#8091c1,generalized_polygon,
+IND,Индия,India,#685e78,generalized_polygon,
+IRL,Ирландия,Ireland,#a2b691,generalized_polygon,EU
+IRN,Иран,Iran,#825466,generalized_polygon,
+IRQ,Ирак,Iraq,#455376,generalized_polygon,
+ISL,Исландия,Iceland,#71d941,generalized_polygon,NATO
+ISR,Израиль,Israel,#d99b9e,generalized_polygon,
+ITA,Италия,Italy,#8a766a,generalized_polygon,NATO;EU
+JAM,Ямайка,Jamaica,#614a51,generalized_polygon,
+JOR,Иордания,Jordan,#756bb3,generalized_polygon,
+JPN,Япония,Japan,#739a92,generalized_polygon,
+KAZ,Казахстан,Kazakhstan,#de4964,generalized_polygon,CSTO
+KEN,Кения,Kenya,#a068ba,generalized_polygon,
+KGZ,Киргизия,Kyrgyzstan,#d799a9,generalized_polygon,CSTO
+KHM,Камбоджа,Cambodia,#585fb2,generalized_polygon,
+KIR,Кирибати,Kiribati,#9ca55f,reference_point_only,
+KNA,Сент-Китс и Невис,Saint Kitts and Nevis,#716666,reference_point_only,
+KOR,Республика Корея,South Korea,#7f6e69,generalized_polygon,
+KOS,Республика Косово,Kosovo,#89c142,generalized_polygon,
+KWT,Кувейт,Kuwait,#514c4d,generalized_polygon,
+LAO,Лаос,Laos,#707a43,generalized_polygon,
+LBN,Ливан,Lebanon,#6f558a,generalized_polygon,
+LBR,Либерия,Liberia,#50d67a,generalized_polygon,
+LBY,Ливия,Libya,#659743,generalized_polygon,
+LCA,Сент-Люсия,Saint Lucia,#7b9262,reference_point_only,
+LIE,Лихтенштейн,Liechtenstein,#4a7d95,reference_point_only,
+LKA,Шри-Ланка,Sri Lanka,#dc9a9a,generalized_polygon,
+LSO,Лесото,Lesotho,#7469af,generalized_polygon,
+LTU,Литва,Lithuania,#817379,generalized_polygon,NATO;EU
+LUX,Люксембург,Luxembourg,#98cf42,generalized_polygon,NATO;EU
+LVA,Латвия,Latvia,#47488f,generalized_polygon,NATO;EU
+MAR,Марокко,Morocco,#c94466,generalized_polygon,
+MCO,Монако,Monaco,#5d6f56,reference_point_only,
+MDA,Молдавия,Moldova,#9a83d9,generalized_polygon,
+MDG,Мадагаскар,Madagascar,#7ea568,generalized_polygon,
+MDV,Мальдивы,Maldives,#6a5a7c,reference_point_only,
+MEX,Мексика,Mexico,#696084,generalized_polygon,
+MHL,Маршалловы Острова,Marshall Islands,#536b5c,reference_point_only,
+MKD,Македония,Macedonia,#935969,generalized_polygon,
+MLI,Мали,Mali,#b87a58,generalized_polygon,
+MLT,Мальта,Malta,#b8c898,reference_point_only,EU
+MMR,Мьянма,Myanmar,#9ac998,generalized_polygon,
+MNE,Черногория,Montenegro,#49d567,generalized_polygon,
+MNG,Монголия,Mongolia,#52545c,generalized_polygon,
+MOZ,Мозамбик,Mozambique,#7b9846,generalized_polygon,
+MRT,Мавритания,Mauritania,#7386cc,generalized_polygon,
+MUS,Маврикий,Mauritius,#964cbc,reference_point_only,
+MWI,Малави,Malawi,#73427b,generalized_polygon,
+MYS,Малайзия,Malaysia,#c76289,generalized_polygon,
+NAM,Намибия,Namibia,#51626f,generalized_polygon,
+NER,Нигер,Niger,#c78f51,generalized_polygon,
+NGA,Нигерия,Nigeria,#456b97,generalized_polygon,
+NIC,Никарагуа,Nicaragua,#a57fc5,generalized_polygon,
+NLD,Нидерланды,Netherlands,#4c74aa,generalized_polygon,NATO;EU
+NOR,Норвегия,Norway,#76a0ba,generalized_polygon,NATO
+NPL,Непал,Nepal,#d89c80,generalized_polygon,
+NRU,Науру,Nauru,#ce5592,reference_point_only,
+NZL,Новая Зеландия,New Zealand,#9783af,generalized_polygon,
+OMN,Оман,Oman,#80765f,generalized_polygon,
+PAK,Пакистан,Pakistan,#da625e,generalized_polygon,
+PAN,Панама,Panama,#86609b,generalized_polygon,
+PER,Перу,Peru,#a5c28b,generalized_polygon,
+PHL,Филиппины,Philippines,#92ac43,generalized_polygon,
+PLW,Палау,Palau,#c547b1,reference_point_only,
+PNG,Папуа — Новая Гвинея,Papua New Guinea,#b9a160,generalized_polygon,
+POL,Польша,Poland,#7f408f,generalized_polygon,NATO;EU
+PRK,КНДР,North Korea,#71ad8a,generalized_polygon,
+PRT,Португалия,Portugal,#849db6,generalized_polygon,NATO;EU
+PRY,Парагвай,Paraguay,#6f93d9,generalized_polygon,
+PSX,Палестина,Palestine,#4540b7,generalized_polygon,
+QAT,Катар,Qatar,#4e8b5e,generalized_polygon,
+ROU,Румыния,Romania,#4a6a54,generalized_polygon,NATO;EU
+RUS,Россия,Russia,#6eb472,generalized_polygon,CSTO
+RWA,Руанда,Rwanda,#996468,generalized_polygon,
+SAH,Западная Сахара,Western Sahara,#94656d,generalized_polygon,
+SAU,Саудовская Аравия,Saudi Arabia,#637bd2,generalized_polygon,
+SDN,Судан,Sudan,#d8b7b7,generalized_polygon,
+SEN,Сенегал,Senegal,#ab40dc,generalized_polygon,
+SGP,Сингапур,Singapore,#40b3db,reference_point_only,
+SLB,Соломоновы Острова,Solomon Islands,#995d87,generalized_polygon,
+SLE,Сьерра-Леоне,Sierra Leone,#c747d0,generalized_polygon,
+SLV,Сальвадор,El Salvador,#475a52,generalized_polygon,
+SMR,Сан-Марино,San Marino,#96bc60,reference_point_only,
+SOM,Сомали,Somalia,#60868a,generalized_polygon,
+SRB,Сербия,Serbia,#ab7052,generalized_polygon,
+STP,Сан-Томе и Принсипи,Sao Tome and Principe,#8e7789,reference_point_only,
+SUR,Суринам,Suriname,#84c394,generalized_polygon,
+SVK,Словакия,Slovakia,#92d47a,generalized_polygon,NATO;EU
+SVN,Словения,Slovenia,#a24a94,generalized_polygon,NATO;EU
+SWE,Швеция,Sweden,#84926b,generalized_polygon,EU
+SWZ,Свазиленд,Swaziland,#87cc4d,generalized_polygon,
+SYC,Сейшелы,Seychelles,#d2ac6b,reference_point_only,
+SYR,Сирия,Syria,#6ac897,generalized_polygon,
+TCD,Чад,Chad,#7db56c,generalized_polygon,
+TGO,Того,Togo,#827258,generalized_polygon,
+THA,Таиланд,Thailand,#c765cf,generalized_polygon,
+TJK,Таджикистан,Tajikistan,#498dc8,generalized_polygon,CSTO
+TKM,Туркмения,Turkmenistan,#9ad761,generalized_polygon,
+TLS,Восточный Тимор,East Timor,#7161ce,generalized_polygon,
+TON,Тонга,Tonga,#5a8259,reference_point_only,
+TTO,Тринидад и Тобаго,Trinidad and Tobago,#72a077,generalized_polygon,
+TUN,Тунис,Tunisia,#7fa095,generalized_polygon,
+TUR,Турция,Turkey,#b47043,generalized_polygon,NATO
+TUV,Тувалу,Tuvalu,#629876,reference_point_only,
+TWN,Тайвань,Taiwan,#b9925b,generalized_polygon,
+TZA,Танзания,Tanzania,#c19d48,generalized_polygon,
+UGA,Уганда,Uganda,#4a5851,generalized_polygon,
+UKR,Украина,Ukraine,#a25f5f,generalized_polygon,
+URY,Уругвай,Uruguay,#a05e99,generalized_polygon,
+USA,США,United States of America,#4a9a53,generalized_polygon,NATO
+UZB,Узбекистан,Uzbekistan,#6b78db,generalized_polygon,CSTO
+VAT,Ватикан,Vatican City,#88c541,reference_point_only,
+VCT,Сент-Винсент и Гренадины,Saint Vincent and the Grenadines,#b4a4dc,reference_point_only,
+VEN,Венесуэла,Venezuela,#768c72,generalized_polygon,
+VNM,Вьетнам,Vietnam,#964d8c,generalized_polygon,
+VUT,Вануату,Vanuatu,#968950,generalized_polygon,
+WSM,Самоа,Samoa,#68776c,reference_point_only,
+YEM,Йемен,Yemen,#607153,generalized_polygon,
+ZAF,ЮАР,South Africa,#637c92,generalized_polygon,
+ZMB,Замбия,Zambia,#8d5d7b,generalized_polygon,
+ZWE,Зимбабве,Zimbabwe,#5c7793,generalized_polygon,

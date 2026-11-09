@@ -1,0 +1,14 @@
+{
+  "format": "aoc-world-source-v1",
+  "start_date": "2010-01-01",
+  "native_import_ready": false,
+  "polygon_entities": 169,
+  "point_only_entities": 29,
+  "sha256": {
+    "world_2010.geojson": "4317d30f041f41163c74b058456113363e1e45fd1cbf6701b6a7354f9adcab9c",
+    "scenario.source.json": "e12470a17f4b380fb409d7d3f69a998a648f4f64327f6f5f56ccf9f046cafd07",
+    "events.design.json": "746db58fc97aa04c60b8936d1477761302e07390f80fdd00f0b56e733b7363c8",
+    "world_2010.svg": "2f15b669491b329bc26409616cf081663ba6fceecb055f57d3be20960c58ad8c",
+    "countries.csv": "d393b065c5ae81edd5a1d273dc4e529634d656df6fffaa9a9757b76e9affa395"
+  }
+}
